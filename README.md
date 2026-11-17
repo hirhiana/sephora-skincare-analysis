@@ -22,7 +22,7 @@ KPI used throughout: **detractor rate** = share of reviews with 1–2 stars. (St
 |---|---|
 | `01_data_profiling_and_q1.ipynb` | Data profiling, cleaning (removes 22% syndicated duplicate reviews), KPI choice, where dissatisfaction concentrates and why |
 | `02_segments_and_price.ipynb` | Skin type and skin tone segments, sunscreen white cast, price vs. satisfaction (within-category comparison + logistic regression) |
-| `tableau/` | Tableau workbook and the summarized data it uses |
+| `Sephora_Dashboard_Public.twb`, `*.hyper`, `sephora_*.csv` | Tableau workbook, its extracts, and the summarized data it uses |
 | `fig_*.png` | Charts exported from the notebooks |
 | `requirements.txt` | Python libraries needed |
 
