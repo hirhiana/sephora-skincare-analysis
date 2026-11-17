@@ -1,0 +1,1312 @@
+product_id,product_name,brand,category,price_usd,price_tier,reviews,avg_star,detractor_rate,recommend_rate
+P107306,Renewing Eye Cream,Murad,Eye Care,89.0,3. $50-100,253,4.0316,0.1818,0.7089
+P114902,Goodbye Acne  Max Complexion Correction Pads,Peter Thomas Roth,Treatments,48.0,2. $25-50,1529,4.4199,0.0837,0.8713
+P12045,Grape Water Moisturizing Face Mist,Caudalie,Moisturizers,12.0,1. <$25,1685,4.4433,0.0724,0.8715
+P122651,Clarifying Lotion 1,CLINIQUE,Cleansers,20.0,1. <$25,199,4.5176,0.0603,0.8684
+P122661,7 Day Face Scrub Cream Rinse-Off Formula,CLINIQUE,Cleansers,26.0,2. $25-50,798,4.5251,0.0589,0.7978
+P122718,Exfoliating Face Scrub,CLINIQUE,Cleansers,26.0,2. $25-50,1195,4.6117,0.0552,0.821
+P122727,Repairwear Anti-Gravity Eye Cream,CLINIQUE,Eye Care,54.0,3. $50-100,282,4.1702,0.1064,0.8
+P122762,Rinse-Off Foaming Cleanser,CLINIQUE,Cleansers,23.5,1. <$25,821,4.4933,0.0755,0.7537
+P122767,All About Lips,CLINIQUE,Lip Balms & Treatments,28.0,2. $25-50,169,4.0178,0.1479,0.5385
+P122774,All About Eyes Eye Cream,CLINIQUE,Eye Care,37.0,2. $25-50,1635,4.0722,0.1278,0.7569
+P122782,Repairwear Intensive Lip Treatment,CLINIQUE,Lip Balms & Treatments,31.5,2. $25-50,270,4.2963,0.1148,0.7895
+P122876,Clarifying Lotion 4,CLINIQUE,Cleansers,20.0,1. <$25,224,4.4152,0.0625,0.8519
+P122881,Clarifying Lotion 3,CLINIQUE,Cleansers,20.0,1. <$25,914,4.3195,0.0963,0.837
+P122882,Clarifying Lotion 2,CLINIQUE,Cleansers,20.0,1. <$25,1372,4.3797,0.0918,0.8333
+P122900,Dramatically Different Moisturizing Gel,CLINIQUE,Moisturizers,32.5,2. $25-50,3976,4.4381,0.0782,0.8616
+P12295,Sugar Face Polish Exfoliator,fresh,Cleansers,64.0,3. $50-100,1068,4.5187,0.0693,0.8583
+P12336,Rose Face Mask,fresh,Masks,64.0,3. $50-100,2410,4.1884,0.1224,0.8299
+P12573,Intense Therapy Lip Balm SPF 25,Jack Black,Lip Balms & Treatments,10.0,1. <$25,3592,4.6821,0.0373,0.912
+P126301,Take The Day Off Cleansing Balm Makeup Remover,CLINIQUE,Cleansers,38.0,2. $25-50,4373,4.5294,0.0725,0.867
+P139000,All About Clean Liquid Facial Soap,CLINIQUE,Cleansers,23.5,1. <$25,2198,4.3699,0.0887,0.8598
+P164932,Minted Rose Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,8.0,1. <$25,1980,4.5222,0.0535,0.7893
+P173619,Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,Shiseido,Eye Care,70.0,3. $50-100,499,4.4208,0.0862,0.8593
+P173652,Bio-Performance Advanced Super Revitalizing Cream,Shiseido,Moisturizers,85.0,3. $50-100,357,4.5434,0.0644,0.8269
+P173726,Facial Cotton,Shiseido,Cleansers,13.0,1. <$25,2827,4.8284,0.0173,0.9526
+P174502,All About Eyes Rich Eye Cream,CLINIQUE,Eye Care,37.0,2. $25-50,1614,4.145,0.1121,0.7558
+P188306,Acne Solutions All-Over Clearing Treatment Oil-Free,CLINIQUE,Treatments,26.0,2. $25-50,703,4.0128,0.1593,0.8605
+P188307,Acne Solutions Clarifying Lotion,CLINIQUE,Cleansers,20.0,1. <$25,999,4.4084,0.0831,0.8661
+P188309,Acne Solutions Cleansing Foam,CLINIQUE,Cleansers,23.5,1. <$25,1037,4.1678,0.135,0.7945
+P196524,Acne Solutions Cleansing Bar For Face and Body,CLINIQUE,Cleansers,19.5,1. <$25,459,4.3638,0.0828,0.7551
+P196542,City Block Sheer Oil-Free Daily Face Protector Broad Spectrum SPF 25 Primer,CLINIQUE,Sunscreen,30.0,2. $25-50,480,4.1146,0.1208,0.8
+P201439,Redness Solutions Soothing Cleanser,CLINIQUE,Cleansers,26.5,2. $25-50,286,4.1643,0.1294,0.7797
+P201440,Redness Solutions with Probiotic Technology Daily Relief Cream,CLINIQUE,Moisturizers,56.0,3. $50-100,584,4.0017,0.1712,0.6786
+P203616,Glycol Lactic Radiance Renewal Mask,REN Clean Skincare,Masks,58.0,3. $50-100,1283,4.4022,0.085,0.9124
+P2043,Brumisateur Natural Mineral Water Facial Spray,Evian,Moisturizers,14.0,1. <$25,382,4.3927,0.089,0.875
+P205614,White Lucent Anti-Dark Circles Eye Cream,Shiseido,Eye Care,65.0,3. $50-100,392,3.5893,0.273,0.5948
+P214002,Evercalm Barrier Support Antioxidant Moisturizer,REN Clean Skincare,Moisturizers,52.0,3. $50-100,1030,4.2039,0.1165,0.8306
+P217513,Black Tea Instant Perfecting Mask,fresh,Masks,96.0,3. $50-100,908,4.2919,0.0969,0.8739
+P217931,Tonique Radiance Clarifying Refining Toner,Lancôme,Cleansers,31.0,2. $25-50,164,4.0976,0.128,0.7619
+P217932,Crème Radiance Gentle Cleansing Creamy-Foam Cleanser,Lancôme,Cleansers,34.0,2. $25-50,394,4.4416,0.0914,0.8362
+P218700,100 percent Pure Argan Oil,Josie Maran,Moisturizers,49.0,2. $25-50,7762,4.4997,0.0692,0.8593
+P230538,Brumisateur Natural Mineral Water Facial Spray Travel Duo,Evian,Moisturizers,17.0,1. <$25,1550,4.5632,0.0387,0.8768
+P232327,Broad Spectrum SPF 50 Sunscreen Face Cream,CLINIQUE,Sunscreen,30.0,2. $25-50,238,3.9706,0.1723,0.589
+P232902,Gentle Daily Wash,Kate Somerville,Cleansers,44.0,2. $25-50,220,4.1909,0.1409,0.8333
+P232903,EradiKate Acne Treatment,Kate Somerville,Treatments,28.0,2. $25-50,3153,4.2242,0.1281,0.7765
+P232906,Oil Free Moisturizer,Kate Somerville,Moisturizers,76.0,3. $50-100,705,4.1489,0.1404,0.7355
+P232907,Anti Bac Acne Clearing Lotion,Kate Somerville,Treatments,56.0,3. $50-100,610,4.459,0.0803,0.9103
+P232910,Goat Milk Moisturizing Cream,Kate Somerville,Moisturizers,76.0,3. $50-100,623,4.0449,0.1493,0.7056
+P232915,ExfoliKate Intensive Pore Exfoliating Treatment,Kate Somerville,Cleansers,98.0,3. $50-100,2991,4.4363,0.0769,0.8964
+P244701,Acne Solutions Oil-Control Cleansing Mask,CLINIQUE,Masks,29.0,2. $25-50,281,4.4769,0.0463,0.875
+P248404,Pure Skin Face Cleanser,First Aid Beauty,Cleansers,24.0,1. <$25,4728,4.3737,0.0979,0.8512
+P248407,Ultra Repair Cream Intense Hydration,First Aid Beauty,Moisturizers,38.0,2. $25-50,7535,4.518,0.0745,0.8339
+P251529,Retinol Fusion PM Night Serum,Peter Thomas Roth,Treatments,65.0,3. $50-100,564,4.3262,0.1046,0.7778
+P254720,Acne Control Clarifying Cream Cleanser,Murad,Cleansers,39.0,2. $25-50,905,4.347,0.105,0.8318
+P257537,All About Eyes Serum De-Puffing Eye Massage,CLINIQUE,Eye Care,37.0,2. $25-50,904,3.7721,0.1969,0.557
+P266126,Rosebud Salve in a Tube,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,1. <$25,2399,4.3797,0.0942,0.7866
+P268700,Hydro-Dynamic Ultimate Moisture,Murad,Moisturizers,83.0,3. $50-100,446,4.3565,0.1121,0.7372
+P269122,Alpha Beta Extra Strength Daily Peel Pads,Dr. Dennis Gross Skincare,Treatments,92.0,3. $50-100,7413,4.5451,0.0424,0.9402
+P270543,Hydrating Face Cream Moisturizer,Bobbi Brown,Moisturizers,66.0,3. $50-100,223,4.2242,0.1211,0.8852
+P270544,Hydrating Eye Cream,Bobbi Brown,Eye Care,58.0,3. $50-100,404,4.099,0.1262,0.8413
+P270594,Vitamin Enriched Face Base Priming Moisturizer,Bobbi Brown,Moisturizers,66.0,3. $50-100,3440,4.6058,0.0416,0.937
+P271682,Instant FIRMx Temporary Face Tightener,Peter Thomas Roth,Treatments,49.0,2. $25-50,477,3.5577,0.3145,0.5385
+P278317,Facial Radiance Pads,First Aid Beauty,Treatments,36.0,2. $25-50,2562,4.274,0.112,0.8453
+P281835,GLO Brilliant White Smile - At Home Teeth Whitening Device,GLO Science,Value & Gift Sets,159.0,4. $100+,777,3.9974,0.1879,0.7554
+P282920,Pore Refining Solutions Correcting Serum,CLINIQUE,Treatments,55.0,3. $50-100,408,3.8603,0.2181,0.7333
+P282935,Regenerative Anti-Aging Moisturizer,Algenist,Moisturizers,94.0,3. $50-100,220,4.2682,0.1318,0.5833
+P283106,Instant FIRMx Eye Temporary Eye Tightener,Peter Thomas Roth,Eye Care,38.0,2. $25-50,628,3.3217,0.3774,0.471
+P283501,Argan Cleansing Oil,Josie Maran,Moisturizers,36.0,2. $25-50,2017,4.0496,0.1706,0.7003
+P294018,Cleansing Spa Water Cloths,Koh Gen Do,Cleansers,23.0,1. <$25,284,4.4789,0.0845,0.7879
+P296413,Gentle Rejuvenating Cleanser,Algenist,Cleansers,28.0,2. $25-50,264,4.2689,0.0985,0.7069
+P296415,Overnight Restorative Cream,Algenist,Moisturizers,94.0,3. $50-100,237,4.3924,0.097,0.7083
+P297516,Checks and Balances Frothy Face Wash,Origins,Cleansers,27.0,2. $25-50,3285,4.2886,0.1227,0.8259
+P297517,Super Spot Remover Acne Treatment Gel,Origins,Treatments,20.0,1. <$25,1704,3.936,0.1937,0.7278
+P297524,Clear Improvement Active Charcoal Mask to Clear Pores,Origins,Masks,17.0,1. <$25,4526,4.3292,0.0853,0.8692
+P297531,Eye Doctor Moisture Care For Skin Around Eyes,Origins,Eye Care,49.0,2. $25-50,501,4.0519,0.1437,0.7416
+P297551,Out of Trouble 10 Minute Mask to Rescue Problem Skin,Origins,Masks,32.0,2. $25-50,1000,4.397,0.091,0.8634
+P302103,Sugar Advanced Lip Balm Intense Hydration Treatment,fresh,Lip Balms & Treatments,28.0,2. $25-50,2956,4.2848,0.1272,0.7877
+P302900,Turnaround Revitalizing Serum,CLINIQUE,Treatments,53.0,3. $50-100,138,4.3261,0.1087,0.7692
+P306941,DermalQuench Hyaluronic Acid Hydration Treatment,Kate Somerville,Treatments,110.0,4. $100+,602,4.1811,0.1179,0.8632
+P309306,Juno Antioxidant + Superfood Face Oil,Sunday Riley,Moisturizers,72.0,3. $50-100,583,4.3328,0.1149,0.8074
+P309308,Good Genes All-In-One AHA Lactic Acid Treatment,Sunday Riley,Treatments,122.0,4. $100+,5400,4.3374,0.123,0.8452
+P309310,Ceramic Slip French Green Clay Cleanser,Sunday Riley,Cleansers,35.0,2. $25-50,951,3.8465,0.2008,0.7371
+P311143,SUBLIME DEFENSE Ultra Lightweight UV Defense Fluid SPF 50,Algenist,Sunscreen,28.0,2. $25-50,508,4.4134,0.0886,0.8147
+P34402,Acne Control Clarifying Body Spray,Murad,Treatments,48.0,2. $25-50,635,4.2898,0.1039,0.8758
+P3550,Goodbye Acne AHA/BHA Acne Clearing Gel Face Body Spot Treatment,Peter Thomas Roth,Treatments,48.0,2. $25-50,625,4.2768,0.12,0.7899
+P3617,Therapeutic Sulfur Acne Treatment Mask,Peter Thomas Roth,Masks,52.0,3. $50-100,1214,4.5099,0.0684,0.8567
+P374841,Even Better Eyes Dark Circle Corrector,CLINIQUE,Eye Care,44.0,2. $25-50,383,3.2428,0.376,0.3929
+P375534,Ultra Repair Face Moisturizer,First Aid Beauty,Moisturizers,28.0,2. $25-50,989,4.1972,0.1274,0.8028
+P375841,Advanced Génifique Yeux Light-Pearl Eye Serum,Lancôme,Eye Care,80.0,3. $50-100,1002,4.0968,0.0888,0.83
+P375849,Facial Treatment Essence (Pitera Essence),SK-II,Moisturizers,245.0,4. $100+,2948,4.0807,0.1347,0.7699
+P375850,Facial Treatment Cleanser,SK-II,Cleansers,75.0,3. $50-100,871,4.132,0.0769,0.7839
+P375852,Pitera Facial Treatment Mask,SK-II,Masks,145.0,4. $100+,434,4.2972,0.1198,0.7647
+P375853,Facial Treatment Clear Lotion Toner,SK-II,Cleansers,80.0,3. $50-100,957,4.0825,0.1055,0.7787
+P376726,Maracuja Oil,tarte,Moisturizers,48.0,2. $25-50,2414,4.3948,0.1052,0.8183
+P377178,Rapid Collagen Infusion,Murad,Treatments,89.0,3. $50-100,125,4.128,0.16,0.7778
+P377368,D-Scar Scar Diminishing Serum,Kate Somerville,Treatments,56.0,3. $50-100,357,3.902,0.2297,0.7
+P377533,Alpha Beta Universal Daily Peel Pads,Dr. Dennis Gross Skincare,Treatments,92.0,3. $50-100,1379,4.4888,0.0812,0.894
+P377545,Maracuja C-Brighter Eye Treatment,tarte,Eye Care,39.0,2. $25-50,895,4.0022,0.1642,0.762
+P377561,FIRMx Exfoliating Peel Gel,Peter Thomas Roth,Treatments,49.0,2. $25-50,1686,4.5391,0.0813,0.8867
+P377570,Argan Infinity Cream Intensive Creamy Oil,Josie Maran,Moisturizers,28.0,2. $25-50,1197,4.5163,0.0727,0.8736
+P377576,Repairwear Laser Focus Wrinkle Correcting Eye Cream,CLINIQUE,Eye Care,54.0,3. $50-100,150,3.9067,0.24,0.7879
+P377577,Moisture Surge Overnight Face Mask,CLINIQUE,Masks,40.0,2. $25-50,461,4.4772,0.0824,0.8659
+P377919,Plantscription Anti-Aging Cleanser,Origins,Cleansers,36.0,2. $25-50,101,4.2871,0.1584,0.8409
+P378852,GinZing Ultra-Hydrating Energy-Boosting Cream,Origins,Moisturizers,36.0,2. $25-50,3135,4.401,0.073,0.865
+P379064,Lotus Balancing & Hydrating Natural Face Treatment Oil,Clarins,Moisturizers,65.0,3. $50-100,139,4.4029,0.1223,0.9722
+P379510,Advanced Génifique Radiance Boosting Face Serum,Lancôme,Treatments,132.0,4. $100+,1603,4.403,0.0792,0.8914
+P379707,Resurfacing BHA Glow Mask,Tata Harper,Masks,68.0,3. $50-100,846,4.3463,0.0946,0.8553
+P379709,Repairative Anti-Aging Moisturizer,Tata Harper,Moisturizers,130.0,4. $100+,136,3.4118,0.3309,0.5294
+P379710,Regenerating Exfoliating Cleanser,Tata Harper,Cleansers,88.0,3. $50-100,699,4.4649,0.0715,0.9062
+P379711,Rejuvenating Anti-Aging Serum,Tata Harper,Treatments,146.0,4. $100+,241,3.4232,0.3485,0.5379
+P379907,Advanced Anti-Aging Repairing Oil,Algenist,Moisturizers,82.0,3. $50-100,245,4.4531,0.102,0.9655
+P380000,"DayWear Advanced Multi-Protection Anti-Oxidant Moisturizer, Normal/Combination",Estée Lauder,Moisturizers,36.0,2. $25-50,297,4.3266,0.0303,0.8981
+P380027,Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask,Estée Lauder,Cleansers,30.0,2. $25-50,116,4.4397,0.0862,0.8704
+P381020,Vinoclean Cleansing Micellar Water,Caudalie,Cleansers,30.0,2. $25-50,662,4.0121,0.1722,0.7621
+P381030,Dramatically Different Moisturizing Lotion+,CLINIQUE,Moisturizers,32.5,2. $25-50,2123,3.9105,0.2087,0.759
+P38217,Renewing Cleansing Cream,Murad,Cleansers,45.0,2. $25-50,253,4.4625,0.0751,0.8621
+P382204,Cucumber Gel Mask Extreme Detoxifying Hydrator,Peter Thomas Roth,Masks,55.0,3. $50-100,534,4.1929,0.1311,0.8365
+P383052,Do Not Age with Dr. Brandt Moisturizing Neck Cream,Dr. Brandt Skincare,Moisturizers,67.0,3. $50-100,102,3.7745,0.2647,0.4773
+P383053,Do Not Age with Dr. Brandt Triple Peptide Eye Cream,Dr. Brandt Skincare,Eye Care,82.0,3. $50-100,146,4.0822,0.1986,0.6957
+P384537,GENIUS Ultimate Anti-Aging Cream,Algenist,Moisturizers,112.0,4. $100+,481,4.2183,0.1268,0.7607
+P384539,Deep Cleanser with Red Clay,First Aid Beauty,Cleansers,24.0,1. <$25,1062,4.2608,0.1168,0.8444
+P384778,Black Tea Firming and De-Puffing Eye Cream,fresh,Eye Care,68.0,3. $50-100,610,3.8787,0.2049,0.6839
+P384780,Pure Argan Milk Intensive Hydrating Treatment,Josie Maran,Treatments,56.0,3. $50-100,1089,4.0689,0.169,0.8086
+P384821,Take The Day Off  Cleansing Oil Makeup Remover,CLINIQUE,Moisturizers,34.5,2. $25-50,552,4.3297,0.1069,0.8609
+P385253,Dr. Andrew Weil For Origins Mega-Bright SPF 30 Skin Tone Correcting Oil-Free Moisturizer,Origins,Moisturizers,63.0,3. $50-100,207,4.0966,0.1498,0.7699
+P385262,Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body,Shiseido,Sunscreen,40.0,2. $25-50,137,3.8175,0.2409,0.5493
+P385320,Trinity + Eye and Lip Enhancer Attachment Bundle,NuFACE,High Tech Tools,449.0,4. $100+,105,3.4381,0.3333,0.6322
+P385432,Acne Solutions Clinical Clearing Gel,CLINIQUE,Treatments,32.0,2. $25-50,1065,4.2131,0.139,0.8458
+P385631,"Great Skin, Great Deal Set for Combination Oily Skin",CLINIQUE,Value & Gift Sets,32.5,2. $25-50,268,4.3321,0.1007,0.8678
+P385632,"Great Skin, Great Deal Set for Dry Combination Skin",CLINIQUE,Value & Gift Sets,32.5,2. $25-50,182,4.2143,0.1484,0.8519
+P385773,Hyaluronic Marine Hydration Booster,Dr. Dennis Gross Skincare,Treatments,72.0,3. $50-100,137,4.2555,0.1241,0.8132
+P386197,GinZing Refreshing Scrub Cleanser,Origins,Cleansers,27.0,2. $25-50,1621,4.4781,0.0413,0.8627
+P386739,Restorative Plumping + Brightening Eye Cream,Tata Harper,Eye Care,130.0,4. $100+,210,4.0952,0.1667,0.7882
+P386754,Daily Cleanse Clear Skin and Body Detox Supplement,HUM Nutrition,Wellness,26.0,2. $25-50,616,4.0584,0.1883,0.7672
+P386755,Collagen Love Skin Firming Supplement with Hyaluronic Acid & Vitamin C,HUM Nutrition,Wellness,40.0,2. $25-50,135,4.4074,0.0667,0.8906
+P387261,Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer,Peter Thomas Roth,Masks,60.0,3. $50-100,720,4.6611,0.0431,0.9231
+P387511,Immortelle Divine Cream,L'Occitane,Moisturizers,115.0,4. $100+,159,3.8805,0.2138,0.5846
+P388200,GENIUS Ultimate Anti-Aging Melting Cleanser,Algenist,Cleansers,38.0,2. $25-50,334,4.0569,0.1886,0.7593
+P388262,GENIUS Ultimate Anti-Aging Eye Cream,Algenist,Eye Care,74.0,3. $50-100,116,3.7759,0.2759,0.7179
+P388545,Perfect Cleansing Oil,Shiseido,Cleansers,35.0,2. $25-50,144,4.4514,0.0625,0.8652
+P391799,Black Tea Firming Overnight Mask,fresh,Masks,96.0,3. $50-100,482,4.1369,0.168,0.8227
+P391802,Needles No More Wrinkle Smoothing Cream,Dr. Brandt Skincare,Treatments,89.0,3. $50-100,508,3.5197,0.3209,0.748
+P392143,Tata's Daily Essentials Kit,Tata Harper,Value & Gift Sets,75.0,3. $50-100,120,3.65,0.2583,0.6538
+P392144,Purifying Pore Detox Cleanser,Tata Harper,Cleansers,88.0,3. $50-100,170,4.2059,0.1235,0.7778
+P392235,The Camellia Oil 2-in-1 Makeup Remover & Cleanser,Tatcha,Cleansers,50.0,2. $25-50,1834,4.4815,0.078,0.8753
+P392239,Menthol And Eucalyptus Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,1. <$25,401,4.0998,0.1571,0.809
+P392245,Virgin Marula Luxury Face Oil,Drunk Elephant,Moisturizers,68.0,3. $50-100,1648,4.3131,0.1323,0.8
+P392246,T.L.C. Framboos Glycolic Resurfacing Night Serum,Drunk Elephant,Treatments,90.0,3. $50-100,3433,4.3493,0.1197,0.8521
+P392248,Pekee Cleansing Bar,Drunk Elephant,Cleansers,28.0,2. $25-50,448,4.471,0.0982,0.8544
+P392249,JuJu Exfoliating Bar,Drunk Elephant,Cleansers,28.0,2. $25-50,383,4.47,0.0966,0.8316
+P392472,All About Clean Foaming Facial Soap,CLINIQUE,Cleansers,23.5,1. <$25,118,4.0254,0.1695,0.8095
+P392607,24K Gold Mask Pure Luxury Lift & Firm,Peter Thomas Roth,Masks,85.0,3. $50-100,197,3.4873,0.3147,0.5957
+P392608,Irish Moor Mud Purifying Black Mask,Peter Thomas Roth,Masks,60.0,3. $50-100,538,4.3717,0.1004,0.7923
+P392648,Extra Illuminating Moisture Balm,Bobbi Brown,Moisturizers,74.0,3. $50-100,165,3.3697,0.3273,0.531
+P39274,Anti-Aging Cleansing Gel,Peter Thomas Roth,Cleansers,39.0,2. $25-50,1600,4.3706,0.1006,0.8416
+P392945,GENIUS Ultimate Anti-Aging Vitamin C+ Serum,Algenist,Treatments,118.0,4. $100+,229,3.9825,0.1965,0.7292
+P393076,Ultra Repair Hydra-Firm Night Cream,First Aid Beauty,Moisturizers,44.0,2. $25-50,562,4.3114,0.105,0.8143
+P393501,Acne Solutions Cleansing Gel,CLINIQUE,Treatments,23.5,1. <$25,102,3.8725,0.2059,0.7826
+P393718,Luna Sleeping Retinoid Night Oil,Sunday Riley,Moisturizers,105.0,4. $100+,2442,4.0794,0.1826,0.7661
+P394124,Argan Daily Moisturizer Tinted SPF 47 Protect + Perfect,Josie Maran,Sunscreen,38.0,2. $25-50,488,4.0123,0.168,0.7721
+P394397,Invisiblur Perfecting Shield Broad Spectrum SPF 30 PA+++,Murad,Treatments,71.0,3. $50-100,772,3.9573,0.1982,0.7622
+P394624,The True Cream Moisturizing Bomb,belif,Moisturizers,38.0,2. $25-50,4501,4.563,0.0484,0.9259
+P394639,The True Cream Aqua Bomb,belif,Moisturizers,38.0,2. $25-50,7288,4.4841,0.0646,0.8978
+P394702,Plantscription Anti-Aging Power Eye Cream,Origins,Eye Care,58.0,3. $50-100,128,3.8281,0.2109,0.7429
+P394826,Flatter Me Digestive Enzyme Supplement,HUM Nutrition,Wellness,26.0,2. $25-50,399,4.2707,0.1103,0.8601
+P395389,GLO Brilliant Teeth Whitening GLO Vials 10 Pack plus Lip Care,GLO Science,High Tech Tools,65.0,3. $50-100,133,4.4211,0.0752,0.886
+P395417,Touch Home Permanent Hair Removal Device,iluminage,High Tech Tools,449.0,4. $100+,100,3.67,0.29,0.5926
+P395615,Pore Minimizing Instant Detox Mask,Caudalie,Masks,42.0,2. $25-50,1040,4.5038,0.0712,0.903
+P396623,Makeup Setting Spray Organic Sunscreen SPF 30,COOLA,Sunscreen,36.0,2. $25-50,624,3.3093,0.3478,0.5697
+P397310,PoreDermabrasion Pore Perfecting Exfoliator,Dr. Brandt Skincare,Cleansers,59.0,3. $50-100,316,4.2437,0.1139,0.8721
+P397465,Strawberry Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,8.0,1. <$25,112,4.1518,0.1518,0.7683
+P397622,Dermask Water Jet Soothing Hydra Solution,Dr. Jart+,Masks,7.0,1. <$25,129,4.0543,0.1783,0.7925
+P397623,Dermask Water Jet Vital Hydra Solution,Dr. Jart+,Masks,7.0,1. <$25,274,4.5511,0.0584,0.8947
+P397624,Dermask Micro Jet Clearing Solution,Dr. Jart+,Masks,9.0,1. <$25,321,4.4455,0.0935,0.8732
+P397890,Original Skin Retexturizing Mask with Rose Clay,Origins,Masks,32.0,2. $25-50,1768,4.6205,0.043,0.9403
+P398502,Personal Microderm Pro,PMD,High Tech Tools,199.0,4. $100+,124,4.4355,0.121,0.8641
+P398717,Dramatically Different Moisturizing Cream,CLINIQUE,Moisturizers,32.5,2. $25-50,164,4.4085,0.0976,0.8714
+P398761,Alpha Beta Ultra Gentle Daily Peel Pads for Sensitive Skin,Dr. Dennis Gross Skincare,Treatments,20.0,1. <$25,239,4.3389,0.1172,0.8467
+P399623,Luminous Dewy Skin Mist,Tatcha,Moisturizers,49.0,2. $25-50,2039,3.95,0.1893,0.7219
+P39970,Rose Floral Toner,fresh,Cleansers,15.0,1. <$25,937,4.1067,0.1323,0.7589
+P399755,GLO Lit Teeth Whitening Vials 7 Pack + Lip Care,GLO Science,High Tech Tools,49.0,2. $25-50,120,4.3917,0.075,0.8833
+P399932,Acne-Clear Invisible Dots,Peter Thomas Roth,Treatments,32.0,2. $25-50,555,3.4324,0.3387,0.5667
+P400203,Lapis Blue Tansy Face Oil - For Oily & Acne-Prone Skin,Herbivore,Moisturizers,74.0,3. $50-100,960,4.2448,0.1406,0.7845
+P400204,Phoenix Rosehip Anti-Aging Face Oil - For Dry Skin,Herbivore,Moisturizers,88.0,3. $50-100,342,4.4152,0.1053,0.8259
+P400205,Orchid Antioxidant Beauty Face Oil - For Combination Skin,Herbivore,Moisturizers,74.0,3. $50-100,241,4.3527,0.1162,0.8032
+P400207,Blue Tansy BHA and Enzyme Pore Refining Mask,Herbivore,Masks,50.0,2. $25-50,1930,4.2446,0.1363,0.7896
+P400259,C-Firma Fresh Vitamin-C Day Serum,Drunk Elephant,Treatments,78.0,3. $50-100,1604,4.1571,0.1303,0.803
+P4010,AHA/BHA Exfoliating Cleanser,Murad,Cleansers,46.0,2. $25-50,788,4.4975,0.0711,0.8582
+P4015,Clarifying Toner,Murad,Cleansers,30.0,2. $25-50,888,4.3198,0.0912,0.8278
+P4016,Acne Control Clarifying Cleanser,Murad,Cleansers,36.0,2. $25-50,2570,4.2358,0.128,0.8079
+P402014,Blue Moon Clean-Rinse Cleansing Balm,Sunday Riley,Cleansers,50.0,2. $25-50,276,4.2717,0.1304,0.7188
+P402718,Power Couple Advanced Retinol and Lactic Acid Duo,Sunday Riley,Value & Gift Sets,72.0,3. $50-100,1493,4.3007,0.1206,0.8415
+P402942,Silk Sleepmask,Slip,Wellness,50.0,2. $25-50,170,3.7706,0.2529,0.7042
+P402944,Silk Pillowcase - Standard/Queen,Slip,Wellness,89.0,3. $50-100,425,4.0047,0.1929,0.7393
+P4032,Hydrating Toner,Murad,Cleansers,42.0,2. $25-50,317,4.2934,0.1136,0.6769
+P403315,Gold Camellia Beauty Oil,Tatcha,Moisturizers,98.0,3. $50-100,180,4.4722,0.1111,0.8271
+P403748,Black Tea Corset Firming Serum,fresh,Treatments,75.0,3. $50-100,102,3.9118,0.2157,0.7105
+P403817,Pep-Start Eye Cream,CLINIQUE,Eye Care,32.0,2. $25-50,1006,3.6769,0.2266,0.6673
+P403818,Lippe Balm,Drunk Elephant,Lip Balms & Treatments,18.0,1. <$25,1901,3.738,0.213,0.6446
+P4039,Perfecting Day Cream Broad Spectrum SPF 30 PA+++,Murad,Moisturizers,65.0,3. $50-100,174,4.1724,0.1322,0.8077
+P404322,ExfoliKate Cleanser Daily Foaming Wash,Kate Somerville,Cleansers,44.0,2. $25-50,947,4.4488,0.0845,0.8486
+P404338,Whipped Argan Oil Face Butter,Josie Maran,Moisturizers,45.0,2. $25-50,1393,4.1429,0.1357,0.8157
+P404465,GLO Lit Teeth Whitening Vials 3 Pack,GLO Science,High Tech Tools,24.0,1. <$25,149,4.1409,0.1342,0.8255
+P404793,Sunshine Vitamin C + Squalane Face Oil,MILK MAKEUP,Moisturizers,39.0,2. $25-50,967,4.3713,0.0331,0.9007
+P404794,Hydrating Oil Stick,MILK MAKEUP,Moisturizers,32.0,2. $25-50,276,3.8478,0.2283,0.6802
+P404795,Cooling Water,MILK MAKEUP,Moisturizers,28.0,2. $25-50,1328,3.6755,0.256,0.6438
+P405096,SEA Deep Dive Cleansing Gel,tarte,Cleansers,12.0,1. <$25,1158,4.3092,0.1252,0.8093
+P405584,Baby Pekee Bar + Juju Bar Travel Duo,Drunk Elephant,Value & Gift Sets,16.0,1. <$25,599,4.3456,0.1068,0.8167
+P405599,SEA drink of H2O hydrating boost moisturizer,tarte,Moisturizers,39.0,2. $25-50,1748,4.2391,0.1339,0.7951
+P405826,Raw Beauty Skin & Energy Green Superfood Powder,HUM Nutrition,Wellness,39.0,2. $25-50,247,4.1903,0.1296,0.8235
+P405944,Ultra Sun Protection Lotion Broad Spectrum SPF 50+ WetForce for Sensitive Skin & Children,Shiseido,Sunscreen,42.0,2. $25-50,227,3.1762,0.3965,0.443
+P406104,24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches,Peter Thomas Roth,Eye Care,75.0,3. $50-100,322,3.7422,0.2671,0.6205
+P406712,B-Hydra Intensive Hydration Serum with Hyaluronic Acid,Drunk Elephant,Treatments,49.0,2. $25-50,2550,4.1863,0.131,0.8009
+P407040,Acne Solutions Acne + Line Correcting Serum,CLINIQUE,Treatments,52.0,3. $50-100,115,4.1304,0.1652,0.8372
+P407387,Beauty zzZz Sleep Support Supplement with Melatonin,HUM Nutrition,Wellness,10.0,1. <$25,215,4.1535,0.1535,0.8011
+P407444,Bamboo Charcoal Detoxifying Soap Bar,Herbivore,Cleansers,14.0,1. <$25,342,4.3012,0.1023,0.8292
+P407448,Self Tan Express Bronzing Mousse,St. Tropez,Self Tanners,46.0,2. $25-50,441,4.1111,0.1587,0.7953
+P407450,Self Tan Classic Bronzing Mousse,St. Tropez,Self Tanners,34.0,2. $25-50,515,4.2602,0.1184,0.8822
+P408230,V-Facial Instant Depuffing Face Mask,Clarins,Masks,67.0,3. $50-100,159,4.7547,0.0252,0.956
+P408301,Purifying Pore & Blackhead Detox Mask,Tata Harper,Masks,75.0,3. $50-100,129,3.845,0.2016,0.6071
+P409630,SEA Pack Your Bags Undereye Patches,tarte,Eye Care,22.0,1. <$25,298,4.1779,0.1275,0.8462
+P409631,SEA FRXXXTION Stick Exfoliating Cleanser,tarte,Cleansers,22.0,1. <$25,969,4.5315,0.0495,0.9026
+P409800,Cleansing & Exfoliating Wipes,SEPHORA COLLECTION,Cleansers,3.0,1. <$25,3836,4.3392,0.0967,0.8457
+P410400,U.F.O. Salicylic Acid BHA Acne Treatment Face Oil,Sunday Riley,Moisturizers,80.0,3. $50-100,2281,4.1337,0.1762,0.7902
+P410755,GenOptics Spot Essence Serum,SK-II,Moisturizers,225.0,4. $100+,104,4.1346,0.1154,0.5714
+P410756,GenOptics Aura Essence Serum,SK-II,Moisturizers,245.0,4. $100+,132,4.0758,0.1667,0.65
+P410883,Acne Clearing Wash,Peter Thomas Roth,Cleansers,39.0,2. $25-50,137,4.2263,0.1387,0.8182
+P411254,MAGNETIGHT Age-Defier Mask,Dr. Brandt Skincare,Masks,75.0,3. $50-100,306,3.9216,0.219,0.7323
+P411365,Retinol Youth Renewal Serum,Murad,Treatments,92.0,3. $50-100,1031,4.5878,0.0485,0.9321
+P411387,Superfood Antioxidant Cleanser,Youth To The People,Cleansers,39.0,2. $25-50,5861,4.2093,0.1326,0.8006
+P411388,Superfood Air-Whip Lightweight Moisturizer with Hyaluronic Acid,Youth To The People,Moisturizers,48.0,2. $25-50,1673,4.0502,0.1638,0.7505
+P411393,Bye Bye Redness Neutralizing Color-Correcting Cream,IT Cosmetics,Moisturizers,35.0,2. $25-50,934,4.1745,0.1306,0.8205
+P411401,Bye Bye Under Eye Brightening Eye Cream for Dark Circles,IT Cosmetics,Eye Care,49.5,2. $25-50,1025,4.0039,0.1854,0.7763
+P411403,Confidence in a Cream Anti-Aging Hydrating Moisturizer,IT Cosmetics,Moisturizers,20.0,1. <$25,2486,4.6183,0.0241,0.9497
+P411539,Cicapair Tiger Grass Cream,Dr. Jart+,Moisturizers,49.0,2. $25-50,1363,4.3228,0.1071,0.8487
+P411540,Cicapair Tiger Grass Color Correcting Treatment SPF 30,Dr. Jart+,Moisturizers,52.0,3. $50-100,5320,3.9898,0.1758,0.7448
+P411881,Retinol Firming Eye Cream,Kate Somerville,Eye Care,98.0,3. $50-100,131,3.4427,0.3282,0.4667
+P412025,Cucumber De-Tox Hydra-Gel Eye Patches,Peter Thomas Roth,Eye Care,55.0,3. $50-100,389,3.964,0.1568,0.7273
+P412117,Dry Skin Saver,Kate Somerville,Moisturizers,56.0,3. $50-100,114,4.307,0.114,0.764
+P413326,Camellia Gold Spun Lip Balm,Tatcha,Lip Balms & Treatments,30.0,2. $25-50,671,4.2802,0.0939,0.8296
+P413613,Pro Facial Steamer,Dr. Dennis Gross Skincare,High Tech Tools,159.0,4. $100+,134,4.1493,0.1567,0.8095
+P414293,Honey Savior All-in-One Skin Repair Salve,Farmacy,Moisturizers,34.0,2. $25-50,530,4.4358,0.0962,0.8512
+P414737,Pearly Girl Vegan Teeth Whitening Pen,tarte,High Tech Tools,25.0,1. <$25,479,4.1775,0.1378,0.8169
+P415202,Wrinkle Warrior 2-in-1 Plumping Moisturizer + Serum,Kate Somerville,Moisturizers,98.0,3. $50-100,359,3.7075,0.2479,0.6523
+P415237,Hello FAB Coconut Skin Smoothie Priming Moisturizer,First Aid Beauty,Moisturizers,32.0,2. $25-50,1825,4.1984,0.1364,0.8165
+P415619,Dreamskin Skin Perfector,Dior,Moisturizers,130.0,4. $100+,1457,4.3384,0.0556,0.874
+P415620,Evercalm Ultra Comforting Rescue Mask,REN Clean Skincare,Masks,52.0,3. $50-100,504,4.5159,0.0873,0.8842
+P415667,EradiKate Daily Cleanser Acne Treatment,Kate Somerville,Treatments,44.0,2. $25-50,624,4.2404,0.1442,0.8113
+P415701,Water Drench Hyaluronic Acid Moisturizer,Peter Thomas Roth,Moisturizers,54.0,3. $50-100,1830,4.2628,0.1361,0.8072
+P415747,Brazilian Kiss Cupuaçu Lip Butter,Sol de Janeiro,Lip Balms & Treatments,18.0,1. <$25,1355,4.1306,0.1387,0.7741
+P415771,The Essence Skincare Boosting Treatment,Tatcha,Moisturizers,110.0,4. $100+,2481,4.4438,0.0584,0.8878
+P415773,Pep-Start Daily UV Protector Broad Spectrum SPF 50,CLINIQUE,Sunscreen,23.0,1. <$25,366,4.2432,0.1339,0.8161
+P415777,T.L.C. Sukari Babyfacial AHA + BHA Mask,Drunk Elephant,Masks,80.0,3. $50-100,2553,4.2918,0.1332,0.8183
+P416312,Gentle Foaming Face Wash,Skin Laundry,Cleansers,20.0,1. <$25,194,4.2526,0.1186,0.7905
+P416341,Crème de la Mer Moisturizer,La Mer,Moisturizers,380.0,4. $100+,1377,4.0566,0.1823,0.7543
+P416344,The Cleansing Foam,La Mer,Cleansers,95.0,3. $50-100,119,4.0,0.1681,0.7027
+P416552,POWER Recharging Night Pressed Serum,Algenist,Treatments,95.0,3. $50-100,205,4.3854,0.1024,0.8375
+P416560,Squalane + Antioxidant Makeup Removing Cleansing Oil,Biossance,Cleansers,32.0,2. $25-50,637,4.0173,0.1727,0.7337
+P416561,Squalane + Probiotic Balancing Gel Moisturizer,Biossance,Moisturizers,54.0,3. $50-100,712,4.0927,0.1587,0.7587
+P416562,Squalane + Peptide Brightening & De-Puffing Eye Gel,Biossance,Eye Care,56.0,3. $50-100,652,3.6411,0.2669,0.6064
+P416563,Squalane + Vitamin C Rose Firming Oil,Biossance,Moisturizers,74.0,3. $50-100,1472,4.3492,0.0999,0.8438
+P416564,100% Sugarcane Squalane Oil,Biossance,Moisturizers,34.0,2. $25-50,476,4.5336,0.0693,0.8683
+P416755,Hyaluronic Marine Oil-Free Moisture Cushion,Dr. Dennis Gross Skincare,Moisturizers,65.0,3. $50-100,146,4.0342,0.1918,0.7559
+P416815,Find Your Balance Oil Control Cleanser,OLEHENRIKSEN,Cleansers,33.0,2. $25-50,1438,4.4277,0.0716,0.8367
+P416816,Balancing Force Oil Control Toner,OLEHENRIKSEN,Cleansers,35.0,2. $25-50,1674,4.3017,0.1099,0.7858
+P416824,Fresh Pressed Daily Booster with Pure Vitamin C 10%,CLINIQUE,Treatments,85.0,3. $50-100,157,3.9299,0.2102,0.7099
+P416825,FAB Skin Lab Retinol Serum 0.25% Pure Concentrate,First Aid Beauty,Treatments,58.0,3. $50-100,159,3.9811,0.1761,0.745
+P416923,Superfood Hydrate + Firm Peptide Eye Cream,Youth To The People,Eye Care,38.0,2. $25-50,326,3.6564,0.2423,0.6098
+P417238,Green Clean Makeup Removing Cleansing Balm,Farmacy,Cleansers,36.0,2. $25-50,6165,4.4955,0.0882,0.8731
+P417241,The Renewal Oil,La Mer,Moisturizers,270.0,4. $100+,199,4.4221,0.0804,0.8824
+P417242,The Lip Balm,La Mer,Lip Balms & Treatments,75.0,3. $50-100,191,3.9476,0.2094,0.675
+P417625,24/7 Retinol Eye Cream,Dr. Brandt Skincare,Eye Care,58.0,3. $50-100,108,3.9167,0.2037,0.7157
+P417867,The Silk Cream,Tatcha,Moisturizers,125.0,4. $100+,259,4.1853,0.1429,0.7667
+P417936,Rose & Hyaluronic Acid Deep Hydration Toner,fresh,Cleansers,46.0,2. $25-50,1351,4.1643,0.1436,0.7797
+P417980,City Skin Age Defense Broad Spectrum SPF 50 PA++++,Murad,Sunscreen,69.0,3. $50-100,351,4.3219,0.1168,0.8375
+P417984,Moisture Surge Hydrating Supercharged Concentrate,CLINIQUE,Moisturizers,44.0,2. $25-50,244,4.0246,0.1721,0.7333
+P418218,The Water Cream Oil-Free Pore Minimizing Moisturizer,Tatcha,Moisturizers,70.0,3. $50-100,4167,4.0235,0.1788,0.7345
+P418221,Organic Sunless Tan Anti-Aging Face Serum,COOLA,Self Tanners,54.0,3. $50-100,156,3.9744,0.2179,0.6591
+P418346,C.E.O. 15% Vitamin C Brightening Serum,Sunday Riley,Treatments,85.0,3. $50-100,1797,4.1119,0.148,0.7882
+P418629,C.E.O. Vitamin C Brightening Rich Hydration Moisturizer,Sunday Riley,Moisturizers,22.0,1. <$25,1100,3.9945,0.1891,0.7402
+P418872,Pore-Balance Facial Sauna Scrub,OLEHENRIKSEN,Cleansers,35.0,2. $25-50,878,4.5592,0.0615,0.885
+P419221,Umbra Tinte Physical Daily Defense SPF 30,Drunk Elephant,Sunscreen,36.0,2. $25-50,845,3.2982,0.3905,0.5205
+P419222,Umbra Sheer Physical Daily Defense SPF 30,Drunk Elephant,Sunscreen,34.0,2. $25-50,1361,3.3064,0.3343,0.5578
+P419223,Shaba Complex Firming Eye Serum,Drunk Elephant,Eye Care,60.0,3. $50-100,1062,3.8927,0.1798,0.7279
+P419633,ESPADA Blue Light Acne Treatment,FOREO,Treatments,159.0,4. $100+,142,3.8873,0.1972,0.7921
+P420143,Clarifying AHA + BHA Mask,Tata Harper,Masks,75.0,3. $50-100,250,3.916,0.188,0.7143
+P420158,Vitamin C Glow Moisturizer,fresh,Moisturizers,48.0,2. $25-50,419,4.2411,0.1193,0.8053
+P420224,Vinoperfect Brightening Glycolic Essence,Caudalie,Moisturizers,59.0,3. $50-100,533,4.2664,0.1332,0.8107
+P420230,Pout Prep Lip Exfoliant,tarte,Lip Balms & Treatments,16.0,1. <$25,205,4.1024,0.1415,0.759
+P420652,Lip Sleeping Mask Intense Hydration with Vitamin C,LANEIGE,Lip Balms & Treatments,24.0,1. <$25,16115,4.3503,0.1152,0.8296
+P420699,Violet-C Radiance Mask,Tatcha,Masks,70.0,3. $50-100,651,4.0507,0.1705,0.7472
+P421235,Double Serum Firming & Smoothing Anti-Aging Concentrate,Clarins,Treatments,90.0,3. $50-100,2607,4.2493,0.0514,0.8657
+P421243,Sugar Hydrating Lip Balm,fresh,Lip Balms & Treatments,19.0,1. <$25,2200,4.1995,0.1173,0.7946
+P421275,Salicylic Acid Acne Healing Dots,Peace Out,Treatments,19.0,1. <$25,4574,4.1771,0.1456,0.8111
+P421276,ExfoliKate Glow Moisturizer,Kate Somerville,Moisturizers,76.0,3. $50-100,1038,4.5145,0.0385,0.9333
+P421277,GENIUS Liquid Collagen Serum,Algenist,Treatments,115.0,4. $100+,1158,4.025,0.19,0.7627
+P421432,Rapid Relief Acne Spot Treatment,Murad,Treatments,26.0,2. $25-50,589,3.9253,0.1919,0.7522
+P421600,Jasmine Green Tea Oil Control Toner,Herbivore,Cleansers,39.0,2. $25-50,313,4.0767,0.1789,0.7376
+P421996,Ultra Facial Moisturizing Cream with Squalane,Kiehl's Since 1851,Moisturizers,78.0,3. $50-100,2516,4.4471,0.0803,0.8826
+P421997,Calendula Herbal Extract Alcohol Free Toner,Kiehl's Since 1851,Cleansers,47.0,2. $25-50,194,4.2216,0.1237,0.7688
+P421998,Midnight Recovery Concentrate Moisturizing Face Oil,Kiehl's Since 1851,Treatments,56.0,3. $50-100,1169,4.2147,0.148,0.7933
+P422000,Creamy Eye Treatment with Avocado,Kiehl's Since 1851,Eye Care,36.0,2. $25-50,1666,3.9982,0.1723,0.7466
+P422002,Rare Earth Deep Pore Minimizing Cleansing Clay Mask,Kiehl's Since 1851,Masks,45.0,2. $25-50,524,4.542,0.0649,0.883
+P422003,Daily Reviving Concentrate,Kiehl's Since 1851,Treatments,59.0,3. $50-100,138,4.3986,0.0942,0.8519
+P422007,Ultra Facial Cleanser,Kiehl's Since 1851,Cleansers,30.0,2. $25-50,857,4.3687,0.091,0.8588
+P422011,Ultra Facial Toner,Kiehl's Since 1851,Cleansers,24.0,1. <$25,182,4.2637,0.1538,0.8333
+P422012,Ultra Facial Cream Sunscreen SPF 30,Kiehl's Since 1851,Moisturizers,38.0,2. $25-50,158,3.8418,0.2278,0.6731
+P422013,Calendula Deep Clean Foaming Face Wash,Kiehl's Since 1851,Cleansers,38.0,2. $25-50,307,4.4951,0.0782,0.88
+P422022,Clearly Corrective Dark Spot Correcting Serum,Kiehl's Since 1851,Treatments,65.0,3. $50-100,913,3.8478,0.184,0.7381
+P42204,Rosebud Salve,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,1. <$25,5199,4.6453,0.0404,0.8528
+P42205,Strawberry Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,8.0,1. <$25,2439,4.5592,0.0435,0.8382
+P422248,Rare Earth Deep Pore Daily Cleanser,Kiehl's Since 1851,Cleansers,28.0,2. $25-50,188,4.2872,0.1223,0.8087
+P422257,Midnight Recovery Botanical Cleansing Oil,Kiehl's Since 1851,Cleansers,35.0,2. $25-50,226,4.2876,0.1106,0.8165
+P422430,Hydra Zen Gel-Cream Oil-Free Moisturizer with Salicylic Acid,Lancôme,Moisturizers,48.0,2. $25-50,1247,4.563,0.0281,0.9342
+P422536,Original Skin Matte Moisturizer with Willowherb,Origins,Moisturizers,40.0,2. $25-50,2304,4.4084,0.0729,0.8845
+P422905,Moisturizing Eye Bomb with Squalane,belif,Eye Care,48.0,2. $25-50,2964,4.4639,0.054,0.9022
+P423123,Daily Superfoliant Exfoliator,Dermalogica,Cleansers,65.0,3. $50-100,309,4.5631,0.0324,0.9385
+P423125,Ultracalming Serum Concentrate,Dermalogica,Treatments,66.0,3. $50-100,156,4.3077,0.0769,0.859
+P423127,Ultracalming Cleanser,Dermalogica,Cleansers,42.0,2. $25-50,199,4.4523,0.0503,0.8995
+P423130,MultiVitamin Power Recovery Mask,Dermalogica,Masks,65.0,3. $50-100,390,4.3667,0.0513,0.8949
+P423134,MultiVitamin Power Firm Eye Cream,Dermalogica,Eye Care,69.0,3. $50-100,204,4.1765,0.0735,0.8333
+P423135,Super Rich Repair Moisturizer,Dermalogica,Moisturizers,94.0,3. $50-100,226,4.6593,0.0133,0.9513
+P423136,Special Cleansing Gel,Dermalogica,Cleansers,42.0,2. $25-50,716,4.5196,0.0489,0.9106
+P423142,Active Moist Moisturizer,Dermalogica,Moisturizers,74.0,3. $50-100,427,4.6019,0.0398,0.9204
+P423148,Precleanse Cleansing Oil,Dermalogica,Cleansers,49.0,2. $25-50,1230,4.5431,0.0504,0.9138
+P423150,Multi-Active Toner,Dermalogica,Cleansers,43.0,2. $25-50,316,4.4114,0.0443,0.8892
+P423157,Sex Dust   Adaptogens For Fire*,Moon Juice,Wellness,38.0,2. $25-50,136,3.8529,0.2059,0.7353
+P423254,Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches,Peter Thomas Roth,Eye Care,55.0,3. $50-100,291,4.0619,0.1546,0.7663
+P423259,Cicapair Tiger Grass Serum,Dr. Jart+,Treatments,52.0,3. $50-100,1067,4.2624,0.1106,0.8397
+P424378,Mini Virgin Marula LuxuryFace Oil,Drunk Elephant,Moisturizers,38.0,2. $25-50,265,4.2415,0.1321,0.8264
+P424948,Auto Correct Brightening + Depuffing Eye Cream for Dark Circles,Sunday Riley,Eye Care,65.0,3. $50-100,1691,4.0272,0.1543,0.774
+P424986,THE BUTTER Illuminating Tanning Butter,TAN-LUXE,Self Tanners,38.0,2. $25-50,181,4.3425,0.105,0.8453
+P424988,THE FACE Illuminating Self-Tan Drops,TAN-LUXE,Self Tanners,50.0,2. $25-50,471,3.9894,0.1996,0.7473
+P424989,THE BODY Illuminating Self-Tan Drops,TAN-LUXE,Self Tanners,60.0,3. $50-100,194,4.1804,0.1546,0.8093
+P424990,THE GRADUAL Illuminating Gradual Tan Lotion,TAN-LUXE,Self Tanners,34.0,2. $25-50,172,4.093,0.1686,0.8023
+P426080,Lotus Youth Preserve Rescue Mask,fresh,Masks,69.0,3. $50-100,488,4.3484,0.1148,0.8627
+P426340,The Rice Polish Foaming Enzyme Powder,Tatcha,Cleansers,68.0,3. $50-100,1722,4.428,0.0941,0.8608
+P426707,Hello FAB Coconut Water Cream,First Aid Beauty,Moisturizers,36.0,2. $25-50,1071,4.0028,0.1923,0.7526
+P426829,Confidence in a Cleanser Hydrating Facial Cleanser Serum,IT Cosmetics,Cleansers,29.0,2. $25-50,412,4.4733,0.0971,0.8471
+P426836,Beste No. 9 Jelly Cleanser,Drunk Elephant,Cleansers,34.0,2. $25-50,2698,3.9448,0.1909,0.7342
+P427393,Hyaluronic Marine Dew It Right Eye Gel,Dr. Dennis Gross Skincare,Eye Care,55.0,3. $50-100,148,3.527,0.3243,0.6149
+P427397,Hydro Biotic Recovery Sleeping Mask,Dr. Brandt Skincare,Masks,54.0,3. $50-100,1187,4.5788,0.0362,0.9326
+P427404,Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F,The Ordinary,Treatments,19.8,1. <$25,165,3.8182,0.2424,0.703
+P427405,Matrixyl* 10% + HA,The Ordinary,Treatments,10.5,1. <$25,238,4.3193,0.105,0.8613
+P427406,Glycolic Acid 7% Exfoliating Toning Solution,The Ordinary,Cleansers,13.0,1. <$25,2891,4.3438,0.1107,0.8582
+P427409,Vitamin C Suspension 30% in Silicone,The Ordinary,Treatments,8.3,1. <$25,395,3.638,0.2759,0.6405
+P427410,Vitamin C Suspension 23% + HA Spheres 2%,The Ordinary,Treatments,7.8,1. <$25,1111,3.4428,0.3213,0.604
+P427411,Azelaic Acid 10% Suspension Brightening Cream,The Ordinary,Treatments,11.1,1. <$25,955,4.1508,0.1508,0.8084
+P427412,Alpha Arbutin 2% + HA Hyperpigmentation Serum,The Ordinary,Treatments,11.1,1. <$25,754,4.0292,0.1777,0.7865
+P427413,Lactic Acid 10% + HA 2% Exfoliating Serum,The Ordinary,Treatments,8.9,1. <$25,1289,4.5004,0.0822,0.8991
+P427414,Natural Moisturizing Factors + HA,The Ordinary,Treatments,6.5,1. <$25,2048,4.1411,0.1318,0.7915
+P427415,100% Organic Cold-Pressed Rose Hip Seed Oil,The Ordinary,Moisturizers,10.9,1. <$25,1619,4.3984,0.1032,0.8684
+P427416,Caffeine 5% + EGCG Depuffing Eye Serum,The Ordinary,Treatments,8.9,1. <$25,2120,3.7698,0.2321,0.7024
+P427417,Niacinamide 10% + Zinc 1% Oil Control Serum,The Ordinary,Treatments,6.0,1. <$25,5791,4.2414,0.1425,0.8308
+P427418,Granactive Retinoid* 2% Emulsion,The Ordinary,Treatments,11.7,1. <$25,705,4.4468,0.0993,0.8837
+P427419,Hyaluronic Acid 2% + B5 Hydrating Serum,The Ordinary,Treatments,15.7,1. <$25,3787,4.2102,0.1407,0.8186
+P427420,Multi-Peptide + HA Serum,The Ordinary,Treatments,30.8,2. $25-50,1601,4.1418,0.153,0.792
+P427421,Protini Polypeptide Firming Refillable Moisturizer,Drunk Elephant,Moisturizers,68.0,3. $50-100,6057,3.961,0.1983,0.7286
+P427529,Powerful-Strength Vitamin C Serum,Kiehl's Since 1851,Treatments,78.0,3. $50-100,388,3.6753,0.268,0.6399
+P427536,The Deep Cleanse Gentle Exfoliating Cleanser,Tatcha,Cleansers,40.0,2. $25-50,2361,4.147,0.1317,0.7916
+P427638,Nutrient-Charged Water Gel,Murad,Moisturizers,71.0,3. $50-100,632,4.4747,0.0696,0.8956
+P428095,Ready Steady Glow Daily AHA Tonic,REN Clean Skincare,Cleansers,40.0,2. $25-50,1237,4.1423,0.1544,0.785
+P428100,Potent-C Vitamin C Power Serum,Peter Thomas Roth,Treatments,105.0,4. $100+,762,4.0276,0.168,0.7507
+P428240,Calm Water Gel Moisturizer,Dermalogica,Moisturizers,55.0,3. $50-100,219,4.3562,0.0639,0.8767
+P428250,Oil-Absorbing Pore Treatment Strips,Peace Out,Treatments,19.0,1. <$25,1567,3.977,0.2061,0.7569
+P428255,Capture Youth Serum Collection,Dior,Treatments,110.0,4. $100+,152,4.2434,0.1382,0.8224
+P428416,Honey Butter Beeswax Lip Balm,Farmacy,Lip Balms & Treatments,12.0,1. <$25,839,4.2551,0.1251,0.7974
+P428668,Baggage Claim Eye Masks,Wander Beauty,Eye Care,26.0,2. $25-50,489,4.0777,0.1616,0.7791
+P428816,Noni Radiant Brightening Eye Oil,KORA Organics,Eye Care,42.0,2. $25-50,400,3.7875,0.2325,0.6625
+P428819,Watermelon Pink Juice Oil-Free Moisturizer,Glow Recipe,Moisturizers,39.0,2. $25-50,1926,3.9974,0.1807,0.7373
+P429043,LUXE+ Advanced Sonic Dermaplaning + Peach Fuzz Removal,DERMAFLASH,High Tech Tools,199.0,4. $100+,188,3.984,0.2074,0.7287
+P429242,Clear Sunscreen Stick SPF 50+,Shiseido,Sunscreen,30.0,2. $25-50,1515,4.6548,0.0185,0.9512
+P429250,Cicapair  Tiger Grass Camo Drops Color Corrector SPF 35,Dr. Jart+,Treatments,48.0,2. $25-50,476,4.1345,0.1555,0.7815
+P429515,C-Tango Vitamin C Eye Cream,Drunk Elephant,Eye Care,64.0,3. $50-100,1480,3.7493,0.2297,0.6824
+P429516,Full Spectrum 360° Sun Silk Drops Organic Sunscreen SPF 30,COOLA,Sunscreen,48.0,2. $25-50,799,4.4205,0.0763,0.8874
+P429522,Super Fluid Daily UV Defense Sunscreen Broad Spectrum SPF 50+,Kiehl's Since 1851,Sunscreen,68.0,3. $50-100,125,3.616,0.288,0.576
+P429526,Multi-Vitamin Infusion Oil,Murad,Moisturizers,85.0,3. $50-100,103,4.4272,0.1068,0.8641
+P429529,Sheet Masks,Dr. Jart+,Masks,7.0,1. <$25,431,4.2158,0.1415,0.7958
+P429637,The Moisturizing Cool Gel Cream,La Mer,Moisturizers,200.0,4. $100+,137,3.6788,0.2701,0.6715
+P429661,pores no more Mattifying Hydrator Pore Minimizing Gel,Dr. Brandt Skincare,Treatments,50.0,2. $25-50,103,4.2039,0.1359,0.8058
+P429662,pores no more Vacuum Cleaner Pore Purifying Mask,Dr. Brandt Skincare,Masks,44.0,2. $25-50,239,3.887,0.1715,0.749
+P429683,Self Tan Purity Bronzing Water Mousse,St. Tropez,Self Tanners,44.0,2. $25-50,160,3.8312,0.2125,0.7062
+P429952,Jet Lag Mask,Summer Fridays,Masks,49.0,2. $25-50,4427,4.0258,0.1873,0.7536
+P429953,Glow Stick Sunscreen SPF 50 PA++++,Supergoop!,Sunscreen,26.0,2. $25-50,502,3.6594,0.261,0.6753
+P429954,Clarifying Blemish & Oil Control Cleanser,Tata Harper,Cleansers,88.0,3. $50-100,267,3.9476,0.2022,0.7378
+P430146,Superberry Hydrate + Glow Dream Oil,Youth To The People,Moisturizers,48.0,2. $25-50,1060,4.5085,0.0953,0.8849
+P430337,C-Rush Vitamin C Gel Moisturizer,OLEHENRIKSEN,Moisturizers,51.0,3. $50-100,2959,4.3403,0.0923,0.8662
+P430812,Max Mineral Tinted Sunscreen Broad Spectrum SPF 45,Peter Thomas Roth,Sunscreen,38.0,2. $25-50,172,4.2035,0.1279,0.7849
+P430813,Advanced Génifique Hydrogel Melting Mask,Lancôme,Masks,15.0,1. <$25,108,4.0833,0.1944,0.75
+P430818,SEA Mermaid Skin Hyaluronic H2O Serum,tarte,Treatments,15.0,1. <$25,301,4.1063,0.1595,0.7741
+P430903,Watermelon Brightening Serum,MILK MAKEUP,Treatments,36.0,2. $25-50,299,3.7258,0.2441,0.6756
+P431180,Self Tanning Bronzing Face Drops,Isle of Paradise,Self Tanners,32.0,2. $25-50,2851,3.9551,0.181,0.7675
+P431181,Self-Tanning Water,Isle of Paradise,Self Tanners,32.0,2. $25-50,1073,3.712,0.2302,0.6943
+P431187,Clean Bee Ultra Gentle Facial Cleanser,Farmacy,Cleansers,28.0,2. $25-50,880,4.0307,0.1773,0.7341
+P431840,Coconut Milk Bath Soak,Herbivore,Wellness,22.0,1. <$25,151,3.5497,0.2781,0.6159
+P431847,Glow Sweet Glow - Skin Hydration Vegan Gummies with Hyaluronic Acid & Vitamin C + E,HUM Nutrition,Wellness,26.0,2. $25-50,188,4.1117,0.1543,0.8032
+P431848,Cold Plunge Pore Mask,OLEHENRIKSEN,Masks,41.0,2. $25-50,1520,4.5342,0.0368,0.925
+P432045,GENIUS Liquid Collagen Lip Treatment,Algenist,Lip Balms & Treatments,29.0,2. $25-50,648,3.8704,0.2315,0.713
+P432048,Resurfacing AHA + BHA Serum,Tata Harper,Treatments,92.0,3. $50-100,319,4.2539,0.1191,0.7962
+P432049,SuperYou Daily Stress Management,Moon Juice,Wellness,49.0,2. $25-50,509,4.5639,0.0629,0.9136
+P432053,Multivitamins 15% Vitamin C + Retinol Mini Set,Sunday Riley,Value & Gift Sets,28.0,2. $25-50,158,3.8481,0.1962,0.7278
+P432239,Buttermask Intense Repair Lip Treatment,Kiehl's Since 1851,Lip Balms & Treatments,28.0,2. $25-50,191,4.0419,0.1728,0.7225
+P432241,Dramatically Different Hydrating Jelly,CLINIQUE,Moisturizers,45.0,2. $25-50,715,3.8727,0.172,0.7315
+P432242,Blackhead Solutions 7 Day Deep Pore Cleanse & Face Scrub,CLINIQUE,Cleansers,26.5,2. $25-50,569,4.1125,0.1002,0.8366
+P432243,Blackhead Solutions Self-heating Blackhead Extractor,CLINIQUE,Cleansers,32.0,2. $25-50,198,3.0859,0.4545,0.4949
+P432262,Self Tan Purity Bronzing Water Face Mist,St. Tropez,Self Tanners,33.0,2. $25-50,400,3.8825,0.2225,0.725
+P432668,D-Bronzi Anti-Pollution Bronzing Drops with Peptides,Drunk Elephant,Treatments,38.0,2. $25-50,2045,4.4308,0.0998,0.866
+P432818,Clean Smart Facial Cleansing Device,PMD,High Tech Tools,99.0,3. $50-100,171,3.9825,0.2105,0.7135
+P432823,Gua Sha Facial Lifting Tool,Mount Lai,High Tech Tools,30.0,2. $25-50,303,4.1353,0.1584,0.7987
+P432824,De-Puffing Jade Facial Roller,Mount Lai,Wellness,36.0,2. $25-50,178,3.8708,0.2303,0.7135
+P432829,Adaptogen Deep Moisturizing Cream with Ashwagandha + Reishi,Youth To The People,Moisturizers,58.0,3. $50-100,2071,4.3636,0.1082,0.8324
+P432831,Plump Jelly Hyaluronic Serum,Moon Juice,Treatments,58.0,3. $50-100,215,4.2605,0.1488,0.8
+P433143,Outsmart Acne Clarifying Treatment,Murad,Treatments,49.0,2. $25-50,260,4.1923,0.1462,0.8231
+P433435,CC+ Cream Oil-Free Matte with SPF 40,IT Cosmetics,Moisturizers,44.0,2. $25-50,1424,3.8448,0.1994,0.7275
+P433443,Aqua Bomb Sleeping Mask,belif,Moisturizers,38.0,2. $25-50,987,4.5157,0.0608,0.8956
+P433444,Clear Improvement Charcoal Honey Mask to Purify and Nourish,Origins,Masks,37.0,2. $25-50,1074,4.6453,0.0261,0.9497
+P433453,LUNA fofo,FOREO,High Tech Tools,89.0,3. $50-100,241,2.888,0.4855,0.4564
+P433456,Potent-C Vitamin C Power Eye Cream,Peter Thomas Roth,Eye Care,68.0,3. $50-100,340,4.0059,0.1765,0.7676
+P433457,Potent-C Vitamin C Targeted Spot Brightener,Peter Thomas Roth,Treatments,62.0,3. $50-100,310,4.3355,0.071,0.8968
+P433468,EradiKate Salicylic Acid Acne Treatment,Kate Somerville,Treatments,68.0,3. $50-100,105,4.1143,0.1714,0.7429
+P433519,Refillable Magic Night Moisturizer with Retinol,Charlotte Tilbury,Moisturizers,145.0,4. $100+,122,3.5492,0.3443,0.6311
+P433520,Magic Cream Moisturizer with Hyaluronic Acid,Charlotte Tilbury,Moisturizers,100.0,3. $50-100,3472,4.4018,0.0654,0.8819
+P433521,Charlotte’s Magic Eye Cream with Retinol,Charlotte Tilbury,Eye Care,65.0,3. $50-100,839,4.3528,0.0596,0.8832
+P433618,Clarifying Cleansing Foam,Shiseido,Cleansers,36.0,2. $25-50,110,4.2455,0.1636,0.7818
+P433627,Turmeric BHA Pore & Brightening Treatment Mask,KORA Organics,Masks,52.0,3. $50-100,493,4.1643,0.1602,0.787
+P433887,Squalane + Omega Repair Deep Hydration Moisturizer,Biossance,Moisturizers,60.0,3. $50-100,2096,4.2085,0.1093,0.8125
+P433971,Skin Warrior Moisture Rescue Cream,Naturally Serious,Moisturizers,35.0,2. $25-50,168,4.1905,0.1548,0.7976
+P433973,Get Even Cold-Pressed Peel Pads,Naturally Serious,Treatments,32.0,2. $25-50,230,4.7217,0.0304,0.9478
+P433975,Zero Baggage Anti-Dark Circle Eye Cream,Naturally Serious,Eye Care,26.0,2. $25-50,116,4.2155,0.1379,0.819
+P434336,Mini Noni Glow Face Oil,KORA Organics,Mini Size,28.0,2. $25-50,1167,4.3873,0.1105,0.8483
+P434360,High-Potency Night-a-Mins Resurfacing Cream with Fruit-Derived AHAs,Origins,Moisturizers,52.0,3. $50-100,1335,4.3176,0.1116,0.8031
+P434361,High-Potency Night-A-Mins Oil-Free Resurfacing Cream with Fruit Derived AHAs,Origins,Moisturizers,52.0,3. $50-100,402,4.3358,0.102,0.8418
+P434545,Glow Cycle Retin-ALT Power Serum,OLEHENRIKSEN,Treatments,60.0,3. $50-100,1237,4.287,0.0905,0.8715
+P434546,Goodnight Glow Bakuchiol Sleeping Crème,OLEHENRIKSEN,Moisturizers,60.0,3. $50-100,519,3.8921,0.2331,0.7168
+P434548,Honeymoon Glow AHA Resurfacing Night Serum,Farmacy,Moisturizers,60.0,3. $50-100,1932,4.3131,0.1247,0.8344
+P434550,Revitalixir Recovery Serum,Murad,Treatments,97.0,3. $50-100,306,4.3693,0.085,0.8856
+P435209,Radiance Resurfacing Foam,Dr. Brandt Skincare,Treatments,72.0,3. $50-100,297,4.4478,0.0236,0.9327
+P435386,Mini Watermelon Pink Juice Oil-Free Moisturizer,Glow Recipe,Mini Size,21.0,1. <$25,409,3.7555,0.2127,0.6504
+P435800,Acid Potion AHA + BHA Resurfacing Exfoliator,Moon Juice,Treatments,42.0,2. $25-50,405,4.5481,0.0691,0.8914
+P435975,Mini Charlotte's Magic Cream,Charlotte Tilbury,Moisturizers,30.0,2. $25-50,247,3.6599,0.2348,0.6356
+P436094,Evercalm Overnight Recovery Balm,REN Clean Skincare,Moisturizers,55.0,3. $50-100,624,4.4872,0.0705,0.9006
+P436353,Mini Rose & Hyaluronic Acid Deep Hydration Toner,fresh,Mini Size,26.0,2. $25-50,337,4.1276,0.1543,0.7834
+P436359,Blueberry Bounce Gentle Cleanser,Glow Recipe,Cleansers,34.0,2. $25-50,1063,3.809,0.2324,0.6811
+P436365,+Retinol Vita C Power Serum,Kate Somerville,Treatments,110.0,4. $100+,121,3.5041,0.314,0.6777
+P436387,Overtime Mask,Summer Fridays,Masks,49.0,2. $25-50,530,4.4075,0.1,0.8623
+P436891,Jade De-Puffing Face Roller,Herbivore,Wellness,32.0,2. $25-50,292,3.5479,0.2945,0.6404
+P437981,Emerald Hemp Seed Deep Moisture Glow Oil,Herbivore,Moisturizers,50.0,2. $25-50,477,4.3291,0.1321,0.826
+P438617,All Day Hyaluronic Acid Hydrator Moisturizer,SEPHORA COLLECTION,Moisturizers,18.0,1. <$25,427,4.5667,0.0468,0.9204
+P438618,Clean Skin Gel Cleanser with Prebiotics,SEPHORA COLLECTION,Cleansers,12.0,1. <$25,423,4.6194,0.0402,0.922
+P438619,Brightening Eye Cream with Caffeine and Hyaluronic Acid,SEPHORA COLLECTION,Eye Care,18.0,1. <$25,530,4.3679,0.1019,0.8736
+P438620,Nourishing Moisturizer with Prebiotics,SEPHORA COLLECTION,Moisturizers,18.0,1. <$25,470,4.5128,0.0809,0.8979
+P438637,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,BeautyBio,Eye Care,40.0,2. $25-50,202,4.0594,0.1584,0.7871
+P439055,GENIUS Sleeping Collagen Moisturizer,Algenist,Moisturizers,98.0,3. $50-100,1320,4.5409,0.05,0.9205
+P439057,Confidence in a Gel Lotion,IT Cosmetics,Moisturizers,45.0,2. $25-50,448,4.5826,0.0536,0.9085
+P439058,Violet-C Brightening Serum 20% Vitamin C + 10% AHA,Tatcha,Treatments,89.0,3. $50-100,1598,4.209,0.1327,0.806
+P439061,Glow2OH Dark Spot Toner,OLEHENRIKSEN,Cleansers,35.0,2. $25-50,2955,4.1929,0.1222,0.8359
+P439643,Clinique iD Custom-Blend Hydrator Collection,CLINIQUE,Moisturizers,41.0,2. $25-50,271,3.631,0.262,0.6605
+P439672,Rose Quartz Facial Roller,SEPHORA COLLECTION,Wellness,22.0,1. <$25,136,3.6985,0.2426,0.6912
+P439926,A-Passioni Retinol Cream,Drunk Elephant,Treatments,74.0,3. $50-100,1262,4.206,0.164,0.8027
+P439928,Superscreen Daily Moisturizer Sunscreen SPF 40 PA+++,Supergoop!,Moisturizers,44.0,2. $25-50,649,3.6995,0.2512,0.6425
+P440075,A+ High-Dose Retinol Serum,Sunday Riley,Treatments,85.0,3. $50-100,518,4.1969,0.1544,0.7915
+P440305,Goat Milk Moisturizing Cleanser,Kate Somerville,Cleansers,44.0,2. $25-50,174,4.5575,0.069,0.8966
+P440307,Superberry Hydrate + Glow Dream Night Mask with Vitamin C,Youth To The People,Masks,52.0,3. $50-100,2352,4.3236,0.1254,0.8244
+P440312,Lotus Anti-Aging Night Moisturizer,fresh,Moisturizers,56.0,3. $50-100,1686,4.484,0.0635,0.8837
+P440317,Potent-C Vitamin C Bright & Plump Moisturizer,Peter Thomas Roth,Moisturizers,72.0,3. $50-100,109,3.6239,0.2752,0.6422
+P440482,"Facial Spray with Aloe, Herbs and Rosewater",Mario Badescu,Moisturizers,7.0,1. <$25,296,3.7568,0.2601,0.6959
+P440483,"Facial Spray with Aloe, Cucumber and Green Tea",Mario Badescu,Moisturizers,7.0,1. <$25,126,3.9603,0.1905,0.7698
+P440498,Drying Lotion,Mario Badescu,Treatments,17.0,1. <$25,396,4.0985,0.1591,0.7854
+P440503,Lip Balm,Mario Badescu,Lip Balms & Treatments,8.0,1. <$25,167,4.2515,0.1377,0.8263
+P440504,R + R Mask,Summer Fridays,Masks,54.0,3. $50-100,492,3.7947,0.252,0.6789
+P440658,Baby Bar Travel Duo with Case,Drunk Elephant,Value & Gift Sets,22.0,1. <$25,134,4.3955,0.0896,0.8806
+P440925,Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,Origins,Masks,32.0,2. $25-50,1644,4.4957,0.0785,0.8531
+P440926,Mini Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,Origins,Mini Size,17.0,1. <$25,105,4.1143,0.1429,0.7714
+P440929,Mini Original Skin Retexturizing Mask with Rose Clay,Origins,Mini Size,17.0,1. <$25,104,4.4808,0.0769,0.8942
+P440933,Mini Clear Improvement Active Charcoal Mask to Clear Pore,Origins,Mini Size,17.0,1. <$25,127,3.9843,0.1575,0.7244
+P440934,The Silk Canvas Protective Primer Mini,Tatcha,Mini Size,24.0,1. <$25,807,3.6444,0.2652,0.6357
+P440937,Cannabis Sativa Seed Oil Herbal Concentrate (Hemp-Derived),Kiehl's Since 1851,Moisturizers,55.0,3. $50-100,222,4.1396,0.1577,0.7928
+P440949,Liquid Gold Exfoliating Treatment with Glycolic acid,Alpha-H,Treatments,56.0,3. $50-100,914,4.5098,0.0372,0.9212
+P440981,Age Adapting CBD Serum,Flora + Bast,Treatments,77.0,3. $50-100,177,4.6158,0.0734,0.8814
+P441101,The Dewy Skin Cream Plumping & Hydrating Moisturizer,Tatcha,Moisturizers,70.0,3. $50-100,3160,4.1044,0.175,0.7589
+P441220,Ultra Repair Oat & Hemp Seed Dry Oil,First Aid Beauty,Moisturizers,36.0,2. $25-50,440,4.3545,0.1091,0.8409
+P441323,Mini Blueberry Bounce Gentle Cleanser,Glow Recipe,Mini Size,10.0,1. <$25,315,3.7016,0.2444,0.6571
+P442003,Sugar Mint Rush Freshening Lip Treatment,fresh,Lip Balms & Treatments,25.0,1. <$25,527,4.0873,0.1347,0.7932
+P442535,Glow Peel Pads,SEPHORA COLLECTION,Treatments,15.0,1. <$25,452,3.9956,0.1615,0.7611
+P442563,AHA 30% + BHA 2% Exfoliating Peeling Solution,The Ordinary,Treatments,9.5,1. <$25,3240,4.5713,0.0596,0.916
+P442564,Emerald CBD + Adaptogens Deep Moisture Glow Oil,Herbivore,Moisturizers,60.0,3. $50-100,557,4.3645,0.1293,0.8348
+P442566,Slaai  Makeup-Melting Butter Cleanser,Drunk Elephant,Cleansers,36.0,2. $25-50,1528,3.7834,0.2441,0.6571
+P442589,Instant Masks,SEPHORA COLLECTION,Masks,8.0,1. <$25,455,3.5165,0.2725,0.633
+P442594,Ultra Glow Serum: Glow + Strengthen Vitamin C Serum,SEPHORA COLLECTION,Treatments,20.0,1. <$25,1493,4.1232,0.1139,0.8098
+P442713,FAB Skin Lab Retinol Eye Cream with Triple Hyaluronic Acid,First Aid Beauty,Eye Care,44.0,2. $25-50,162,3.7222,0.2654,0.6543
+P442741,Peptide 21 Wrinkle Resist Serum,Peter Thomas Roth,Treatments,125.0,4. $100+,560,4.4464,0.0411,0.8857
+P442742,Peptide 21 Amino Acid Exfoliating Peel Pads,Peter Thomas Roth,Treatments,55.0,3. $50-100,540,4.6426,0.0241,0.9519
+P442743,Peptide 21 Wrinkle Resist Moisturizer,Peter Thomas Roth,Moisturizers,95.0,3. $50-100,488,4.5553,0.0246,0.9344
+P442744,Watermelon Glow Ultra-Fine Mist,Glow Recipe,Moisturizers,29.0,2. $25-50,987,4.155,0.1317,0.7913
+P442752,"""Buffet"" + Copper Peptides 1%",The Ordinary,Treatments,30.9,2. $25-50,255,4.1804,0.1529,0.8
+P442753,Argireline Solution 10%,The Ordinary,Treatments,9.4,1. <$25,246,4.1951,0.1382,0.8171
+P442754,Ascorbic Acid 8% + Alpha Arbutin 2%,The Ordinary,Treatments,12.2,1. <$25,499,3.7455,0.2405,0.6673
+P442755,Resveratrol 3% + Ferulic Acid 3%,The Ordinary,Treatments,10.0,1. <$25,162,4.0,0.1852,0.7531
+P442756,Ascorbyl Glucoside Solution 12%,The Ordinary,Treatments,14.3,1. <$25,163,4.0982,0.1472,0.7607
+P442757,"""B"" Oil",The Ordinary,Moisturizers,11.1,1. <$25,245,4.2286,0.1469,0.8204
+P442758,Mandelic Acid 10% + HA,The Ordinary,Treatments,7.5,1. <$25,432,4.4606,0.0764,0.9005
+P442759,Amino Acids + B5,The Ordinary,Treatments,8.9,1. <$25,228,4.4123,0.1009,0.864
+P442761,C.E.O Glow Vitamin C + Turmeric Face Oil,Sunday Riley,Moisturizers,80.0,3. $50-100,841,4.0737,0.1843,0.7729
+P442830,100% Plant-Derived Squalane,The Ordinary,Treatments,10.0,1. <$25,653,4.536,0.0781,0.8928
+P442833,EUK 134 0.1%,The Ordinary,Treatments,11.1,1. <$25,139,4.3453,0.1295,0.8417
+P442836,Barrier+ Foaming Oil Hydrating Cleanser,Skinfix,Cleansers,30.0,2. $25-50,995,4.5799,0.0603,0.9005
+P442837,Barrier+ Triple Lipid-Hyaluronate Serum,Skinfix,Treatments,50.0,2. $25-50,417,4.6355,0.0408,0.9209
+P442838,Barrier+ Triple Lipid-Boost 360° Brightening Eye Cream,Skinfix,Eye Care,44.0,2. $25-50,932,4.3155,0.1094,0.838
+P442839,Barrier+ Triple Lipid-Peptide Lotion Moisturizer,Skinfix,Moisturizers,42.0,2. $25-50,566,4.6484,0.03,0.9399
+P442840,Barrier+ Triple Lipid-Peptide Face Cream,Skinfix,Moisturizers,54.0,3. $50-100,2465,4.2868,0.1156,0.8183
+P442843,Eczema+ Dermatitis Face Balm,Skinfix,Moisturizers,29.0,2. $25-50,462,4.2078,0.1212,0.816
+P442850,Redness Recovery+ Antioxidant Redness Treatment Overnight Mask,Skinfix,Masks,52.0,3. $50-100,240,4.1542,0.1208,0.8042
+P442854,Focuspot Dark Spot Micro Tip Patch,Dr. Jart+,Treatments,20.0,1. <$25,122,3.6311,0.1557,0.7131
+P442857,Focuspot Micro Tip Patches,Dr. Jart+,Treatments,20.0,1. <$25,578,3.0381,0.4083,0.5035
+P442858,Rose Deep Hydration Sleeping Mask,fresh,Masks,29.0,2. $25-50,1232,4.4586,0.0373,0.9229
+P442859,ALIVE Prebiotic Balancing Mask,Algenist,Masks,38.0,2. $25-50,118,4.3729,0.1186,0.839
+P442867,Kx Active Concentrates Bio-Mimicking Peptides Serum,Kate Somerville,Treatments,98.0,3. $50-100,384,4.4297,0.0495,0.8984
+P442871,Beta Hydroxy Acid (BHA) Blemish + Blackhead Serum,The INKEY List,Treatments,12.99,1. <$25,430,4.1,0.1488,0.8023
+P442989,Youth or Dare Multi-Acid & C-Serum,tarte,Treatments,42.0,2. $25-50,138,3.1014,0.413,0.529
+P442990,Clean Screen Mineral SPF 30 Mattifying Face Sunscreen,REN Clean Skincare,Sunscreen,40.0,2. $25-50,416,3.3558,0.3486,0.5288
+P443349,Skin Squad Pre + ProbioticSupplement for Acne-Prone Skin,HUM Nutrition,Wellness,40.0,2. $25-50,659,4.1138,0.085,0.8285
+P443352,Mini Daily Microfoliant Exfoliator,Dermalogica,Mini Size,18.0,1. <$25,4597,4.6957,0.0257,0.9513
+P443358,Intensive Moisture Balance Moisturizer,Dermalogica,Moisturizers,47.0,2. $25-50,151,4.4702,0.053,0.9073
+P443359,Skin Smoothing Cream Moisturizer,Dermalogica,Moisturizers,74.0,3. $50-100,475,4.6063,0.0316,0.9411
+P443366,Prisma Protect SPF 30 Moisturizer,Dermalogica,Moisturizers,69.0,3. $50-100,141,4.3617,0.0426,0.9291
+P443369,Sound Sleep Cocoon Night Gel-Cream,Dermalogica,Treatments,89.0,3. $50-100,181,4.1823,0.116,0.8232
+P443370,BioLumin-C Vitamin C Serum,Dermalogica,Treatments,95.0,3. $50-100,617,4.5721,0.0259,0.9384
+P443383,Moisture Surge Eye 96-Hour Hydro-Filler Concentrate,CLINIQUE,Eye Care,37.0,2. $25-50,142,3.338,0.3803,0.5423
+P443563,Lip Glowy Balm,LANEIGE,Lip Balms & Treatments,18.0,1. <$25,3739,4.3932,0.0829,0.855
+P443829,"Glow Clear, Color Correcting Self-Tanning Mousse",Isle of Paradise,Self Tanners,32.0,2. $25-50,394,3.4289,0.3249,0.6193
+P443830,Polyglutamic Acid Hydrating Serum,The INKEY List,Treatments,14.99,1. <$25,955,4.3937,0.0482,0.9005
+P443833,Salicylic Acid Acne + Pore Cleanser,The INKEY List,Cleansers,11.99,1. <$25,1551,4.3817,0.0812,0.8859
+P443834,Rosehip Nourishing Night Oil,The INKEY List,Moisturizers,11.99,1. <$25,175,4.1029,0.1257,0.8229
+P443837,Kaolin Mask,The INKEY List,Masks,7.49,1. <$25,227,4.3084,0.0749,0.8502
+P443838,Glycolic Acid Exfoliating Toner,The INKEY List,Cleansers,12.99,1. <$25,290,4.3897,0.0793,0.8828
+P443839,Squalane Oil,The INKEY List,Moisturizers,12.99,1. <$25,148,4.4392,0.0203,0.9459
+P443840,Caffeine Eye Cream,The INKEY List,Eye Care,10.99,1. <$25,1597,3.8954,0.1691,0.7527
+P443841,Vitamin C Brightening Cream,The INKEY List,Treatments,10.99,1. <$25,515,3.0214,0.3883,0.5049
+P443842,Retinol Anti-Aging Serum,The INKEY List,Treatments,12.99,1. <$25,1138,4.384,0.0879,0.8743
+P443843,Q10 Antioxidant Serum,The INKEY List,Treatments,9.99,1. <$25,605,4.2992,0.0678,0.8793
+P443845,Hyaluronic Acid Hydrating Serum,The INKEY List,Treatments,9.99,1. <$25,1970,4.4071,0.0716,0.8807
+P443846,Collagen Booster Firming Peptide Serum,The INKEY List,Treatments,12.99,1. <$25,580,4.3103,0.0724,0.8707
+P444057,Aqua Bomb Jelly Cleanser,belif,Cleansers,30.0,2. $25-50,683,4.2928,0.0644,0.8697
+P444216,After-Dark Natural Peptide Sleeping Cream,Naturally Serious,Moisturizers,37.0,2. $25-50,177,4.4407,0.0847,0.8644
+P444222,Luxury Beauty Serum Calming Treatment,Saint Jane Beauty,Treatments,125.0,4. $100+,355,4.3972,0.107,0.8451
+P444225,Clean Biotic pH-balanced yogurt cleanser with chlorophyll,Dr. Brandt Skincare,Cleansers,36.0,2. $25-50,103,4.2136,0.1553,0.8252
+P444226,Honey Grail Ultra-Hydrating Face Oil,Farmacy,Moisturizers,48.0,2. $25-50,311,4.2283,0.1479,0.7942
+P444614,Express Ultra Dark Mousse,Isle of Paradise,Self Tanners,32.0,2. $25-50,120,3.7833,0.225,0.7
+P444718,Squalane Cleanser,The Ordinary,Cleansers,9.0,1. <$25,887,4.0056,0.1669,0.7531
+P444967,"Mini Facial Spray with Aloe, Herbs and Rosewater",Mario Badescu,Mini Size,5.0,1. <$25,124,4.0968,0.1613,0.7823
+P444970,Replenishing Multi-Acid Peel,Murad,Treatments,79.0,3. $50-100,357,4.6106,0.056,0.916
+P444980,Adaptogen Soothe + Hydrate Activated Mist with Peptides,Youth To The People,Moisturizers,42.0,2. $25-50,396,4.1843,0.154,0.7929
+P445827,Sugar Strawberry Exfoliating Face Wash,fresh,Cleansers,33.0,2. $25-50,1259,4.1597,0.1279,0.8078
+P445832,Acne Clearing Skin Wash Cleanser,Dermalogica,Cleansers,42.0,2. $25-50,541,4.6303,0.0203,0.9593
+P445833,AGE Bright Clearing Serum,Dermalogica,Treatments,75.0,3. $50-100,343,4.3528,0.0641,0.895
+P446419,Noni Bright 12% Vitamin C Serum,KORA Organics,Treatments,73.0,3. $50-100,389,4.2288,0.1003,0.8355
+P446421,Clear Improvement Pore Clearing Moisturizer with Salicylic Acid,Origins,Moisturizers,40.0,2. $25-50,1270,4.2685,0.0559,0.8811
+P446422,Avocado Nourishing Hydration Mask,Kiehl's Since 1851,Masks,48.0,2. $25-50,316,3.9019,0.1646,0.7468
+P446423,InvisiScar Post-Acne Resurfacing Treatment,Murad,Treatments,38.0,2. $25-50,711,4.1167,0.1308,0.8143
+P446630,Clean Pro Rose Quartz,PMD,High Tech Tools,179.0,4. $100+,136,4.4559,0.0882,0.875
+P446638,Power Cleanse Duo,Dermalogica,Value & Gift Sets,19.0,1. <$25,113,4.5752,0.0177,0.9558
+P446641,Argan Bright Skin Vitamin C Serum,Josie Maran,Treatments,66.0,3. $50-100,531,4.3955,0.049,0.9021
+P446909,Zincscreen 100% Mineral Sunscreen Lotion SPF 40 PA+++,Supergoop!,Sunscreen,44.0,2. $25-50,355,3.8676,0.1972,0.6901
+P446916,Eczema+ Care Kit,Skinfix,Value & Gift Sets,35.0,2. $25-50,115,4.2,0.113,0.8435
+P446930,Cream Skin Toner & Moisturizer,LANEIGE,Moisturizers,33.0,2. $25-50,1865,4.4488,0.0611,0.8917
+P446934,Oil and Pore Control Mattifier Broad Spectrum SPF 45 PA++++,Murad,Moisturizers,49.0,2. $25-50,543,3.9392,0.2081,0.7551
+P446938,Lala Retro Whipped Refillable Moisturizer with Ceramides,Drunk Elephant,Moisturizers,62.0,3. $50-100,1994,4.1525,0.1249,0.8019
+P446942,Niacinamide Oil Control Serum,The INKEY List,Treatments,9.99,1. <$25,985,4.199,0.0954,0.8487
+P447199,Super Glow Hyaluronic Self-Tan Serum,TAN-LUXE,Self Tanners,49.0,2. $25-50,129,3.9845,0.2093,0.7132
+P447200,Baba Bomb Moisturizer,tarte,Moisturizers,39.0,2. $25-50,135,4.4148,0.0889,0.837
+P447210,Squalane + Marine Algae Firming & Lifting Eye Cream,Biossance,Eye Care,56.0,3. $50-100,1013,4.1422,0.1283,0.7957
+P447212,Hyaluronic Serum,Dr. Barbara Sturm,Treatments,320.0,4. $100+,879,3.9386,0.1433,0.7312
+P447213,4.5% Retinol Serum,SOBEL SKIN Rx,Treatments,105.0,4. $100+,147,4.4422,0.034,0.898
+P447504,AA (Alguronic Acid) Barrier Serum,Algenist,Treatments,85.0,3. $50-100,100,3.97,0.19,0.74
+P447592,Alpha Beta Pore Perfecting & Refining Serum,Dr. Dennis Gross Skincare,Treatments,68.0,3. $50-100,1493,4.4675,0.0422,0.9169
+P447596,100% Organic Cold-Pressed Moroccan Argan Oil,The Ordinary,Moisturizers,7.5,1. <$25,358,4.1732,0.1536,0.8101
+P447603,Ultra Repair Wild Oat Hydrating Toner,First Aid Beauty,Cleansers,24.0,1. <$25,531,4.4746,0.0847,0.8795
+P447778,Bakuchiol Retinol Alternative Moisturizer,The INKEY List,Treatments,12.99,1. <$25,346,4.0376,0.1127,0.8295
+P447780,The Silk Peony Melting Eye Cream,Tatcha,Eye Care,62.0,3. $50-100,1556,4.1594,0.1144,0.8046
+P447781,Face Cream,Dr. Barbara Sturm,Moisturizers,225.0,4. $100+,797,4.2359,0.059,0.8088
+P447782,Glow Drops,Dr. Barbara Sturm,Treatments,150.0,4. $100+,808,4.052,0.0817,0.7804
+P447785,Eye Cream,Dr. Barbara Sturm,Eye Care,145.0,4. $100+,251,3.8207,0.1076,0.7211
+P447791,Avocado Fine Line Eye Cream with Retinol,Glow Recipe,Eye Care,42.0,2. $25-50,1889,4.1043,0.1472,0.7819
+P448181,DERMAPORE Ultrasonic Pore Extractor & Serum Infuser,DERMAFLASH,High Tech Tools,99.0,3. $50-100,281,3.6157,0.306,0.6406
+P448184,Cicapair Tiger Grass Calming Mist,Dr. Jart+,Moisturizers,25.0,1. <$25,548,4.4343,0.031,0.9033
+P448185,Cicapair Tiger Grass Calming Gel Cream,Dr. Jart+,Moisturizers,49.0,2. $25-50,637,4.4992,0.0534,0.9074
+P448192,Mini Sugar Strawberry Exfoliating Face Wash,fresh,Mini Size,15.0,1. <$25,183,3.8852,0.1803,0.7158
+P448200,Benefiance Wrinkle Smoothing Cream,Shiseido,Moisturizers,75.0,3. $50-100,156,4.5897,0.0449,0.9359
+P448201,Benefiance Wrinkle Smoothing Day Cream SPF 23,Shiseido,Moisturizers,75.0,3. $50-100,204,4.5049,0.0686,0.8824
+P448202,Benefiance Wrinkle Smoothing Cream Enriched,Shiseido,Moisturizers,75.0,3. $50-100,943,4.5801,0.0201,0.9385
+P448203,Benefiance Wrinkle Smoothing Eye Cream,Shiseido,Eye Care,64.0,3. $50-100,1420,4.3296,0.081,0.8662
+P448207,PHAT Glow Facial Mask,OLEHENRIKSEN,Masks,52.0,3. $50-100,1785,4.3854,0.0487,0.9064
+P448530,Salicylic Acid 2% Masque,The Ordinary,Masks,13.3,1. <$25,635,4.3717,0.0803,0.8929
+P448537,Alpha Arbutin Brightening Serum,The INKEY List,Treatments,12.99,1. <$25,116,4.2241,0.1121,0.8534
+P448719,PRO Strength Lactic Pore Treatment,Peter Thomas Roth,Treatments,88.0,3. $50-100,443,4.5779,0.0316,0.9345
+P448802,Brighten-i Eye Cream,The INKEY List,Eye Care,12.99,1. <$25,1142,3.7574,0.2075,0.7145
+P448852,SOS Daily Rescue Facial Spray,Tower 28 Beauty,Moisturizers,12.0,1. <$25,659,4.2367,0.1472,0.8103
+P448853,Mini SOS Daily Rescue Facial Spray,Tower 28 Beauty,Moisturizers,12.0,1. <$25,189,3.9048,0.2275,0.709
+P448932,+Retinol Vitamin C Moisturizer,Kate Somerville,Moisturizers,110.0,4. $100+,177,4.2938,0.096,0.8644
+P448934,Bye Bye Pores Leave-On Solution Pore-Refining Toner,IT Cosmetics,Cleansers,34.0,2. $25-50,187,4.0481,0.1872,0.754
+P448937,ICE Ceramide Moisturizer with Vitamin F,Sunday Riley,Moisturizers,65.0,3. $50-100,1172,4.0845,0.1416,0.8029
+P449102,Crystal Ball Roller Gloss,INC.redible,Wellness,12.0,1. <$25,112,4.3839,0.0893,0.8929
+P449158,Mini Lotus Anti-Aging Night Moisturizer,fresh,Mini Size,22.0,1. <$25,155,3.9935,0.1355,0.6774
+P449175,Aqua Bomb Hydrating Toner,belif,Cleansers,30.0,2. $25-50,1047,4.3629,0.0516,0.894
+P449177,AGE Smart Phyto-Nature Firming Serum,Dermalogica,Treatments,155.0,4. $100+,148,4.3311,0.0405,0.8784
+P449180,CC Me Vitamin C + Niacinamide Serum,Summer Fridays,Treatments,68.0,3. $50-100,896,4.0893,0.1786,0.7478
+P449188,Green Defense Daily Mineral Sunscreen SPF 30,Farmacy,Sunscreen,36.0,2. $25-50,300,3.9767,0.1967,0.7267
+P449541,Pure Vitality Skin Renewing Cream,Kiehl's Since 1851,Moisturizers,75.0,3. $50-100,207,4.314,0.0821,0.8792
+P450211,Mini Vitamin Nectar Glow Juice Antioxidant Face Serum,fresh,Mini Size,28.0,2. $25-50,137,3.9708,0.1606,0.7153
+P450244,Ceramide Hydrating Night Treatment,The INKEY List,Treatments,15.99,1. <$25,308,4.2922,0.0779,0.8734
+P450262,Polyhydroxy Acid (PHA) Gentle Exfoliating Toner,The INKEY List,Cleansers,12.99,1. <$25,443,4.2619,0.0858,0.8578
+P450290,The Regenerating Serum,La Mer,Treatments,410.0,4. $100+,174,4.4023,0.0575,0.8448
+P450583,Prism AHA + BHA Exfoliating Glow Serum,Herbivore,Treatments,54.0,3. $50-100,171,3.9532,0.2339,0.7251
+P450614,Tranexamic Acid Hyperpigmentation Treatment,The INKEY List,Treatments,15.99,1. <$25,509,3.9352,0.1493,0.7839
+P450632,Gentle Cleansing Foam Hydrating Makeup Remover,Sulwhasoo,Cleansers,38.0,2. $25-50,276,4.5616,0.0543,0.9203
+P450633,Gentle Cleansing Oil Makeup Remover,Sulwhasoo,Cleansers,40.0,2. $25-50,405,4.4543,0.0617,0.8765
+P451748,15% Niacinamide Gel Serum,SOBEL SKIN Rx,Treatments,75.0,3. $50-100,132,4.1591,0.0455,0.8561
+P453224,Squalane + 10% Lactic Acid Resurfacing Serum,Biossance,Treatments,65.0,3. $50-100,966,4.3965,0.0787,0.8644
+P453225,The Kissu Lip Mask,Tatcha,Lip Balms & Treatments,29.0,2. $25-50,1232,3.7662,0.2581,0.655
+P453226,Bright-Eyed 100% Mineral Eye Cream SPF 40 PA+++,Supergoop!,Eye Care,40.0,2. $25-50,445,3.6045,0.2629,0.6427
+P453227,Truth Juice Daily Cleanser,OLEHENRIKSEN,Cleansers,33.0,2. $25-50,528,4.2386,0.1326,0.7841
+P453253,Vegan Milk Moisturizer,MILK MAKEUP,Moisturizers,38.0,2. $25-50,1674,4.2204,0.1039,0.8357
+P453713,Collagen POP + Vitamin C Dissolvable Tablets,HUM Nutrition,Wellness,12.0,1. <$25,220,4.3455,0.0864,0.8818
+P453818,GENIUS Collagen Calming Relief,Algenist,Moisturizers,58.0,3. $50-100,125,4.464,0.056,0.912
+P453823,Vital-E Antioxidant Recovery Eye Cream,Peter Thomas Roth,Eye Care,55.0,3. $50-100,585,4.3231,0.0479,0.8718
+P453824,Vital-E Antioxidant Recovery Cream,Peter Thomas Roth,Moisturizers,75.0,3. $50-100,676,4.4112,0.0414,0.9038
+P453825,Hydra Zen Glow Liquid Lightweight Moisturizer with Hyaluronic Acid,Lancôme,Moisturizers,54.0,3. $50-100,1510,4.4152,0.0285,0.9146
+P453826,Rénergie Lift Multi-Action Ultra Dark Spot Correcting Cream SPF 30,Lancôme,Moisturizers,135.0,4. $100+,317,4.6909,0.0221,0.9558
+P453928,Retinol Youth Renewal Eye Serum,Murad,Eye Care,89.0,3. $50-100,358,4.5307,0.0642,0.9162
+P453929,Retinol Youth Renewal Night Cream,Murad,Moisturizers,88.0,3. $50-100,331,4.6103,0.0453,0.9245
+P453930,Biolumin-C Vitamin C Eye Serum,Dermalogica,Eye Care,74.0,3. $50-100,945,4.5228,0.0349,0.9302
+P454018,The Serum Stick: Treatment & Touch Up Balm,Tatcha,Treatments,49.0,2. $25-50,1345,4.3755,0.0483,0.884
+P454019,Teatreement Moisturizer,Dr. Jart+,Moisturizers,35.0,2. $25-50,621,4.2448,0.0548,0.8776
+P454084,Argan Beta Retinol Pink Algae Serum,Josie Maran,Treatments,69.0,3. $50-100,760,4.4132,0.0421,0.9026
+P454085,Teatreement Toner,Dr. Jart+,Cleansers,30.0,2. $25-50,458,4.262,0.0459,0.8712
+P454086,Teatreement Cleansing Foam,Dr. Jart+,Cleansers,29.0,2. $25-50,495,4.1434,0.0566,0.8263
+P454095,Perfect Canvas Clean Jelly Oil Cleanser,REN Clean Skincare,Cleansers,37.0,2. $25-50,266,4.0263,0.1429,0.7481
+P454100,Prism AHA + BHA Exfoliating Glow Facial,Herbivore,Treatments,58.0,3. $50-100,302,4.2616,0.1325,0.8179
+P454102,PRO Strength Niacinamide Discoloration Treatment,Peter Thomas Roth,Treatments,88.0,3. $50-100,367,4.1608,0.1499,0.7956
+P454120,F-Balm Electrolyte Waterfacial Mask,Drunk Elephant,Masks,54.0,3. $50-100,1104,4.1658,0.1268,0.7998
+P454313,Cica Sleeping Mask,LANEIGE,Masks,34.0,2. $25-50,977,4.6366,0.0532,0.9202
+P454378,Lotus Anti- Aging Daily Moisturizer,fresh,Moisturizers,54.0,3. $50-100,1049,4.3947,0.0753,0.8856
+P454380,Unseen Sunscreen SPF 40 PA+++,Supergoop!,Sunscreen,48.0,2. $25-50,3267,4.2599,0.1387,0.8111
+P454383,PLAY Everyday Sunscreen Lotion SPF 50 PA++++,Supergoop!,Sunscreen,34.0,2. $25-50,1060,4.0925,0.1642,0.77
+P454387,Glow Oil Body Sunscreen SPF 50 PA++++,Supergoop!,Sunscreen,38.0,2. $25-50,397,3.9395,0.194,0.7244
+P454389,PLAY Antioxidant Body Sunscreen Mist SPF 50 PA++++,Supergoop!,Sunscreen,21.0,1. <$25,294,3.9048,0.2211,0.5926
+P454396,Lotus Youth Preserve Eye Cream,fresh,Eye Care,45.0,2. $25-50,753,4.4024,0.0292,0.9097
+P454806,Capture Totale Firming & Wrinkle-Correcting Cream,Dior,Moisturizers,130.0,4. $100+,653,4.5161,0.023,0.925
+P454821,LUNA Mini 3,FOREO,High Tech Tools,179.0,4. $100+,107,3.8785,0.1869,0.7477
+P454837,Confidence in Your Beauty Sleep Night Cream,IT Cosmetics,Moisturizers,58.0,3. $50-100,412,4.4563,0.0898,0.8811
+P454838,Powerful-Strength Dark Circle Reducing Vitamin C Eye Serum,Kiehl's Since 1851,Eye Care,55.0,3. $50-100,1043,3.86,0.164,0.7459
+P455212,1 Minute Face Masks,SEPHORA COLLECTION,Masks,12.0,1. <$25,121,3.5124,0.281,0.6446
+P455236,Glow Lip Pop Lip Balm,Glow Recipe,Lip Balms & Treatments,22.0,1. <$25,997,4.5637,0.0461,0.9147
+P455237,Melt Moisturizer with Bakuchiol and Squalane,alpyn beauty,Moisturizers,60.0,3. $50-100,465,4.514,0.0753,0.8946
+P455241,Noni Night AHA Pore & Resurfacing Serum,KORA Organics,Treatments,74.0,3. $50-100,555,4.3946,0.0486,0.9009
+P455242,Super Amino Gel Cleanser,Summer Fridays,Cleansers,35.0,2. $25-50,313,4.0863,0.1661,0.754
+P455338,100% L-Ascorbic Acid Powder,The Ordinary,Treatments,6.4,1. <$25,202,4.3317,0.1139,0.8515
+P455339,Lactic Acid 5% + HA,The Ordinary,Treatments,7.8,1. <$25,171,4.3099,0.117,0.8304
+P455364,Oat Cleansing Balm,The INKEY List,Cleansers,11.99,1. <$25,3000,3.604,0.262,0.6407
+P455365,"Vitamin B, C, and E Moisturizer",The INKEY List,Moisturizers,7.99,1. <$25,296,4.1351,0.1115,0.7939
+P455366,Retinol Eye Cream,The INKEY List,Eye Care,12.99,1. <$25,661,3.9531,0.1498,0.7746
+P455368,15% Vitamin C and EGF Brightening Serum,The INKEY List,Treatments,15.99,1. <$25,670,3.9403,0.1657,0.7433
+P455369,Peptide Moisturizer,The INKEY List,Moisturizers,15.99,1. <$25,787,3.7903,0.1919,0.7027
+P455612,Vitamin C & Bearberry Instant Glow Serum,alpyn beauty,Treatments,59.0,3. $50-100,167,4.503,0.0479,0.8802
+P455613,Line-Filling Eye Cream with Bakuchiol and Caffeine,alpyn beauty,Eye Care,62.0,3. $50-100,262,4.3206,0.126,0.8168
+P455614,Creamy Bubbling Cleanser with Vitamin C & AHAs,alpyn beauty,Cleansers,36.0,2. $25-50,167,4.3832,0.1257,0.8503
+P455618,Full Spectrum 360° Refreshing Water Mist Organic Face Sunscreen SPF 18,COOLA,Sunscreen,36.0,2. $25-50,100,4.37,0.11,0.87
+P455623,The ZenBubble Gel Cream,BeautyBio,Moisturizers,69.0,3. $50-100,193,4.4041,0.0777,0.8808
+P455676,Yo Glow AHA & BHA Facial Enzyme Scrub,Wishful,Cleansers,39.0,2. $25-50,2212,4.2441,0.1279,0.8255
+P455894,Ultra Repair Oil-Control Moisturizer,First Aid Beauty,Moisturizers,36.0,2. $25-50,289,4.2388,0.1246,0.8201
+P455898,Pycnogenol 5%,The Ordinary,Treatments,11.1,1. <$25,205,4.522,0.0927,0.8976
+P455899,Marine Hyaluronics,The Ordinary,Treatments,8.9,1. <$25,244,4.209,0.127,0.791
+P455900,100% Plant-Derived Hemi-Squalane,The Ordinary,Treatments,5.0,1. <$25,296,4.3986,0.0743,0.8682
+P455924,The Eye Concentrate Cream,La Mer,Eye Care,260.0,4. $100+,318,4.0535,0.1541,0.7736
+P455926,Retinol Reform Treatment Serum,Shani Darden Skin Care,Treatments,88.0,3. $50-100,1011,4.2572,0.1108,0.8299
+P455929,Cleansing Serum,Shani Darden Skin Care,Cleansers,38.0,2. $25-50,340,4.5941,0.0559,0.9235
+P455930,Weightless Oil-Free Moisturizer,Shani Darden Skin Care,Moisturizers,48.0,2. $25-50,139,4.2806,0.1367,0.8058
+P455934,Yerba Mate Resurfacing + Exfoliating Energy Facial with Enzymes + Niacinamide,Youth To The People,Cleansers,59.0,3. $50-100,621,4.4718,0.0757,0.8889
+P455936,Lip Butter Balm,Summer Fridays,Lip Balms & Treatments,24.0,1. <$25,1197,4.3225,0.1111,0.8329
+P456126,Vegan Milk Cleanser,MILK MAKEUP,Cleansers,30.0,2. $25-50,787,4.4244,0.0597,0.9009
+P456192,Night Magic Restorative Face Oil with Firming Botanicals,Prima,Moisturizers,68.0,3. $50-100,410,4.3488,0.0366,0.9146
+P456193,The Afterglow Deep Moisturizing Cream with Hyaluronic Acid & Vegan Collagen,Prima,Moisturizers,68.0,3. $50-100,377,4.5252,0.0106,0.9496
+P456194,Extra-Firming + Smoothing Neck & Décolleté Moisturizer,Clarins,Moisturizers,96.0,3. $50-100,193,4.6528,0.0207,0.9534
+P456206,Self Tan Purity Vitamins Bronzing Water Body Mist,St. Tropez,Self Tanners,45.0,2. $25-50,402,4.3905,0.0473,0.9055
+P456207,Greek Yoghurt Nourishing Probiotic Gel-Cream,KORRES,Moisturizers,38.5,2. $25-50,3112,4.348,0.0402,0.8978
+P456208,GOOPGLOW 15% Glycolic Acid Overnight Glow Peel,goop,Treatments,125.0,4. $100+,1196,4.255,0.0627,0.8545
+P456211,GOOPGLOW Morning Skin Superpowder,goop,Wellness,60.0,3. $50-100,1110,3.991,0.0793,0.7613
+P456213,GOOPGLOW Microderm Instant Glow Exfoliator,goop,Cleansers,125.0,4. $100+,2127,4.4819,0.0334,0.9008
+P456218,Glowscreen Sunscreen SPF 40 PA+++ with Hyaluronic Acid + Niacinamide,Supergoop!,Sunscreen,38.0,2. $25-50,2064,4.1521,0.1531,0.78
+P456392,Daily UV Defense Invisible Broad Spectrum SPF 36 Sunscreen,innisfree,Sunscreen,16.0,1. <$25,1464,4.5376,0.069,0.8975
+P456395,Volcanic Clusters Pore Clearing Toner,innisfree,Cleansers,22.0,1. <$25,143,4.5664,0.049,0.8951
+P456398,Ultimate Sun Protector Lotion SPF 50+ Sunscreen,Shiseido,Sunscreen,50.0,2. $25-50,2937,4.4866,0.0392,0.921
+P456399,Ultimate Sun Protector Cream SPF 50+ Face Sunscreen,Shiseido,Sunscreen,40.0,2. $25-50,568,4.257,0.0669,0.8697
+P456400,Double Sided Luxe Tan Applicator Mitt,St. Tropez,Self Tanners,9.0,1. <$25,378,4.5556,0.0503,0.9048
+P456410,Squalane + Zinc Sheer Mineral Sunscreen SPF 30 PA +++,Biossance,Sunscreen,34.0,2. $25-50,653,3.8668,0.2067,0.6845
+P456412,Greek Yoghurt Foaming Cream Cleanser,KORRES,Cleansers,28.0,2. $25-50,4186,4.5667,0.0418,0.9304
+P456414,Greek Yoghurt Probiotic Superdose Face Mask,KORRES,Masks,52.0,3. $50-100,509,4.5049,0.0491,0.9136
+P456417,Wild Rose Brightening Absolute Oil,KORRES,Moisturizers,54.0,3. $50-100,622,4.3553,0.1302,0.7979
+P456418,Wild Rose Night-Brightening Sleeping Facial,KORRES,Moisturizers,50.0,2. $25-50,1424,4.3596,0.0983,0.7893
+P456421,Black Pine 3D Eye-Lift Super Serum,KORRES,Eye Care,61.0,3. $50-100,159,4.0063,0.2138,0.7007
+P456566,Banana Bright 15% Vitamin C Serum,OLEHENRIKSEN,Treatments,71.0,3. $50-100,1039,3.9384,0.1877,0.7372
+P456571,Vitamin C Glycolic Brightening Serum,Murad,Treatments,88.0,3. $50-100,351,4.2621,0.0826,0.8604
+P456572,Vitamin C Dark Circle Correcting Eye Serum,Murad,Eye Care,67.0,3. $50-100,288,4.066,0.1389,0.8021
+P456582,Invisible Physical Defense Mineral Sunscreen SPF30,Dermalogica,Sunscreen,48.0,2. $25-50,386,4.3731,0.0699,0.8808
+P456988,Own Your Glow Kit,Isle of Paradise,Value & Gift Sets,35.0,2. $25-50,279,3.767,0.2258,0.7133
+P456994,Eye Duty Niacinamide Brightening Eye Cream,First Aid Beauty,Eye Care,36.0,2. $25-50,392,3.6735,0.2526,0.6709
+P457005,Rose & Squalane Deep Hydration Oil-Infused Serum,fresh,Treatments,60.0,3. $50-100,979,4.5843,0.0296,0.9336
+P457008,Cryo Rubber Masks,Dr. Jart+,Masks,15.0,1. <$25,563,4.3126,0.0888,0.8544
+P457442,Face Serum,SEPHORA COLLECTION,Treatments,9.0,1. <$25,238,3.3235,0.3067,0.5966
+P457510,Private Party: Supports Vaginal & Urinary Tract Health,HUM Nutrition,Wellness,26.0,2. $25-50,277,4.6715,0.0217,0.9603
+P457512,Overnight Glow Dark Spot Sleeping Cream,REN Clean Skincare,Moisturizers,55.0,3. $50-100,476,4.1408,0.0903,0.8151
+P457517,Rose Petal-Soft Deep Hydration Lip Balm,fresh,Lip Balms & Treatments,25.0,1. <$25,696,4.3894,0.0589,0.8635
+P457521,Every Sun Day Mineral Sunscreen SPF 50+,Dr. Jart+,Sunscreen,40.0,2. $25-50,484,4.4298,0.0806,0.8822
+P457522,Every Sun Day Sun Fluid SPF 50+,Dr. Jart+,Sunscreen,42.0,2. $25-50,325,4.4215,0.0431,0.9077
+P457694,Blue Algae Vitamin C Dark Spot Correcting Peel,Algenist,Treatments,85.0,3. $50-100,108,4.213,0.1204,0.8241
+P457695,DeliKate Recovery Cream,Kate Somerville,Moisturizers,76.0,3. $50-100,350,4.4971,0.0629,0.8971
+P457696,DeliKate Soothing Cleanser,Kate Somerville,Cleansers,44.0,2. $25-50,143,4.1818,0.1259,0.8252
+P457697,DeliKate Recovery Serum,Kate Somerville,Treatments,98.0,3. $50-100,154,4.6429,0.0195,0.9351
+P457864,Vital Skin-Strengthening Hyaluronic Acid Super Serum,Kiehl's Since 1851,Treatments,60.0,3. $50-100,597,4.2194,0.067,0.8593
+P458209,Daily Greens Oil-Free Gel Moisturizer with Moringa and Papaya,Farmacy,Moisturizers,42.0,2. $25-50,1355,4.0605,0.1661,0.741
+P458219,Watermelon Glow PHA + BHA Pore-Tight Toner,Glow Recipe,Cleansers,34.0,2. $25-50,3321,4.3692,0.0882,0.8567
+P458546,Set The Stage Hydrating Primer Serum,LAWLESS,Treatments,32.0,2. $25-50,251,4.5976,0.0518,0.9243
+P458576,Water Drench Hyaluronic Hydrating Moisturizer SPF 45,Peter Thomas Roth,Moisturizers,55.0,3. $50-100,844,4.282,0.1031,0.8483
+P458724,Metal Facial Razor,SEPHORA COLLECTION,High Tech Tools,18.0,1. <$25,238,4.4748,0.0882,0.8908
+P458755,Charlotte’s Magic Serum with Vitamin C,Charlotte Tilbury,Treatments,85.0,3. $50-100,954,4.1593,0.1059,0.804
+P458900,Pineapple Enzyme Pore Clearing Cleanser,Josie Maran,Cleansers,29.0,2. $25-50,676,4.2441,0.0666,0.8624
+P458917,Water-Lock Moisturizer with Skin-Smoothing Peptides,Tata Harper,Moisturizers,68.0,3. $50-100,344,4.439,0.0872,0.8605
+P459127,Platinum Lip Plump SPF 30,Dr. Lara Devgan Scientific Beauty,Lip Balms & Treatments,50.0,2. $25-50,514,4.57,0.0973,0.8891
+P459128,Vitamin C+B+E Ferulic Serum,Dr. Lara Devgan Scientific Beauty,Treatments,145.0,4. $100+,307,4.8241,0.0326,0.9577
+P459129,Peptide Eye Cream,Dr. Lara Devgan Scientific Beauty,Eye Care,215.0,4. $100+,268,4.8172,0.0299,0.9627
+P459130,Hyaluronic Serum,Dr. Lara Devgan Scientific Beauty,Treatments,245.0,4. $100+,321,4.785,0.0467,0.9408
+P459141,Deep Sweep 2% BHA Pore Cleaning Toner with Moringa + Papaya,Farmacy,Cleansers,32.0,2. $25-50,821,4.4836,0.0853,0.8709
+P460512,Mini Liquid Silk Canvas: Featherweight Protective Primer,Tatcha,Mini Size,24.0,1. <$25,1835,4.3951,0.0959,0.867
+P460513,Cream Skin Mist,LANEIGE,Moisturizers,27.0,2. $25-50,291,4.5739,0.0619,0.89
+P460514,Cream Skin Milk Oil Cleanser,LANEIGE,Cleansers,34.0,2. $25-50,304,4.375,0.0888,0.8553
+P460515,E-Rase Milki Micellar Water,Drunk Elephant,Cleansers,14.0,1. <$25,1018,4.2819,0.0835,0.8448
+P460516,Papaya Sorbet Smoothing Enzyme Cleansing Balm & Makeup Remover,Glow Recipe,Cleansers,32.0,2. $25-50,1427,4.1983,0.1275,0.8087
+P460554,Clarifying Peel Pads,SEPHORA COLLECTION,Treatments,17.0,1. <$25,117,4.6068,0.0171,0.9402
+P460578,GOOPGENES All-In-One Nourishing Face Cream,goop,Moisturizers,98.0,3. $50-100,738,4.2846,0.0542,0.8523
+P460624,Discover Healthy Skin Kit,Dermalogica,Value & Gift Sets,39.5,2. $25-50,415,4.6265,0.0265,0.947
+P460701,Clean Face Mask,SEPHORA COLLECTION,Masks,5.5,1. <$25,386,4.1373,0.1244,0.8109
+P460723,Clean Cleansing & Gentle Exfoliating Wipes,SEPHORA COLLECTION,Cleansers,6.0,1. <$25,522,2.5536,0.5805,0.3755
+P460747,Pink Cloud Rosewater + Squalane Makeup Removing Face Wash,Herbivore,Cleansers,26.0,2. $25-50,631,4.3534,0.103,0.8415
+P460758,Cool Biotic Prebiotic Redness Relief Cream,Dr. Brandt Skincare,Moisturizers,56.0,3. $50-100,109,4.1468,0.1651,0.7248
+P460779,Skinlongevity Long Life Herb Anti-Aging Face Serum,bareMinerals,Treatments,65.0,3. $50-100,3727,4.4339,0.0199,0.9313
+P460855,Clean Lip Balm & Scrub,SEPHORA COLLECTION,Lip Balms & Treatments,7.0,1. <$25,611,2.2799,0.6465,0.3011
+P460856,Clean Eye Mask,SEPHORA COLLECTION,Masks,3.5,1. <$25,372,4.172,0.1344,0.8306
+P461159,Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex Serum,Estée Lauder,Treatments,115.0,4. $100+,2411,4.046,0.0792,0.7918
+P461165,GOOPGENES All-In-One Nourishing Eye Cream,goop,Eye Care,55.0,3. $50-100,616,4.1997,0.0698,0.8344
+P461213,Honey Balm Niacinamide Moisturizer,Wishful,Moisturizers,43.0,2. $25-50,657,4.1887,0.1629,0.7991
+P461439,Hyaluronic Marine Makeup Removing Meltaway Cleanser,Dr. Dennis Gross Skincare,Cleansers,32.0,2. $25-50,595,4.4555,0.0723,0.8908
+P461451,Abeille Royale Anti-Aging Fortifying Lotion Toner,GUERLAIN,Cleansers,85.0,3. $50-100,834,4.2566,0.0348,0.8789
+P461491,Bright Repair Eye Cream – 10% Vitamin C,Saint Jane Beauty,Eye Care,65.0,3. $50-100,174,4.2759,0.1264,0.8046
+P461520,Clean Foot Mask,SEPHORA COLLECTION,Masks,5.0,1. <$25,157,4.2739,0.1274,0.8344
+P461522,Clean Charcoal Nose Strip,SEPHORA COLLECTION,Masks,3.0,1. <$25,186,2.9946,0.4301,0.4785
+P461537,The Rice Wash Skin-Softening Cleanser,Tatcha,Cleansers,40.0,2. $25-50,2453,4.5022,0.0636,0.8965
+P461667,Mini GO OFF Makeup Dissolving Mist,ONE/SIZE by Patrick Starrr,Mini Size,18.0,1. <$25,257,4.1712,0.1634,0.8054
+P461935,BEAR Facial Toning Device,FOREO,High Tech Tools,329.0,4. $100+,229,4.4236,0.0786,0.917
+P461936,BEAR mini Facial Toning Device,FOREO,High Tech Tools,219.0,4. $100+,114,4.1228,0.0965,0.8421
+P461948,Super Multi-Corrective Anti-Aging Face and Neck Cream,Kiehl's Since 1851,Moisturizers,76.0,3. $50-100,171,4.2632,0.1053,0.8772
+P461949,The Concentrate Serum,La Mer,Treatments,425.0,4. $100+,562,4.5178,0.048,0.8826
+P462336,Aqua Bomb Cleansing Balm,belif,Cleansers,38.0,2. $25-50,1331,4.4598,0.0316,0.9159
+P462339,Vitamin Enriched Eye Base,Bobbi Brown,Eye Care,58.0,3. $50-100,241,4.639,0.0456,0.9087
+P462344,Hydro Masque Exfoliant,Dermalogica,Cleansers,64.0,3. $50-100,320,4.4406,0.025,0.8938
+P462390,PRO Strength 10% PHA Exfoliating Clarifying Liquid,Peter Thomas Roth,Treatments,58.0,3. $50-100,438,4.3836,0.0342,0.9132
+P462666,Total Eye Lift Firming & Smoothing Anti-Aging Eye Cream,Clarins,Eye Care,90.0,3. $50-100,398,4.5905,0.0377,0.9221
+P462699,Plum Plump Hyaluronic Acid Serum,Glow Recipe,Treatments,45.0,2. $25-50,1920,4.425,0.0724,0.8745
+P462829,Squalane + Elderberry Nourishing Jelly Cleanser,Biossance,Cleansers,28.0,2. $25-50,237,3.6414,0.2743,0.6245
+P462891,GinZing Into the Glow Brightening Serum,Origins,Treatments,46.0,2. $25-50,259,4.5328,0.0463,0.9073
+P463036,Honey Halo Ultra-Hydrating Ceramide Moisturizer,Farmacy,Moisturizers,48.0,2. $25-50,1341,4.4422,0.091,0.8635
+P463105,Benefiance Wrinkle Smoothing Retinol Serum,Shiseido,Treatments,75.0,3. $50-100,911,4.5807,0.0143,0.9451
+P463144,Dream Eye Cream with Vitamin C and Ceramides,Youth To The People,Eye Care,48.0,2. $25-50,547,3.8647,0.2303,0.702
+P463353,CC Screen 100% Mineral CC Cream SPF 50 PA++++,Supergoop!,Moisturizers,44.0,2. $25-50,528,3.3958,0.3523,0.5909
+P463665,Get Even Rose Face Oil,Wishful,Moisturizers,63.0,3. $50-100,379,4.3958,0.0554,0.8971
+P464234,Advanced Retinol Night Repair Treatment,Dr. Zenovia Skincare,Treatments,72.0,3. $50-100,267,4.5019,0.0112,0.9251
+P464235,Inflam-Aging Night Repair Treatment,Dr. Zenovia Skincare,Treatments,72.0,3. $50-100,260,4.4769,0.0192,0.9462
+P464237,Retinol Recovery Eye Cream,Dr. Zenovia Skincare,Eye Care,64.0,3. $50-100,101,3.8812,0.1188,0.7426
+P464238,Peptide + Ceramide Repairing Moisturizer,Dr. Zenovia Skincare,Moisturizers,79.0,3. $50-100,518,4.6737,0.0135,0.9614
+P464239,Aloe Vera Blemish Soothing Moisturizer,Dr. Zenovia Skincare,Moisturizers,38.0,2. $25-50,373,4.5764,0.0295,0.9437
+P464240,10% Glycolic Acne Control Peel Pads,Dr. Zenovia Skincare,Treatments,42.0,2. $25-50,105,4.4095,0.0381,0.9048
+P464241,5% Benzoyl Peroxide Acne Spot Treatment,Dr. Zenovia Skincare,Treatments,25.0,1. <$25,281,4.3986,0.032,0.9181
+P464242,Hyaluronic Acid + Peptide Serum,Dr. Zenovia Skincare,Treatments,72.0,3. $50-100,122,4.5082,0.0164,0.9508
+P464243,10% Benzoyl Peroxide Acne Cleanser,Dr. Zenovia Skincare,Cleansers,30.0,2. $25-50,434,4.4931,0.0369,0.9263
+P464244,Vitamin C Brightening Toner,Dr. Zenovia Skincare,Cleansers,38.0,2. $25-50,107,4.5981,0.0093,0.9439
+P464245,Bakuchiol Hydrating Cleanser,Dr. Zenovia Skincare,Cleansers,42.0,2. $25-50,301,4.4983,0.0266,0.9203
+P465365,Puffy Under-Eye Patches,Peace Out,Eye Care,25.0,1. <$25,179,4.2682,0.095,0.8492
+P465741,Wild Huckleberry 8-Acid Polishing Peel Mask,alpyn beauty,Masks,56.0,3. $50-100,349,4.6819,0.0287,0.9398
+P465752,Mini Protini Polypeptide Moisturizer,Drunk Elephant,Mini Size,22.0,1. <$25,162,3.8272,0.1975,0.6975
+P465803,Blue Aventurine De-Puffing Facial Roller,SEPHORA COLLECTION,Wellness,20.0,1. <$25,150,4.8933,0.0133,0.9867
+P466114,Resveratrol Lift Instant Firming Retinol Alternative Serum,Caudalie,Treatments,84.0,3. $50-100,358,4.5782,0.0447,0.9218
+P466117,Sweet Biome Fermented Sake Hydrating Spray,Drunk Elephant,Moisturizers,42.0,2. $25-50,676,3.8817,0.1065,0.7544
+P466122,Kombucha 2-in-1 No-Rinse Cleanser & Prebiotic Treatment,fresh,Cleansers,44.0,2. $25-50,715,4.4308,0.028,0.9259
+P466123,Watermelon Glow Niacinamide Dew Drops,Glow Recipe,Treatments,35.0,2. $25-50,2197,4.4056,0.0947,0.8662
+P466134,Radian-C Cream with Vitamin C,LANEIGE,Moisturizers,35.0,2. $25-50,631,4.4913,0.0697,0.8843
+P466142,Lemonade Smoothing Scrub,OLEHENRIKSEN,Cleansers,35.0,2. $25-50,1277,4.5795,0.0345,0.9381
+P466153,Cloud Dew Gel Cream Moisturizer,Summer Fridays,Moisturizers,45.0,2. $25-50,700,4.4829,0.0729,0.8829
+P466154,Daily Dose Vitamin C + SPF 40 Sunscreen Serum PA+++,Supergoop!,Sunscreen,46.0,2. $25-50,574,3.6725,0.2369,0.6376
+P466155,The Dewy Serum Resurfacing and Plumping Treatment,Tatcha,Treatments,89.0,3. $50-100,1391,4.6355,0.0316,0.941
+P466163,Thirst Trap Juice Hyaluronic Acid & Peptide Hydrating Facial Serum,Wishful,Treatments,47.0,2. $25-50,434,4.6106,0.0484,0.9217
+P466164,15% Vitamin C + Clean Caffeine Energy Serum,Youth To The People,Treatments,69.0,3. $50-100,993,4.3927,0.0957,0.851
+P466661,Whipped Greens Oil-Free Foaming Cleanser with Moringa and Papaya,Farmacy,Cleansers,28.0,2. $25-50,484,4.5723,0.0702,0.8926
+P466673,Rapid Dark Spot Correcting Serum,Murad,Treatments,83.0,3. $50-100,663,4.3876,0.0603,0.902
+P467038,Retinol Eye Stick,Peace Out,Eye Care,28.0,2. $25-50,1331,4.2066,0.1435,0.8024
+P467110,Squalane + 10% Vitamin C Dark Spot Serum,Biossance,Treatments,65.0,3. $50-100,636,4.3412,0.0755,0.8695
+P467111,Retinol Acne Clearing Oil,Dermalogica,Moisturizers,86.0,3. $50-100,314,4.3981,0.0414,0.9013
+P467115,Facial Radiance Niacinamide Dark Spot Serum,First Aid Beauty,Treatments,42.0,2. $25-50,186,3.6559,0.2903,0.6237
+P467118,That Limitless Glow Sheet Mask,JLo Beauty,Masks,49.0,2. $25-50,306,4.0098,0.1373,0.7647
+P467120,That Hit Single Gel-Cream Cleanser,JLo Beauty,Cleansers,39.0,2. $25-50,362,4.0967,0.0994,0.8011
+P467122,That Fresh Take Eye Cream with Peptides,JLo Beauty,Eye Care,49.0,2. $25-50,443,4.1558,0.0835,0.8172
+P467123,That Big Screen Moisturizer with Broad Spectrum SPF 30,JLo Beauty,Moisturizers,55.0,3. $50-100,466,4.1416,0.0837,0.8026
+P467124,That Blockbuster Cream with Hyaluronic Acid,JLo Beauty,Moisturizers,59.0,3. $50-100,549,4.1585,0.1093,0.8015
+P467126,That Jlo Glow Brightening & Firming Serum with Niacinamide,JLo Beauty,Treatments,79.0,3. $50-100,603,3.9403,0.1692,0.7197
+P467137,Water Drench Hyaluronic Glow Serum,Peter Thomas Roth,Treatments,72.0,3. $50-100,484,4.4339,0.0579,0.8946
+P467247,Total Cleans'r Makeup-Removing Cleanser with Barbados Cherry,Fenty Skin,Cleansers,28.0,2. $25-50,424,4.1014,0.1274,0.7712
+P467248,Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,Fenty Skin,Cleansers,34.0,2. $25-50,483,4.1077,0.1491,0.764
+P467249,Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide + Kalahari Melon,Fenty Skin,Moisturizers,39.0,2. $25-50,785,4.014,0.1643,0.7567
+P467250,Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,Fenty Skin,Moisturizers,45.0,2. $25-50,166,4.2108,0.1386,0.8193
+P467251,Fenty Skin Travel Size Start'r Set,Fenty Skin,Value & Gift Sets,45.0,2. $25-50,278,4.0647,0.1475,0.7986
+P467602,Triple Algae Eye Renewal Balm Eye Cream,Algenist,Eye Care,68.0,3. $50-100,1142,4.5306,0.021,0.9387
+P467614,C Scription Vitamin C Brightening Serum,Dr. Brandt Skincare,Treatments,120.0,4. $100+,148,4.6959,0.0405,0.9122
+P467615,Cicapair Tiger Grass Sleepair Intensive Mask,Dr. Jart+,Masks,42.0,2. $25-50,742,4.5472,0.0323,0.9178
+P467617,Clear Complexion Acne Solutions System,Dr. Zenovia Skincare,Value & Gift Sets,35.0,2. $25-50,297,4.5084,0.0471,0.9226
+P467630,Rénergie Lift Multi-Action Ultra Dark Circle Correcting Eye Cream,Lancôme,Eye Care,82.0,3. $50-100,298,4.6376,0.0503,0.9262
+P467647,Melting Cleansing Balm Cleanse + Balance,SEPHORA COLLECTION,Cleansers,12.0,1. <$25,331,3.6314,0.2719,0.6465
+P467652,Lip Sleeping Mask,SEPHORA COLLECTION,Lip Balms & Treatments,5.0,1. <$25,320,3.5625,0.2719,0.6375
+P467655,Succinic Acid Acne Treatment,The INKEY List,Treatments,9.99,1. <$25,920,3.8478,0.2228,0.7174
+P467748,Resveratrol Lift Firming Eye Gel-Cream,Caudalie,Eye Care,62.0,3. $50-100,171,4.3333,0.1053,0.8304
+P467749,Resveratrol Lift Retinol Alternative Firming Night Moisturizer,Caudalie,Moisturizers,72.0,3. $50-100,169,4.3964,0.0592,0.8876
+P467750,Resveratrol Lift Retinol Alternative Firming Cashmere Moisturizer,Caudalie,Moisturizers,69.0,3. $50-100,331,4.6435,0.0242,0.9305
+P467945,Capture Totale Super Potent Rich Cream,Dior,Moisturizers,130.0,4. $100+,678,4.5457,0.0221,0.9425
+P467971,Brightening Dark Circle Eye Cream,REN Clean Skincare,Eye Care,51.0,3. $50-100,370,4.3027,0.0811,0.8703
+P467972,The C Drops – 20% Vitamin C Blend Brightening Serum,Saint Jane Beauty,Treatments,90.0,3. $50-100,100,4.75,0.03,0.96
+P467973,Intensive Eye Renewal Cream with Firming Peptides,Shani Darden Skin Care,Eye Care,68.0,3. $50-100,254,4.2087,0.1181,0.8071
+P467976,(Re)setting 100% Mineral Powder Sunscreen SPF 35 PA+++,Supergoop!,Sunscreen,35.0,2. $25-50,376,4.0372,0.1649,0.7819
+P468149,Calm Sweet Calm Stress Management Vegan Gummies with Ashwagandha & L-Theanine,HUM Nutrition,Wellness,30.0,2. $25-50,107,4.2056,0.1121,0.8131
+P468211,Sunvisor Radiant Moisturizing Face Sunscreen SPF 35,Saie,Sunscreen,38.0,2. $25-50,183,4.1038,0.1475,0.7486
+P468351,Moisture Surge 100H Auto-Replenishing Hydrator Moisturizer,CLINIQUE,Moisturizers,82.0,3. $50-100,1730,4.2526,0.0457,0.8775
+P468369,Hello Results Wrinkle-Reducing Daily Retinol Serum-in-Cream,IT Cosmetics,Moisturizers,69.0,3. $50-100,172,4.4419,0.0349,0.936
+P468396,PLANTSCRIPTION Multi-powered Anti-Aging Peptide Serum,Origins,Treatments,61.0,3. $50-100,226,4.4381,0.031,0.8982
+P468408,SKINPOWER Eye Cream,SK-II,Eye Care,145.0,4. $100+,735,4.3252,0.0517,0.8463
+P468409,SKINPOWER Airy Milky Lotion,SK-II,Moisturizers,170.0,4. $100+,789,4.2611,0.0773,0.815
+P468411,SKINPOWER Cream,SK-II,Moisturizers,255.0,4. $100+,418,4.189,0.0885,0.8254
+P468637,Vinoclean Makeup Removing Cleansing Oil,Caudalie,Cleansers,30.0,2. $25-50,439,4.3098,0.1116,0.7927
+P468640,Full Spectrum 360º Refreshing Water Cream Organic Face Sunscreen SPF 50,COOLA,Sunscreen,48.0,2. $25-50,267,4.5805,0.03,0.9363
+P468658,Volcanic AHA Pore Clearing Clay Mask,innisfree,Masks,16.0,1. <$25,1199,4.6147,0.0459,0.9274
+P468672,Clarifying Spot Serum with Bija Seed Oil,innisfree,Treatments,18.0,1. <$25,102,4.5392,0.0294,0.9412
+P468684,Milky Mushroom Gentle Cleansing Oil Makeup Remover,KORA Organics,Cleansers,44.0,2. $25-50,459,4.4597,0.061,0.8889
+P468813,Vinoclean Moisturizing Toner with Rose Water,Caudalie,Cleansers,30.0,2. $25-50,176,4.3352,0.1193,0.8466
+P468821,Ultra Repair Firming Collagen Cream with Peptides and Niacinamide,First Aid Beauty,Moisturizers,44.0,2. $25-50,535,4.5364,0.0766,0.8953
+P468850,Signature Moisturizer,ROSE Ingleton MD,Moisturizers,85.0,3. $50-100,120,4.7,0.025,0.9417
+P469086,Facial Cleansing Tool,SEPHORA COLLECTION,High Tech Tools,8.0,1. <$25,100,4.73,0.03,0.94
+P469088,Fulvic Acid Brightening Cleanser,The INKEY List,Cleansers,11.99,1. <$25,347,4.4179,0.072,0.8876
+P469118,Melting Moisture Mask,Dermalogica,Masks,69.0,3. $50-100,299,4.689,0.0033,0.9599
+P469196,Supplement Case,SEPHORA COLLECTION,Wellness,10.0,1. <$25,111,3.7568,0.2523,0.6757
+P469213,Wrinkle Blur Bakuchiol Eye Gel Crème,OLEHENRIKSEN,Eye Care,52.0,3. $50-100,885,4.3932,0.0418,0.9017
+P469439,Squalane+ Rose Vegan Lip Balm,Biossance,Lip Balms & Treatments,16.0,1. <$25,278,3.8705,0.2122,0.6906
+P469444,Vinoclean Gentle Cleansing Almond Milk,Caudalie,Cleansers,30.0,2. $25-50,174,4.3448,0.0747,0.8736
+P469482,Even Skin Tone Self-Tanning Body Butter,Isle of Paradise,Self Tanners,28.0,2. $25-50,557,3.7379,0.2442,0.6786
+P469490,Lip Treatment Balm,LANEIGE,Lip Balms & Treatments,25.0,1. <$25,719,4.2128,0.128,0.783
+P469502,Skin Perfecting 2% BHA Liquid Exfoliant,Paula's Choice,Cleansers,34.0,2. $25-50,1200,4.4367,0.1058,0.8708
+P469503,Mini Skin Perfecting 2% BHA Liquid Exfoliant,Paula's Choice,Mini Size,13.0,1. <$25,411,4.2263,0.129,0.8321
+P469505,Skin Perfecting BHA 9 Treatment,Paula's Choice,Treatments,46.0,2. $25-50,146,4.7055,0.0479,0.9521
+P469506,C15 Vitamin C Super Booster,Paula's Choice,Treatments,55.0,3. $50-100,435,4.2115,0.1425,0.8092
+P469507,10% Azelaic Acid Booster,Paula's Choice,Treatments,39.0,2. $25-50,216,4.7546,0.0278,0.9583
+P469510,CLINICAL 1% Retinol Treatment,Paula's Choice,Treatments,62.0,3. $50-100,262,4.5496,0.0725,0.9008
+P469511,CLINICAL Niacinamide 20% Treatment,Paula's Choice,Treatments,52.0,3. $50-100,217,4.5253,0.0599,0.8848
+P469519,RESIST Advanced Replenishing Toner with Hyaluronic Acid,Paula's Choice,Cleansers,26.0,2. $25-50,238,4.7311,0.0294,0.9496
+P469520,RESIST Perfectly Balanced Foaming Cleanser,Paula's Choice,Cleansers,22.0,1. <$25,199,4.7286,0.0251,0.9447
+P469522,RESIST Youth-Extending Daily Hydrating Fluid SPF 50,Paula's Choice,Sunscreen,37.0,2. $25-50,407,4.2654,0.1204,0.8256
+P469524,RESIST Super-Light Daily Wrinkle Defense SPF 30,Paula's Choice,Sunscreen,37.0,2. $25-50,133,4.2556,0.1128,0.797
+P469528,Skin Perfecting 25% AHA + 2% BHA Exfoliant Peel,Paula's Choice,Treatments,42.0,2. $25-50,137,4.5036,0.0657,0.8905
+P469530,Blemish Balm Cleanser,Peace Out,Cleansers,22.0,1. <$25,245,4.5592,0.0571,0.9143
+P469537,Bestsellers Trial Kit,Sulwhasoo,Value & Gift Sets,58.0,3. $50-100,301,4.7076,0.0365,0.9435
+P469538,Anti-Aging First Care Activating Serum,Sulwhasoo,Treatments,89.0,3. $50-100,976,4.5707,0.0359,0.918
+P469818,Cactus Water Cleansing Lactic Acid Toner,Freck Beauty,Cleansers,32.0,2. $25-50,208,4.5288,0.0529,0.9231
+P469862,Rich Bitch Cactus + Vitamin C Moisturizer,Freck Beauty,Moisturizers,34.0,2. $25-50,223,4.3812,0.0942,0.87
+P470007,Vinoclean Gentle Foam Cleanser,Caudalie,Cleansers,30.0,2. $25-50,154,4.1753,0.1364,0.7857
+P470024,Protini Powerpeptide Resurfacing Serum with Lactic Acid,Drunk Elephant,Treatments,82.0,3. $50-100,705,4.356,0.0766,0.8624
+P470040,Ultra Facial Oil-Free Gel Cream,Kiehl's Since 1851,Moisturizers,38.0,2. $25-50,201,4.4876,0.0647,0.8955
+P470041,"UV Expert Aquagel Defense Sunscreen, Primer & Moisturizer SPF 50 Duo",Lancôme,Value & Gift Sets,65.0,3. $50-100,1045,4.2383,0.0823,0.8584
+P470057,Mineral Sheerscreen Sunscreen SPF 30 PA+++,Supergoop!,Sunscreen,38.0,2. $25-50,454,3.9537,0.1916,0.7423
+P470058,Glowscreen Body Sunscreen SPF 40 PA+++,Supergoop!,Sunscreen,42.0,2. $25-50,262,4.4389,0.0725,0.8779
+P470065,Superclay Purify + Clear Power Mask with Niacinamide,Youth To The People,Masks,38.0,2. $25-50,349,4.4441,0.0774,0.8825
+P470217,Liquid Sun Shield Daily Brightening Mineral Sunscreen SPF 50,Dr. Brandt Skincare,Sunscreen,67.0,3. $50-100,193,4.2591,0.1244,0.829
+P470221,Milk-Peel Gentle Exfoliating Toner,Kiehl's Since 1851,Cleansers,60.0,3. $50-100,305,4.682,0.0197,0.941
+P470227,Vitamin C Triple Exfoliating Facial,Murad,Treatments,85.0,3. $50-100,355,4.7296,0.0141,0.9634
+P470240,Truth Serum Vitamin C Serum,OLEHENRIKSEN,Treatments,56.0,3. $50-100,129,4.1938,0.124,0.7597
+P470243,PRO Strength Microdermabrasion Blackhead Eliminator,Peter Thomas Roth,Cleansers,68.0,3. $50-100,466,4.4936,0.0279,0.9421
+P470259,Faded Serum for Dark Spots & Discoloration,Topicals,Treatments,38.0,2. $25-50,919,3.6605,0.2677,0.6855
+P470506,The Cream Cleansing Gel with TFC8 Gentle Cleanser,Augustinus Bader,Cleansers,70.0,3. $50-100,661,4.4826,0.0363,0.9107
+P470507,The Cream with TFC8 Face Moisturizer,Augustinus Bader,Moisturizers,180.0,4. $100+,427,4.37,0.0749,0.8642
+P470509,The Rich Cream with TFC8 Face Moisturizer,Augustinus Bader,Moisturizers,290.0,4. $100+,487,4.2259,0.1129,0.8214
+P470529,Avocado Soothing Skin Barrier Serum with Ceramides,Glow Recipe,Treatments,45.0,2. $25-50,1416,4.4725,0.0805,0.8743
+P470535,"KateCeuticals Resurfacing Overnight Peel with Glycolic Acid, Retinol & Niacinamide",Kate Somerville,Treatments,98.0,3. $50-100,122,4.7377,0.0082,0.9508
+P470536,Clarifique Exfoliating & Hydrating Face Essence with Glycolic Acid,Lancôme,Moisturizers,95.0,3. $50-100,847,4.6434,0.013,0.9575
+P471000,Algae Niacinamide Moisture Veil,Algenist,Moisturizers,65.0,3. $50-100,169,4.6982,0.0237,0.9349
+P471003,Squalane + BHA Pore-Minimizing Toner,Biossance,Cleansers,30.0,2. $25-50,608,4.4276,0.0592,0.9013
+P471009,Vinoperfect Brightening Glycolic Peel Mask,Caudalie,Masks,42.0,2. $25-50,192,4.5365,0.0521,0.9062
+P471025,FILLING GOOD hyaluronic acid plumping serum,Farmacy,Treatments,48.0,2. $25-50,912,4.3191,0.0768,0.8553
+P471029,GOOPGLOW Glow Lotion,goop,Moisturizers,58.0,3. $50-100,815,4.0638,0.0699,0.7865
+P471033,CLOUD JELLY Plumping Hydration Serum,Herbivore,Treatments,50.0,2. $25-50,209,4.3876,0.0766,0.8469
+P471037,Slushy Serum Moisturizer Crush Infused with Bakuchiol,iNNBEAUTY PROJECT,Treatments,30.0,2. $25-50,388,4.6031,0.0644,0.9021
+P471038,Glaze Lip Oil,iNNBEAUTY PROJECT,Lip Balms & Treatments,17.0,1. <$25,206,4.4223,0.0825,0.8447
+P471039,Pimple Paste Overnight Blemish Drying Paste,iNNBEAUTY PROJECT,Treatments,17.0,1. <$25,252,4.1667,0.1548,0.8254
+P471041,Down to Tone Resurfacing Acid Toner,iNNBEAUTY PROJECT,Cleansers,28.0,2. $25-50,123,4.3333,0.1138,0.8455
+P471043,Argan Pro-Retinol Eye Cream,Josie Maran,Eye Care,42.0,2. $25-50,642,4.4782,0.0919,0.891
+P471046,Turmeric Glow Brightening Moisturizer,KORA Organics,Moisturizers,62.0,3. $50-100,1018,4.499,0.0422,0.9136
+P471097,Facial Sculpting Wand,Shani Darden Skin Care,High Tech Tools,399.0,4. $100+,130,4.5462,0.0769,0.9
+P471101,Resurface+ AHA/BHA Niacinamide Exfoliating Pads for Face and Targeted Body,Skinfix,Treatments,50.0,2. $25-50,502,4.3586,0.0737,0.8825
+P471111,Yo Detox Charcoal Face & Body Enzyme Scrub,Wishful,Cleansers,39.0,2. $25-50,462,4.7554,0.0108,0.9719
+P471226,Vinoperfect Instant Brightening Moisturizer with Niacinamide,Caudalie,Moisturizers,65.0,3. $50-100,702,4.396,0.0855,0.8704
+P471227,Vinoperfect Brightening Glycolic Night Cream,Caudalie,Moisturizers,69.0,3. $50-100,239,4.4644,0.0669,0.8661
+P471237,Rose & Hyaluronic Acid Deep Hydration Moisturizer,fresh,Moisturizers,46.0,2. $25-50,1809,4.5871,0.0553,0.9116
+P471535,Aqua Bomb Brightening Vitamin C Cream,belif,Moisturizers,45.0,2. $25-50,1238,4.4992,0.0275,0.9273
+P471541,Vinosource-Hydra Grape Water Gel Moisturizer,Caudalie,Moisturizers,45.0,2. $25-50,185,4.2432,0.1514,0.7946
+P471761,Call It A Night Glycolic Serum + Moisturizer duo,Drunk Elephant,Value & Gift Sets,28.0,2. $25-50,112,4.3661,0.0536,0.8661
+P471793,Omega + Complex Cleansing Balm,Paula's Choice,Cleansers,29.0,2. $25-50,166,4.6566,0.0301,0.9217
+P472021,Mochi Mochi Luminous Plumping & Hydrating Moisturizer,DAMDAM,Moisturizers,48.0,2. $25-50,336,4.6696,0.0149,0.9345
+P472023,Nomad’s Cream Purifying & Exfoliating AHA Cleanser,DAMDAM,Cleansers,38.0,2. $25-50,197,4.7919,0.0102,0.9695
+P472025,Silk Rice Makeup-Removing Cleansing Oil,DAMDAM,Cleansers,46.0,2. $25-50,196,4.7602,0.0204,0.949
+P472028,Capture Totale Super Potent Eye Serum,Dior,Eye Care,85.0,3. $50-100,1092,4.3837,0.033,0.8947
+P472050,Cold Plunge Pore Remedy Moisturizer with BHA/LHA,OLEHENRIKSEN,Moisturizers,51.0,3. $50-100,1035,4.3932,0.0464,0.9208
+P472052,Microneedling Dark Spot Brightening Dots,Peace Out,Treatments,28.0,2. $25-50,365,4.0438,0.1671,0.8055
+P472057,Vegan Makeup Remover and Cleansing Brush,SEPHORA COLLECTION,High Tech Tools,14.0,1. <$25,241,4.3651,0.0498,0.8589
+P472302,Wild Nettle & Niacinamide Instant Firming Serum,alpyn beauty,Treatments,58.0,3. $50-100,288,4.7569,0.0243,0.9583
+P472448,Glass & Gloss 2-Step Facial Retexturizing & Brightening Treatment,BeautyBio,Treatments,69.0,3. $50-100,181,4.6354,0.011,0.9613
+P472451,Vinosource-Hydra Moisturizing Mask,Caudalie,Masks,42.0,2. $25-50,161,4.764,0.0124,0.9627
+P472453,Vinosource-Hydra SOS Intense Hydration Moisturizer,Caudalie,Moisturizers,45.0,2. $25-50,501,4.0679,0.1756,0.7425
+P472454,Vinosource-Hydra Moisturizing Sorbet,Caudalie,Moisturizers,38.0,2. $25-50,1960,4.2199,0.1082,0.8381
+P472455,Vinosource-Hydra SOS Hydrating Hyaluronic Acid Serum,Caudalie,Treatments,52.0,3. $50-100,189,4.6614,0.0582,0.9259
+P472468,Watermelon Glow Hyaluronic Clay Pore-Tight Facial Mask,Glow Recipe,Masks,40.0,2. $25-50,981,4.5912,0.0275,0.9388
+P472469,Green Machine Vitamin C + Green Superfoods Jelly Serum,iNNBEAUTY PROJECT,Treatments,34.0,2. $25-50,376,4.4043,0.0931,0.8537
+P472472,Ferulic Brew Facial Treatment Essence with Lactic Acid,Kiehl's Since 1851,Moisturizers,60.0,3. $50-100,514,4.5603,0.0409,0.9144
+P472810,Smart Response Serum,Dermalogica,Treatments,145.0,4. $100+,354,4.7825,0.0141,0.9802
+P472981,Advanced Génifique Wrinkle & Dark Circle Eye Cream,Lancôme,Eye Care,79.0,3. $50-100,708,4.6102,0.0226,0.9421
+P473126,CLINICAL Discoloration Repair Serum,Paula's Choice,Treatments,52.0,3. $50-100,138,4.6522,0.0507,0.942
+P473133,Fruit-Tox Resurfacing Facial Remedy,Naturally Serious,Treatments,27.0,2. $25-50,195,4.6,0.0513,0.9385
+P473148,Mask-imum Revival Hydra-Plumping Mask,Naturally Serious,Masks,27.0,2. $25-50,126,4.381,0.1111,0.873
+P473172,Glow Daily Vitamin C Gel Cream,REN Clean Skincare,Moisturizers,54.0,3. $50-100,194,4.5825,0.0309,0.9381
+P473267,Smart Clinical Repair Wrinkle Correcting Serum,CLINIQUE,Treatments,71.0,3. $50-100,1639,4.2013,0.036,0.8975
+P473304,O-Bloos Rosi Glow Drops,Drunk Elephant,Treatments,38.0,2. $25-50,159,3.6855,0.2893,0.6478
+P473322,Dewtopia 20% Acid Night Treatment,OLEHENRIKSEN,Treatments,60.0,3. $50-100,1464,4.5615,0.0239,0.9378
+P473725,Resurfacing Peel Mask,SEPHORA COLLECTION,Treatments,18.0,1. <$25,243,4.8107,0.0123,0.9753
+P473726,Smoothing Cleanser,SEPHORA COLLECTION,Cleansers,12.0,1. <$25,164,4.628,0.0549,0.9207
+P473729,Vitamin Mask,SEPHORA COLLECTION,Masks,10.0,1. <$25,201,4.4826,0.0746,0.8607
+P473820,Advanced Night Repair Eye Concentrate Matrix Synchronized Multi-Recovery Complex,Estée Lauder,Treatments,82.0,3. $50-100,1096,4.3111,0.0392,0.8896
+P473828,Ceramidin  Eye Cream with Niacinamide,Dr. Jart+,Eye Care,40.0,2. $25-50,433,4.5473,0.0277,0.9376
+P474068,Minty Mineral Hydration Face Mist with Aloe Vera,KORA Organics,Moisturizers,44.0,2. $25-50,184,4.5054,0.0543,0.9293
+P474075,AHA/BHA/Retinoid Daily Clarifying Peel,Murad,Treatments,44.0,2. $25-50,341,4.739,0.0088,0.9707
+P474079,Goodbye Acne   Complete Acne Treatment Gel,Peter Thomas Roth,Treatments,44.0,2. $25-50,459,4.2702,0.0436,0.9085
+P474110,Super-C Retinol Brighten & Correct Vitamin C Serum,StriVectin,Treatments,72.0,3. $50-100,114,4.6491,0.0702,0.9298
+P474113,TL Advanced  Tightening Neck Cream PLUS for Firming & Brightening,StriVectin,Moisturizers,95.0,3. $50-100,153,4.0392,0.2092,0.7712
+P474304,Squalane + Amino Aloe Gentle Pore-Minimizing Cleanser,Biossance,Cleansers,28.0,2. $25-50,528,4.4091,0.0739,0.8977
+P474325,Aquarius Pore Purifying BHA Cream,Herbivore,Moisturizers,46.0,2. $25-50,216,4.287,0.1389,0.8241
+P474326,Pink Cloud Soft Moisture Cream,Herbivore,Moisturizers,46.0,2. $25-50,229,3.786,0.2707,0.655
+P474329,Face Glaze Skin Barrier Protect & Glow Moisturizer,iNNBEAUTY PROJECT,Moisturizers,25.0,1. <$25,194,4.6237,0.0515,0.9227
+P474330,Bye Bye Dark Spots 4% Niacinamide Serum,IT Cosmetics,Treatments,29.0,2. $25-50,287,4.2544,0.0557,0.8606
+P474332,Bye Bye Lines 1.5% Hyaluronic Acid Serum,IT Cosmetics,Treatments,29.0,2. $25-50,299,4.4013,0.0301,0.9164
+P474333,Bye Bye Pores 10% Glycolic Acid Serum,IT Cosmetics,Treatments,29.0,2. $25-50,288,4.3125,0.0764,0.8854
+P474340,Santorini Grape Velvet Skin Drink,KORRES,Moisturizers,50.0,2. $25-50,429,4.5921,0.021,0.9371
+P474371,Evercalm Gentle Cleansing Milk,REN Clean Skincare,Cleansers,38.0,2. $25-50,160,4.325,0.0438,0.8875
+P474377,Indigo Overnight Repair Serum in Cream Treatment,Tatcha,Moisturizers,92.0,3. $50-100,1099,4.5478,0.0582,0.899
+P474809,Blue Algae Vitamin C Skinclarity Brightening Serum,Algenist,Treatments,72.0,3. $50-100,207,4.6087,0.0338,0.9179
+P474822,Daily Glycolic Cleanser,Dermalogica,Cleansers,37.0,2. $25-50,356,4.7837,0.014,0.9803
+P474823,Advanced Retinol + Ferulic Overnight Texture Renewal Peel,Dr. Dennis Gross Skincare,Treatments,82.0,3. $50-100,147,4.7415,0.0136,0.9592
+P474824,Advanced Retinol + Ferulic Overnight Wrinkle Treatment,Dr. Dennis Gross Skincare,Treatments,87.0,3. $50-100,247,4.7287,0.0243,0.9676
+P474825,Advanced Retinol + Ferulic Triple Correction Eye Serum,Dr. Dennis Gross Skincare,Eye Care,71.0,3. $50-100,304,4.4967,0.0921,0.8914
+P474826,Advanced Retinol + Ferulic Texture Renewal Serum,Dr. Dennis Gross Skincare,Treatments,76.0,3. $50-100,285,4.4596,0.0877,0.8982
+P474832,Sugar Recovery Lip Mask Advanced Therapy,fresh,Lip Balms & Treatments,28.0,2. $25-50,600,4.6933,0.0383,0.945
+P474840,Micro-Dose Anti-Aging Retinol Serum with Ceramides and Peptide,Kiehl's Since 1851,Treatments,65.0,3. $50-100,598,4.4916,0.0468,0.9147
+P474843,Absolue Soft Cream Revitalizing & Brightening Moisturizer,Lancôme,Moisturizers,150.0,4. $100+,139,4.6763,0.0072,0.9568
+P474844,Absolue Revitalizing Eye Cream,Lancôme,Eye Care,135.0,4. $100+,128,4.6094,0.0469,0.9219
+P474936,Vinopure Oil-Control Moisturizer for Acne Prone Skin,Caudalie,Moisturizers,38.0,2. $25-50,139,4.3885,0.1007,0.8417
+P474937,Vinopure Pore Purifying Gel Cleanser,Caudalie,Cleansers,30.0,2. $25-50,949,4.4615,0.0748,0.8915
+P474938,Vinopure Natural Salicylic Acid Pore Minimizing Serum,Caudalie,Treatments,52.0,3. $50-100,1359,4.3392,0.1082,0.8543
+P474939,Vinopure Natural Salicylic Acid Pore Minimizing Toner,Caudalie,Cleansers,30.0,2. $25-50,458,4.0415,0.179,0.7664
+P474953,Abeille Royale Advanced Youth Watery Oil,GUERLAIN,Moisturizers,145.0,4. $100+,1235,4.3433,0.0445,0.8826
+P474971,Daily Blemish Repairing Moisturizer,Peace Out,Moisturizers,28.0,2. $25-50,221,4.2624,0.1086,0.8597
+P475084,Extra-Firming Energy + Radiance Boosting Moisturizer,Clarins,Moisturizers,93.0,3. $50-100,202,4.3317,0.0347,0.8812
+P475086,BioLumin-C Vitamin-C Gel Moisturizer,Dermalogica,Moisturizers,69.0,3. $50-100,271,4.6384,0.0258,0.9483
+P475112,Pore Clearing Matte Moisturizer with Volcanic Clusters,innisfree,Moisturizers,24.0,1. <$25,102,4.5392,0.0392,0.8922
+P475124,The Hydrating Infused Emulsion,La Mer,Moisturizers,125.0,4. $100+,360,4.6222,0.025,0.9222
+P475159,Evercalm Redness Relief Serum,REN Clean Skincare,Treatments,60.0,3. $50-100,271,4.3985,0.0185,0.8967
+P475172,Overnight Vitalizing Mask,Sulwhasoo,Masks,54.0,3. $50-100,106,4.717,0.0283,0.9245
+P475181,Glow + Get It Cooling & Brightening Eye Balm,TULA Skincare,Eye Care,30.0,2. $25-50,334,3.9461,0.1198,0.7898
+P475182,The Cult Classic Purifying Face Cleanser,TULA Skincare,Cleansers,34.0,2. $25-50,410,3.9098,0.161,0.7366
+P475185,24-7 Moisture Hydrating Day & Night Cream,TULA Skincare,Moisturizers,54.0,3. $50-100,399,4.198,0.1003,0.8514
+P475190,Rose Glow + Get It Cooling & Brightening Eye Balm,TULA Skincare,Eye Care,32.0,2. $25-50,370,4.073,0.0838,0.8297
+P475194,Brightening Treatment Drops Triple Vitamin C Serum,TULA Skincare,Treatments,56.0,3. $50-100,275,4.2545,0.0655,0.8618
+P475201,24-7 Power Swipe Hydrating Day & Night Treatment Eye Balm,TULA Skincare,Eye Care,38.0,2. $25-50,185,4.2595,0.0649,0.8973
+P475540,Honey Halo Moisturizer Jumbo,Farmacy,Moisturizers,74.0,3. $50-100,100,4.73,0.04,0.95
+P475543,Guava Vitamin C Dark Spot Treatment Serum,Glow Recipe,Treatments,45.0,2. $25-50,750,4.2613,0.1333,0.8147
+P475589,Ginzing Vitamin C Eye Cream to Brighten and Depuff,Origins,Eye Care,37.0,2. $25-50,965,4.457,0.0404,0.9088
+P475629,Honey Whip Peptide and Collagen Moisturizer,Wishful,Moisturizers,43.0,2. $25-50,331,4.568,0.0634,0.9003
+P475630,Mini Mandelic Acid + Superfood Unity Exfoliant,Youth To The People,Cleansers,16.0,1. <$25,585,4.6684,0.0393,0.9402
+P475908,Aqua Bomb Overnight Lip Mask,belif,Lip Balms & Treatments,22.0,1. <$25,1965,4.4071,0.0372,0.884
+P475921,Double Serum Eye Firming & Hydrating Anti-Aging Concentrate,Clarins,Eye Care,82.0,3. $50-100,905,4.232,0.0453,0.8564
+P475932,Milk Marvel Dark Spot Serum with Niacinamide and Vitamin C,EADEM,Treatments,68.0,3. $50-100,221,4.4344,0.1176,0.8643
+P475951,Green Tea Hyaluronic Acid Hydrating Serum,innisfree,Treatments,30.0,2. $25-50,398,4.598,0.0603,0.9246
+P476009,Radiant Reveal Clean Brightening Vitamin C Serum,ROSE INC,Treatments,74.0,3. $50-100,165,4.6667,0.0364,0.9636
+P476010,Skin Resolution Clean Exfoliating Acid Toner,ROSE INC,Cleansers,32.0,2. $25-50,184,4.6848,0.0326,0.9348
+P476028,Heavenly Sixteen All-In-One Face Oil,Summer Fridays,Moisturizers,55.0,3. $50-100,213,4.4507,0.0939,0.8545
+P476414,5 Stars Retinol + Niacinamide Eye Serum,Sunday Riley,Eye Care,65.0,3. $50-100,1721,4.6351,0.0471,0.9425
+P476415,Acne+ 2% BHA + Azelaic Acid + Niacinamide + AHA Cleanser,Skinfix,Cleansers,35.0,2. $25-50,432,4.5648,0.0602,0.9167
+P476428,Brightening Dark Spot Vitamin C Serum,Hyper Skin,Treatments,58.0,3. $50-100,143,4.5664,0.0629,0.9301
+P476447,Debloat+ Anti-Bloat Supplement with Digestive Enzymes,The Nue Co.,Wellness,45.0,2. $25-50,172,4.2907,0.0465,0.8663
+P476459,Forest Lungs Anti-Stress Fragrance Travel Spray,The Nue Co.,Wellness,30.0,2. $25-50,199,4.2362,0.0955,0.804
+P476538,Prebiotic + Probiotic Vegan Gut Microbiome Supplement,The Nue Co.,Wellness,55.0,3. $50-100,160,4.475,0.0375,0.9062
+P476553,Skin Filter Vitamin A and Zinc Blemish + Brightening Supplement,The Nue Co.,Wellness,45.0,2. $25-50,139,4.2662,0.0576,0.8489
+P476554,Skin Hydrator Ceramide and Hyaluronic Acid Supplement,The Nue Co.,Wellness,45.0,2. $25-50,159,4.2138,0.0881,0.7925
+P476683,Full Face Sculpt Kit - 14-Day Challenge,FaceGym,High Tech Tools,75.0,3. $50-100,131,4.4733,0.0382,0.9313
+P476726,Evercalm Gentle Cleansing Gel,REN Clean Skincare,Cleansers,38.0,2. $25-50,125,4.36,0.016,0.912
+P476733,Mineral Mattescreen Sunscreen SPF 40 PA+++,Supergoop!,Sunscreen,38.0,2. $25-50,131,4.0153,0.1985,0.7557
+P476843,Cryo-Recovery Depuffing Eye Serum,Charlotte Tilbury,Eye Care,70.0,3. $50-100,511,4.3229,0.0352,0.8454
+P476876,Berry Bright Firming Vitamin C Eye Cream,KORA Organics,Eye Care,58.0,3. $50-100,408,4.6225,0.0392,0.9216
+P477157,Clearly Clean Makeup Removing Cleansing Balm,Farmacy,Cleansers,36.0,2. $25-50,624,4.6442,0.0593,0.9071
+P477492,Triple Vitamin C Brightening Bounce Cream Moisturizer,alpyn beauty,Moisturizers,49.0,2. $25-50,225,4.5422,0.0533,0.9244
+P477830,Superberry Dream Cleansing Balm,Youth To The People,Cleansers,39.0,2. $25-50,628,4.3869,0.0717,0.8424
+P477961,Get That Glow - GloPRO Facial Microneedling Discovery Set,BeautyBio,Value & Gift Sets,199.0,4. $100+,166,4.7229,0.012,0.9458
+P477985,A-Gloei Retinol Oil,Drunk Elephant,Moisturizers,72.0,3. $50-100,489,4.5501,0.0307,0.9284
+P478239,Vinopure Purifying Clay Mask,Caudalie,Masks,42.0,2. $25-50,144,4.6319,0.0347,0.9444
+P478731,Lactic Acid AHA Exfoliating Serum,Shani Darden Skin Care,Treatments,88.0,3. $50-100,255,4.6314,0.0353,0.9451
+P479304,Squalane + Copper Peptide Rapid Plumping Serum,Biossance,Treatments,68.0,3. $50-100,520,4.4654,0.0558,0.875
+P479313,Advanced Retinol + Ferulic Intense Wrinkle Cream,Dr. Dennis Gross Skincare,Moisturizers,77.0,3. $50-100,141,4.695,0.0426,0.9362
+P479318,10% Niacinamide Night Mask,Farmacy,Masks,44.0,2. $25-50,906,4.6777,0.0309,0.9492
+P479319,Pre-Show Glow Instant Retexturizing 10% AHA Treatment + Reusable Applicator,Fenty Skin,Treatments,42.0,2. $25-50,184,4.4348,0.0543,0.9076
+P479327,Plum Plump Hyaluronic Acid Moisturizer,Glow Recipe,Moisturizers,39.0,2. $25-50,1456,4.4657,0.0742,0.8764
+P479329,Ultra Facial Overnight Hydrating Face Mask with 10.5% Squalane,Kiehl's Since 1851,Masks,45.0,2. $25-50,434,4.5461,0.0622,0.9263
+P479330,Water Sleeping Mask with Squalane,LANEIGE,Masks,32.0,2. $25-50,473,4.3636,0.1099,0.8626
+P479339,Strength Trainer Peptide Boost Moisturizer,OLEHENRIKSEN,Moisturizers,51.0,3. $50-100,867,4.5456,0.0623,0.9146
+P479340,Retinol Face Stick,Peace Out,Treatments,34.0,2. $25-50,274,4.5219,0.073,0.9088
+P479348,Acne+ 2% BHA and Azelaic Acid Acne Spot Treatment,Skinfix,Treatments,30.0,2. $25-50,427,4.6323,0.0304,0.9415
+P479351,Daily Dose Hydra-Ceramide Boost + SPF 40 Sunscreen Oil PA+++,Supergoop!,Moisturizers,46.0,2. $25-50,267,4.3783,0.0974,0.8614
+P479352,The Texture Tonic AHA Liquid Exfoliating Treatment,Tatcha,Treatments,62.0,3. $50-100,219,4.6484,0.0457,0.9361
+P479353,Hyaluronic Acid Cleanser,The INKEY List,Cleansers,10.99,1. <$25,220,4.1591,0.0773,0.8273
+P479354,Omega Water Cream Moisturizer,The INKEY List,Moisturizers,10.99,1. <$25,599,4.0801,0.1302,0.778
+P479362,Triple Peptide Hydrating + Firming Oasis Serum with Hyaluronic Acid,Youth To The People,Treatments,54.0,3. $50-100,462,4.5065,0.0541,0.8918
+P479632,Pore Remedy PHA Exfoliating Serum,Dr. Jart+,Treatments,45.0,2. $25-50,431,4.1694,0.058,0.8608
+P479633,Pore Remedy Purifying Mud Mask,Dr. Jart+,Masks,9.0,1. <$25,318,4.1761,0.066,0.8396
+P479645,Targeted Wrinkle Corrector,Murad,Treatments,79.0,3. $50-100,484,4.719,0.0145,0.9649
+P479692,Awaken Peptide Depuffing Eye Gel,Dermalogica,Eye Care,59.0,3. $50-100,273,4.7033,0.033,0.9524
+P479705,Even Smoother Glycolic Retinol Resurfacing Peel Pads,Peter Thomas Roth,Treatments,52.0,3. $50-100,434,4.5968,0.0184,0.9493
+P479706,Even Smoother Glycolic Retinol Resurfacing Serum,Peter Thomas Roth,Treatments,65.0,3. $50-100,467,4.5803,0.0236,0.9422
+P479722,Mandelic Acid Treatment,The INKEY List,Treatments,11.99,1. <$25,197,4.4569,0.0457,0.9036
+P479732,Salicylic Acid 2% Anhydrous Solution Pore Clearing Serum,The Ordinary,Treatments,7.2,1. <$25,329,3.8419,0.2128,0.7356
+P479734,Smart Clinical Repair Wrinkle Correcting Eye Cream,CLINIQUE,Eye Care,57.0,3. $50-100,2017,4.24,0.0278,0.9103
+P479839,Revitalizing Supreme+ Youth Power Creme Moisturizer,Estée Lauder,Moisturizers,98.0,3. $50-100,2782,4.3203,0.0377,0.8864
+P479841,Floral Recovery Overnight Mask with Squalane,fresh,Masks,69.0,3. $50-100,1128,4.797,0.0151,0.9752
+P479971,Rénergie H.C.F. Triple Serum: For Plumping & Anti-Aging,Lancôme,Treatments,140.0,4. $100+,603,4.4395,0.0348,0.9121
+P480160,Premier Cru Anti Aging Cream Moisturizer with Hyaluronic Acid,Caudalie,Moisturizers,129.0,4. $100+,243,4.6461,0.037,0.93
+P480162,Cica Recover & Repair Multi-Use Balm,Dior,Moisturizers,60.0,3. $50-100,611,4.6416,0.0065,0.9476
+P480177,Super Multi-Corrective Anti-Aging Eye Cream,Kiehl's Since 1851,Eye Care,60.0,3. $50-100,582,4.5653,0.0309,0.9313
+P480192,Light Aura Vitamin C + Peptide Eye Cream,Summer Fridays,Eye Care,42.0,2. $25-50,381,4.3596,0.1102,0.8504
+P480274,GENIUS Liquid Skin Resurfacing 2% BHA Toner,Algenist,Cleansers,40.0,2. $25-50,165,4.7939,0.0061,0.9879
+P480278,Rapid Radiance Set,Biossance,Value & Gift Sets,35.0,2. $25-50,138,4.1159,0.1594,0.7681
+P480284,Premier Cru Anti-Aging Serum with Niacinamide and Hyaluronic Acid,Caudalie,Treatments,139.0,4. $100+,212,4.75,0.0047,0.9811
+P480285,Premier Cru Dark Circle Correcting Eye Cream,Caudalie,Eye Care,85.0,3. $50-100,404,4.6139,0.0446,0.9455
+P480447,10 + 10 Moisturizer with 10% Vitamin C + 10% Peptide Complex + Ceramides,iNNBEAUTY PROJECT,Moisturizers,35.0,2. $25-50,295,4.5661,0.0712,0.9085
+P480461,Retinol Youth Renewal Eye Masks,Murad,Eye Care,42.0,2. $25-50,368,4.6196,0.0272,0.9375
+P480606,goopglow Cloudberry Exfoliating Jelly Cleanser,goop,Cleansers,35.0,2. $25-50,414,4.0217,0.0628,0.8092
+P480612,Santorini Grape Poreless Skin Cream,KORRES,Moisturizers,38.5,2. $25-50,3167,4.4026,0.024,0.9195
+P480613,The Treatment Lotion,La Mer,Moisturizers,180.0,4. $100+,424,4.6439,0.0259,0.9316
+P480628,10% Niacinamide Booster,Paula's Choice,Treatments,49.0,2. $25-50,194,4.7526,0.0155,0.9639
+P480629,Dark Spots Serum,Peace Out,Treatments,29.0,2. $25-50,257,4.2179,0.1128,0.8444
+P481096,Nova 15% Vitamin C + Turmeric Brightening Serum,Herbivore,Treatments,65.0,3. $50-100,253,4.4941,0.0514,0.8775
+P481142,PRO Strength Vitamin A/C/E Retinoid Treatment,Peter Thomas Roth,Treatments,65.0,3. $50-100,178,4.7416,0.0112,0.9775
+P481145,Hydration Replenish Microencapsulated Plumping Gel Moisturizer,ROSE INC,Moisturizers,70.0,3. $50-100,189,4.6561,0.0423,0.9418
+P481161,Ultimune Power Infusing Anti-Aging Serum,Shiseido,Treatments,75.0,3. $50-100,870,4.5506,0.023,0.9218
+P481162,Essential Energy Hydrating Cream,Shiseido,Moisturizers,50.0,2. $25-50,452,4.5465,0.0199,0.9381
+P481164,Essential Energy Hydrating Day Cream Broad Spectrum SPF 20,Shiseido,Moisturizers,50.0,2. $25-50,926,4.5518,0.0162,0.9417
+P481169,The Silk Sunscreen Mineral Broad Spectrum SPF 50 PA++++ with Hyaluronic Acid and Niacinamide,Tatcha,Sunscreen,62.0,3. $50-100,484,3.4008,0.3017,0.564
+P481335,Brightening Saffron Serum - Radiant Rani,RANAVAT,Treatments,135.0,4. $100+,216,4.7824,0.0324,0.9398
+P481336,Resurfacing Saffron AHA Masque - Radiant Rani,RANAVAT,Masks,75.0,3. $50-100,181,4.6298,0.0442,0.9282
+P481340,Alpha Beta AHA/BHA Daily Cleansing Gel,Dr. Dennis Gross Skincare,Cleansers,39.0,2. $25-50,439,4.3166,0.1321,0.8087
+P481348,Clinical 0.3% Retinol + 2% Bakuchiol Treatment,Paula's Choice,Treatments,62.0,3. $50-100,170,4.8235,0.0118,0.9882
+P481354,Renewing Bakuchi Crème - Eternal Reign,RANAVAT,Moisturizers,95.0,3. $50-100,204,4.3676,0.0588,0.8775
+P481363,Smoothing Facial Polish - Imperial Glow,RANAVAT,Cleansers,45.0,2. $25-50,176,4.6364,0.0227,0.9545
+P481366,Isle Glow Face Moisturizer SPF 45 with Sea Moss and Niacinamide,CAY SKIN,Sunscreen,34.0,2. $25-50,445,4.2742,0.1461,0.8382
+P481367,Isle Lip Balm SPF 30 with Sea Moss and Aloe Stem Cells,CAY SKIN,Lip Balms & Treatments,14.0,1. <$25,228,4.0746,0.1535,0.7632
+P481371,Balancing Crème Cleanser - Luminous Ceremony,RANAVAT,Cleansers,45.0,2. $25-50,173,4.4682,0.0231,0.9075
+P481697,Circular Hydration Serum with Hyaluronic Acid,Dermalogica,Treatments,64.0,3. $50-100,372,4.7688,0.0081,0.9812
+P481700,Cicapair Redness Rescue Kit,Dr. Jart+,Value & Gift Sets,39.0,2. $25-50,148,4.277,0.0541,0.8784
+P481701,Cloud Cushion Plush Moisturizer with Ceramides + Peptides,EADEM,Moisturizers,58.0,3. $50-100,151,4.7483,0.0397,0.9603
+P481703,Black Tea Corset Cream Firming Moisturizer,fresh,Moisturizers,95.0,3. $50-100,153,4.0065,0.2092,0.6916
+P481732,Radiance Vitamin C Glow Serum,REN Clean Skincare,Treatments,69.0,3. $50-100,411,4.6813,0.0146,0.9635
+P481739,Barrier+ Skin Barrier Niacinamide Restoring Gel Cream,Skinfix,Moisturizers,48.0,2. $25-50,771,4.5214,0.083,0.8833
+P481748,Bright Start Vitamin C Antioxidant Brightening Moisturizer,TULA Skincare,Moisturizers,56.0,3. $50-100,228,4.4035,0.0088,0.9254
+P481817,"Beauty Elixir Prep, Set, Glow Face Mist",Caudalie,Moisturizers,49.0,2. $25-50,3406,4.2399,0.1148,0.7834
+P481825,Hydro UV Defense Sunscreen Broad Spectrum SPF 50+,LANEIGE,Sunscreen,30.0,2. $25-50,151,4.2517,0.0993,0.8146
+P481828,Nudescreen Daily Mineral Veil SPF 30,NUDESTIX,Moisturizers,36.0,2. $25-50,153,4.0588,0.098,0.8366
+P481830,Self-Tan Luxe Whipped Crème Mousse,St. Tropez,Self Tanners,48.0,2. $25-50,502,4.6335,0.0378,0.9462
+P481831,Tan Tonic Glow Drops,St. Tropez,Self Tanners,42.0,2. $25-50,1053,4.6686,0.0285,0.9392
+P481832,Gradual Tan Watermelon Daily Firming Lotion,St. Tropez,Self Tanners,29.0,2. $25-50,388,4.3247,0.0567,0.8943
+P481833,Concentrated Ginseng Renewing Cream,Sulwhasoo,Moisturizers,260.0,4. $100+,341,4.4839,0.0235,0.9296
+P481972,La Mousse OFF/ON Foaming Face Cleanser,Dior,Cleansers,50.0,2. $25-50,560,4.4214,0.0321,0.8929
+P481989,Watermelon Glow Niacinamide Sunscreen SPF 50,Glow Recipe,Sunscreen,35.0,2. $25-50,1295,3.7583,0.2541,0.6541
+P482006,Dewy Glow Moisturizer with Cherry Blossom & Niacinamide,innisfree,Moisturizers,26.0,2. $25-50,271,4.3838,0.0923,0.8561
+P482008,Self-Tanning Oil Mist,Isle of Paradise,Self Tanners,32.0,2. $25-50,320,4.3938,0.1062,0.8688
+P482025,Absolue Rich Cream Moisturizer,Lancôme,Moisturizers,270.0,4. $100+,127,4.8031,0.0079,0.9843
+P482061,Max Clear Invisible Priming Sunscreen Broad Spectrum SPF 45,Peter Thomas Roth,Sunscreen,38.0,2. $25-50,275,4.4727,0.08,0.8764
+P482074,Dream Oasis Deep Hydration Serum,Summer Fridays,Treatments,44.0,2. $25-50,487,4.7372,0.0349,0.9384
+P482260,Rice Drops Face Oil Hydrating Serum,DAMDAM,Moisturizers,68.0,3. $50-100,186,4.8548,0.0,0.9785
+P482264,Cookies N Clean Whipped Clay Pore Detox Face Mask with Salicylic Acid + Charcoal,Fenty Skin,Masks,35.0,2. $25-50,392,4.6837,0.0255,0.9566
+P482269,Get Even Sun Milk SPF 33,Josie Maran,Sunscreen,46.0,2. $25-50,300,4.7,0.0267,0.95
+P482298,Dr. Andrew Weil for Origins Mega-Mushroom Relief & Resilience Soothing Treatment Lotion,Origins,Moisturizers,40.0,2. $25-50,571,4.4028,0.0525,0.8932
+P482323,(Re) Setting Refreshing Mist SPF 40,Supergoop!,Sunscreen,34.0,2. $25-50,382,3.644,0.2408,0.6963
+P482325,Every. Single. Face. Watery Lotion SPF 50,Supergoop!,Sunscreen,34.0,2. $25-50,356,4.2753,0.1236,0.8118
+P482327,Mini Squalane Cleanser,The Ordinary,Cleansers,9.0,1. <$25,108,3.9537,0.2037,0.7315
+P482329,Retinal + Niacinamide Youth Serum,Youth To The People,Treatments,69.0,3. $50-100,317,4.5868,0.041,0.9401
+P482510,The Ultimate Soothing Cream,Augustinus Bader,Moisturizers,290.0,4. $100+,100,4.67,0.02,0.94
+P482529,Micro Essence Treatment Lotion with Bio-Ferment,Estée Lauder,Moisturizers,130.0,4. $100+,216,4.0556,0.0694,0.7778
+P482535,Strawberry Smooth BHA + AHA Salicylic Acid Serum,Glow Recipe,Treatments,42.0,2. $25-50,1025,4.5434,0.0654,0.9083
+P482540,Correct & Protect Broad Spectrum SPF 45| PA++++,Murad,Sunscreen,69.0,3. $50-100,467,4.7366,0.0193,0.9636
+P482551,C.E.O. Afterglow Brightening Vitamin C Moisturizer,Sunday Riley,Moisturizers,65.0,3. $50-100,533,4.6473,0.0338,0.9493
+P482552,The Clarifying Clay Mask Exfoliating Pore Treatment,Tatcha,Masks,70.0,3. $50-100,209,4.6316,0.067,0.9282
+P482675,Active Blast Concentrated Collagen Daily Treatment,FaceGym,Treatments,65.0,3. $50-100,101,4.6832,0.0198,0.9406
+P482676,10% Waterless Vitamin C Serum,Farmacy,Treatments,50.0,2. $25-50,828,4.43,0.0749,0.878
+P482681,Bye Bye Makeup 3-in-1 Makeup Melting Cleansing Balm,IT Cosmetics,Cleansers,42.0,2. $25-50,359,4.6741,0.0223,0.9359
+P482692,Water Bank Blue Hyaluronic Serum,LANEIGE,Treatments,45.0,2. $25-50,311,4.7363,0.0193,0.9453
+P482693,Water Bank Blue Hyaluronic Cream Moisturizer,LANEIGE,Moisturizers,40.0,2. $25-50,699,3.99,0.2089,0.7339
+P482695,Water Bank Blue Hyaluronic Gel Moisturizer,LANEIGE,Moisturizers,40.0,2. $25-50,191,4.1414,0.1675,0.8168
+P482696,Water Bank Blue Hyaluronic Eye Cream,LANEIGE,Eye Care,43.0,2. $25-50,131,4.5344,0.0305,0.916
+P482739,Urban Environment Oil-Free Sunscreen Broad-Spectrum SPF 42,Shiseido,Sunscreen,50.0,2. $25-50,1343,4.4527,0.0432,0.9084
+P482741,Urban Environment Oil-Free Mineral Sunscreen Broad-Spectrum SPF 42,Shiseido,Sunscreen,38.0,2. $25-50,484,4.3079,0.0475,0.876
+P482742,Urban Environment Fresh-Moisture Sunscreen Broad-Spectrum SPF 42,Shiseido,Sunscreen,38.0,2. $25-50,1100,4.6345,0.0118,0.9564
+P482753,Protect + Glow Daily Sunscreen Gel Broad Spectrum SPF 30,TULA Skincare,Sunscreen,38.0,2. $25-50,197,4.4264,0.0508,0.8832
+P483127,Retinol Remix 1% Retinol Treatment With Peptide & Tranexamic Acid,iNNBEAUTY PROJECT,Treatments,48.0,2. $25-50,225,4.7556,0.0178,0.9644
+P483128,Scar Gel Treatment,Dr. Zenovia Skincare,Treatments,48.0,2. $25-50,137,4.3285,0.0365,0.8905
+P483136,Targeted Anti-Aging Bakuchiol Serum,SEPHORA COLLECTION,Treatments,20.0,1. <$25,206,4.5971,0.034,0.9417
+P483137,Targeted Dark Spots Serum with Enzymes,SEPHORA COLLECTION,Treatments,20.0,1. <$25,315,4.6413,0.0159,0.9619
+P483138,Targeted Pores Serum with BHA + PHA,SEPHORA COLLECTION,Treatments,20.0,1. <$25,340,4.6853,0.0147,0.9588
+P483146,Ultra Glow Toner with Vitamins C + E,SEPHORA COLLECTION,Moisturizers,14.0,1. <$25,104,4.5865,0.0577,0.9135
+P483453,Shave Starter Set,Hanni,Value & Gift Sets,68.0,3. $50-100,180,4.5722,0.0778,0.9056
+P483455,The Weighted Razor Kit,Hanni,High Tech Tools,42.0,2. $25-50,154,4.6688,0.039,0.9481
+P483457,Shave Pillow Moisturizing Body Gel,Hanni,Moisturizers,24.0,1. <$25,152,4.6974,0.0329,0.9539
+P483643,Willow & Sweet Agave Plumping Lip Mask,alpyn beauty,Lip Balms & Treatments,28.0,2. $25-50,148,4.5405,0.0608,0.8851
+P483658,Mineral Sunscreen Zinc Oxide Broad Spectrum SPF 30,First Aid Beauty,Sunscreen,28.0,2. $25-50,246,4.4878,0.0569,0.9106
+P483661,Moon Fruit 1% Bakuchiol + Peptides Retinol Alternative Serum,Herbivore,Treatments,62.0,3. $50-100,111,4.5135,0.0901,0.9009
+P483664,Midnight  Recovery Omega-Rich Cloud Cream,Kiehl's Since 1851,Moisturizers,60.0,3. $50-100,300,4.5133,0.05,0.9
+P483679,Truth Barrier Booster Orange Ferment Vitamin C Essence,OLEHENRIKSEN,Moisturizers,48.0,2. $25-50,602,4.814,0.0116,0.9734
+P483696,Gentle Micellar Antioxidant Cleanser,The Outset,Cleansers,32.0,2. $25-50,112,4.6607,0.0089,0.9286
+P483697,Firming Vegan Collagen Prep Serum,The Outset,Treatments,46.0,2. $25-50,184,4.6848,0.0163,0.962
+P483698,Nourishing Squalane Daily Moisturizer,The Outset,Moisturizers,44.0,2. $25-50,112,4.5893,0.0268,0.9018
+P483699,Restorative Niacinamide Night Cream,The Outset,Moisturizers,54.0,3. $50-100,150,4.6,0.0467,0.9133
+P483700,Smoothing Vitamin C Eye + Expression Lines Cream,The Outset,Eye Care,42.0,2. $25-50,124,4.379,0.0968,0.879
+P483701,Daily Essentials Travel Set,The Outset,Value & Gift Sets,50.0,2. $25-50,108,4.5741,0.0463,0.8611
+P483708,Mini Essential Comfort Firming Cream,Sulwhasoo,Moisturizers,28.0,2. $25-50,257,4.5019,0.0506,0.8833
+P484067,Evercalm Barrier Support Face Oil,REN Clean Skincare,Moisturizers,60.0,3. $50-100,262,4.8397,0.0038,0.9847
+P484081,Eye Recharge + Replenish Pro-Ferm Overnight Eye Cream with Bakuchiol and Peptides,TULA Skincare,Eye Care,56.0,3. $50-100,127,4.5197,0.0315,0.9291
+P500002,Brighten. Tighten. Hydrate. 3-Piece Set,JLo Beauty,Value & Gift Sets,64.0,3. $50-100,134,4.2836,0.0597,0.903
+P500019,The True Cream - Aqua Bomb Sunscreen Broad Spectrum SPF 50,belif,Sunscreen,38.0,2. $25-50,423,4.5248,0.0095,0.9456
+P500039,The Neck Serum - With 5 Peptides | 9% Peptide Blend,Nécessaire,Moisturizers,60.0,3. $50-100,225,4.6889,0.0311,0.9467
+P500055,Active Algae Lightweight Moisturizer,KORA Organics,Moisturizers,48.0,2. $25-50,209,4.6794,0.0383,0.9187
+P500094,Hydrating Oil-Free Gel Moisturizer,Community Sixty-Six,Moisturizers,25.0,1. <$25,239,4.1213,0.0669,0.8159
+P500098,Makeup Melting Balm Cleanser,Community Sixty-Six,Cleansers,16.0,1. <$25,247,3.4008,0.2267,0.587
+P500101,Hydro Ungrip Makeup Remover + Cleansing Water,MILK MAKEUP,Cleansers,32.0,2. $25-50,139,4.6475,0.0288,0.9281
+P500102,Hydro Ungrip Makeup Removing Cleansing Balm,MILK MAKEUP,Cleansers,36.0,2. $25-50,164,4.6829,0.0305,0.939
+P500109,Hydrating Caffeine Eye Cream,Community Sixty-Six,Eye Care,18.0,1. <$25,116,4.1379,0.0948,0.8017
+P500112,N°41 Facial Sunscreen Mist with SPF 41,HABIT,Sunscreen,30.0,2. $25-50,208,4.5048,0.101,0.8702
+P500113,Detoxifying AHA/BHA Gel Cleanser,Community Sixty-Six,Cleansers,16.0,1. <$25,119,4.0504,0.0672,0.8655
+P500114,Retinol Resurfacing Night Moisturizer,Community Sixty-Six,Moisturizers,35.0,2. $25-50,241,4.0622,0.0539,0.8091
+P500117,N°38 Facial Sunscreen Mist with SPF 38,HABIT,Sunscreen,30.0,2. $25-50,111,4.3423,0.1441,0.8198
+P500121,SOS Intensive Redness Relief Serum,Tower 28 Beauty,Treatments,34.0,2. $25-50,167,4.1976,0.0958,0.8503
+P500138,Polypeptide-121 Future Cream with Peptides and Ceramides,Youth To The People,Moisturizers,68.0,3. $50-100,381,4.4462,0.063,0.8976
+P500240,Daily Milkfoliant Exfoliator,Dermalogica,Cleansers,65.0,3. $50-100,561,4.7897,0.0125,0.9715
+P500244,FIRMx Collagen Face & Eye Hydra-Gel Patches,Peter Thomas Roth,Eye Care,65.0,3. $50-100,218,4.6881,0.0275,0.9404
+P500245,C Beyond Triple Serum SPF 40 Mineral Sunscreen with Vitamin C 10% + Niacinamide,ILIA,Sunscreen,64.0,3. $50-100,634,3.6609,0.2019,0.6767
+P500288,1% Vitamin A Retinol Serum,Farmacy,Treatments,60.0,3. $50-100,453,4.766,0.011,0.9735
+P500307,Cherry Treat Conditioning + Strengthening Lip Oil,Fenty Skin,Lip Balms & Treatments,24.0,1. <$25,549,4.4481,0.0674,0.8616
+P500318,That Overnight Hustle AHA + BHA Resurfacer,JLo Beauty,Treatments,58.0,3. $50-100,125,4.448,0.032,0.904
+P500329,Plump + Juicy Lip Booster Buttery Treatment,Kosas,Lip Balms & Treatments,25.0,1. <$25,194,4.2938,0.1186,0.8299
+P500420,The Light Cream,Augustinus Bader,Moisturizers,180.0,4. $100+,195,4.3231,0.0359,0.8923
+P500471,Brume de Beauté Beauty Mist,Gucci,Moisturizers,78.0,3. $50-100,451,4.6652,0.0155,0.9424
+P500613,Banana Bright+ Vitamin C Eye Crème,OLEHENRIKSEN,Eye Care,42.0,2. $25-50,579,4.19,0.1157,0.8446
+P500618,Turmeric Glow Foaming Cleanser,KORA Organics,Cleansers,44.0,2. $25-50,290,4.6103,0.0448,0.9207
+P500626,Melting Cleansing Balm Cleanse + Balance,SEPHORA COLLECTION,Cleansers,12.0,1. <$25,161,3.9752,0.2174,0.7267
+P500633,Tea Elixir Niacinamide & Hyaluronic Acid Anti-Aging Serum,fresh,Treatments,80.0,3. $50-100,1870,4.7722,0.0091,0.9722
+P500687,Keep It Clean Hydrating Gel Cleanser with Ceramides & 10 Amino Acids,iNNBEAUTY PROJECT,Cleansers,26.0,2. $25-50,155,4.5226,0.0516,0.929
+P500696,Eye Revival Brightening Eye Cream,ROSE INC,Eye Care,55.0,3. $50-100,187,4.6898,0.0267,0.9626
+P500701,Advanced Night Repair Eye Gel-Cream,Estée Lauder,Eye Care,72.0,3. $50-100,1794,4.3489,0.034,0.8946
+P500716,10 Day Results Kit,Algenist,Value & Gift Sets,88.0,3. $50-100,258,4.8023,0.0078,0.9806
+P500718,Smart Clinical Repair Wrinkle Correcting Cream,CLINIQUE,Moisturizers,68.0,3. $50-100,1881,4.1818,0.0324,0.8937
+P500744,Clean Lip Balm & Scrub,SEPHORA COLLECTION,Lip Balms & Treatments,7.0,1. <$25,473,4.5074,0.0677,0.9091
+P500746,Hydrating Serum with Hyaluronic Acid,First Aid Beauty,Treatments,40.0,2. $25-50,112,4.5446,0.0625,0.9196
+P500756,10% Vitamin C Brightening Serum,First Aid Beauty,Treatments,50.0,2. $25-50,351,4.6781,0.0313,0.9573
+P500757,Microneedling Anti-Wrinkle Retinol Patches,Peace Out,Treatments,24.0,1. <$25,1130,3.9965,0.1593,0.7699
+P500777,Sugar Lip Balm Hydrating Treatment,fresh,Lip Balms & Treatments,25.0,1. <$25,1149,4.5222,0.0853,0.8999
+P500778,N°39 Facial Sunscreen Mist with SPF 39,HABIT,Sunscreen,30.0,2. $25-50,137,4.708,0.0511,0.9416
+P500857,Deep Relief Acne Treatment with Salicylic Acid,Murad,Treatments,45.0,2. $25-50,517,4.7079,0.0135,0.9574
+P500894,Fat Water Hydrating Milky Toner Essence with Hyaluronic Acid + Tamarind,Fenty Skin,Moisturizers,34.0,2. $25-50,298,4.6409,0.0268,0.9597
+P500988,Moon Dew 1% Bakuchiol + Peptides Retinol Alternative Eye Cream,Herbivore,Eye Care,48.0,2. $25-50,149,4.2215,0.1409,0.7919
+P500993,"The Sunscreen - 100% Mineral, Broad Spectrum SPF 30 with 20% Non-Nano Zinc, Hyaluronic Acid and Niacinamide",Nécessaire,Sunscreen,25.0,1. <$25,452,4.5332,0.0597,0.9071
+P501005,Premium BB Tinted Moisturizer with Niacinamide and SPF 40,Dr. Jart+,Moisturizers,44.0,2. $25-50,611,4.3208,0.0736,0.8756
+P501028,Ceramighty  AF Eye Cream with Ceramides,Drunk Elephant,Eye Care,60.0,3. $50-100,430,4.3884,0.0558,0.8744
+P501029,Retinol Fast-Release Wrinkle Reducing Night Serum,Kiehl's Since 1851,Treatments,85.0,3. $50-100,614,4.5163,0.0244,0.9332
+P501030,Radian-C Brightening Treatment Essence,LANEIGE,Moisturizers,39.0,2. $25-50,202,4.698,0.005,0.995
+P501031,Pore Remedy 5% Multi-Acid Radiance Peel,Dr. Jart+,Treatments,40.0,2. $25-50,108,4.5741,0.0093,0.9815
+P501157,Vitamin C Lactic Firm & Bright Eye Treatment,Dr. Dennis Gross Skincare,Eye Care,68.0,3. $50-100,184,4.7446,0.038,0.962
+P501165,SHIKULIME Mega Hydrating Moisturizer,WASO,Moisturizers,36.0,2. $25-50,540,4.6556,0.013,0.9574
+P501166,Vitamin C Lactic Oil-Free Radiant Moisturizer,Dr. Dennis Gross Skincare,Moisturizers,72.0,3. $50-100,111,4.6577,0.036,0.9459
+P501169,Vitamin C Lactic 15% Firm & Bright Serum,Dr. Dennis Gross Skincare,Treatments,85.0,3. $50-100,234,4.5256,0.0812,0.8761
+P501170,SHIKULIME Color Control Oil-Free Moisturizer SPF 30,WASO,Moisturizers,36.0,2. $25-50,490,4.1776,0.0898,0.8449
+P501171,YUZU-C Beauty Sleeping Mask,WASO,Masks,38.0,2. $25-50,481,4.5946,0.0146,0.9439
+P501176,Soft Clean Infusion Hydrating Treatment Lotion,Estée Lauder,Moisturizers,42.0,2. $25-50,456,3.8333,0.0724,0.7193
+P501178,YUZU-C Glow-On Shot Serum,WASO,Treatments,45.0,2. $25-50,356,4.4129,0.0449,0.8961
+P501187,SHIKULIME Gel-to-Oil Cleanser,WASO,Cleansers,28.0,2. $25-50,500,4.418,0.03,0.904
+P501188,SATOCANE Pore Purifying Scrub Mask,WASO,Masks,38.0,2. $25-50,485,4.567,0.0144,0.934
+P501189,KOSHIRICE Acne Calming Spot Treatment,WASO,Treatments,25.0,1. <$25,443,4.2212,0.0564,0.8533
+P501190,Vitamin C Lactic Dewy Deep Cream,Dr. Dennis Gross Skincare,Moisturizers,75.0,3. $50-100,252,4.7937,0.0119,0.9563
+P501199,YUZU-C Eye Awakening Essence,WASO,Eye Care,30.0,2. $25-50,368,4.4321,0.019,0.9158
+P501213,Squalane + Retinol Night Serum,Biossance,Treatments,72.0,3. $50-100,216,4.4676,0.0231,0.9398
+P501236,Abeille Royale Anti-Aging Double R Advanced Serum,GUERLAIN,Treatments,240.0,4. $100+,419,4.6181,0.0239,0.9427
+P501243,GOOPGLOW Exfoliating Dark Spot Sleep Serum,goop,Treatments,98.0,3. $50-100,251,4.0598,0.0598,0.8048
+P501254,Watermelon Glow AHA Night Treatment,Glow Recipe,Treatments,40.0,2. $25-50,733,4.6767,0.0396,0.9372
+P501282,C5 Super Boost Vitamin C Moisturizer,Paula's Choice,Moisturizers,45.0,2. $25-50,292,4.7021,0.024,0.9692
+P501288,C5 Super Boost Vitamin C Eye Cream,Paula's Choice,Eye Care,39.0,2. $25-50,340,4.5,0.0588,0.9029
+P501321,Luxury Sun Ritual Pore Smoothing Sunscreen SPF 30,Saint Jane Beauty,Sunscreen,38.0,2. $25-50,293,4.8328,0.0102,0.9727
+P501421,Dew Dream- Hydrating Makeup Removing Cleansing Balm with Tiger Grass,EADEM,Cleansers,30.0,2. $25-50,109,4.6881,0.0183,0.9725
+P501518,Calming Herbal Repair Overnight Recovery Balm for Skin Barrier Support,Mount Lai,Treatments,60.0,3. $50-100,160,4.0875,0.0438,0.8375
+P501581,Cocoa Cleans'r Soothing All-Over Cleansing Bar,Fenty Skin,Cleansers,14.0,1. <$25,300,4.1767,0.0633,0.8367
+P501760,Guava Vitamin C Bright-Eye Gel Cream,Glow Recipe,Eye Care,38.0,2. $25-50,922,4.487,0.0813,0.8818
+P501781,Instant Pore Perfector,Peace Out,Treatments,28.0,2. $25-50,260,4.5808,0.0538,0.9077
+P502046,GinZing Energizing Gel Cream with Caffeine & Niacinamide,Origins,Moisturizers,36.0,2. $25-50,119,4.5966,0.0336,0.9412
+P502326,Dynamic Skin Recovery SPF50 Moisturizer,Dermalogica,Sunscreen,79.0,3. $50-100,266,4.8083,0.0038,0.9774
+P502395,Concentrated Ginseng Renewing Serum,Sulwhasoo,Treatments,210.0,4. $100+,142,4.6972,0.0211,0.9789
+P502656,Secret Sauce Moisturizer,IT Cosmetics,Moisturizers,72.0,3. $50-100,920,4.0935,0.163,0.7841
+P502745,Plump + Juicy Vegan Collagen + Probiotic Spray-On Serum,Kosas,Moisturizers,48.0,2. $25-50,141,4.383,0.0709,0.8723
+P502761,Advanced Génifique Night Cream with Triple Ceramide Complex,Lancôme,Moisturizers,95.0,3. $50-100,462,4.7121,0.0065,0.9654
+P502852,NuFACE Mini+ Petite Facial Toning Device,NuFACE,High Tech Tools,245.0,4. $100+,175,4.5314,0.0171,0.9483
+P502966,Great Skin Instant Glow Serum with Niacinamide and Hyaluronic Acid,MERIT,Treatments,38.0,2. $25-50,488,4.6393,0.0246,0.9283
+P502986,Jade Facial Roller,SEPHORA COLLECTION,Wellness,22.0,1. <$25,129,4.8915,0.0,0.9922
+P502997,Salicylic Acid Acne Treatment Serum,Peace Out,Treatments,34.0,2. $25-50,123,3.6341,0.2683,0.6721
+P503197,Juneberry & Collagen Hydrating Cold Cream Cleanser,alpyn beauty,Cleansers,39.0,2. $25-50,240,4.8792,0.0125,0.9708
+P503250,Watch Ya Tone 5% Niacinamide Dark Spot Serum with Vitamin C,Fenty Skin,Treatments,42.0,2. $25-50,199,4.5829,0.0302,0.9347
+P503634,Avocado Ceramide Moisture Barrier Cleanser,Glow Recipe,Cleansers,28.0,2. $25-50,630,4.4254,0.0635,0.8887
+P503642,Squalane + Vitamin C Rose Brightening Moisturizer,Biossance,Moisturizers,56.0,3. $50-100,335,4.4149,0.0448,0.9194
+P503651,Dewtopia 5% AHA Firming Night Crème,OLEHENRIKSEN,Moisturizers,60.0,3. $50-100,339,4.8319,0.0059,0.9764
+P503652,24-7 Moisture Intense Ultra Hydrating Day & Night Cream with Hyaluronic Acid + Squalane,TULA Skincare,Moisturizers,58.0,3. $50-100,110,4.4182,0.0364,0.9091
+P503657,Premier Cru Skin Barrier Rich Moisturizer with Bio-Ceramides,Caudalie,Moisturizers,129.0,4. $100+,176,4.5739,0.0568,0.9148
+P503668,Barrier+ Triple Lipid + Collagen + Niacinamide Activating Serum,Skinfix,Treatments,69.0,3. $50-100,456,4.8246,0.0088,0.9825
+P503690,Water Drench Hyaluronic Cloud Rich Barrier Moisturizer,Peter Thomas Roth,Moisturizers,58.0,3. $50-100,222,4.7523,0.0315,0.955
+P503692,Plush Puddin’ Intensive Recovery Lip Mask With Pomegranate Sterols + Vitamin E,Fenty Skin,Lip Balms & Treatments,22.0,1. <$25,384,4.1172,0.1328,0.776
+P503693,Bouncy Brightfacial Brightening Mask with 10% Azelaic Acid + 1% Salicylic Acid,Drunk Elephant,Treatments,68.0,3. $50-100,428,4.479,0.0584,0.904
+P503721,Salicylic Acid Acne Day Dots,Peace Out,Treatments,19.0,1. <$25,400,4.37,0.04,0.8875
+P503726,B3 Nice 10% Niacinamide Serum,Sunday Riley,Treatments,65.0,3. $50-100,627,4.7273,0.0255,0.9617
+P503747,Take The Day Off Charcoal Cleansing Balm Makeup Remover,CLINIQUE,Cleansers,38.0,2. $25-50,258,4.5504,0.0194,0.9496
+P503814,Dynamic Skin Retinol Serum,Dermalogica,Treatments,92.0,3. $50-100,344,4.8081,0.0087,0.9797
+P503827,Midnight Ritual Retinol Renewal Serum,Summer Fridays,Treatments,69.0,3. $50-100,229,4.7511,0.0349,0.9518
+P503865,Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides,iNNBEAUTY PROJECT,Eye Care,34.0,2. $25-50,184,4.3913,0.1196,0.837
+P503867,Retinol Firming Cream Treatment with Peptides + Hyaluronic Acid,LANEIGE,Treatments,39.0,2. $25-50,234,4.5812,0.0043,0.9786
+P503878,Pout Preserve Peptide Lip Treatment,OLEHENRIKSEN,Lip Balms & Treatments,22.0,1. <$25,118,4.6017,0.0593,0.9068
+P503879,Wake Up Honey Eye Cream with Brightening Vitamin C,Farmacy,Eye Care,45.0,2. $25-50,572,4.6993,0.0385,0.9528
+P503891,Green Tea Hyaluronic Acid Hydrating Moisturizer,innisfree,Moisturizers,29.0,2. $25-50,498,4.755,0.0161,0.9679
+P503913,Ultra Facial Advanced Repair Barrier Cream,Kiehl's Since 1851,Moisturizers,48.0,2. $25-50,314,4.758,0.0032,0.9682
+P503920,Triple Acid Signature Peel,Shani Darden Skin Care,Treatments,125.0,4. $100+,129,4.876,0.0078,0.9922
+P503923,Super Nova 5% THD Vitamin C + Caffeine Brightening Eye Cream,Herbivore,Eye Care,48.0,2. $25-50,176,4.6136,0.017,0.9432
+P503927,Vitamin C Lactic Biocellulose Brightening Treatment Mask,Dr. Dennis Gross Skincare,Masks,12.0,1. <$25,117,4.5897,0.0684,0.9402
+P503936,Black Tea Anti-Aging Moisturizer with Retinol-Alternative BT Matrix,fresh,Moisturizers,95.0,3. $50-100,1389,4.8438,0.0022,0.984
+P503991,Algae + Moringa Universal Hydrating Face Oil,MARA,Moisturizers,72.0,3. $50-100,156,4.8718,0.0064,0.9872
+P503992,Chia + Moringa Algae Enzyme Cleansing Oil,MARA,Cleansers,58.0,3. $50-100,241,4.8797,0.0083,0.9834
+P503999,Capture Totale Le Sérum Anti-Aging Serum,Dior,Treatments,100.0,3. $50-100,500,4.446,0.02,0.922
+P504001,Ceramidin Skin Barrier Serum Toner,Dr. Jart+,Cleansers,39.0,2. $25-50,344,4.6366,0.0116,0.9679
+P504007,Ceramidin Skin Barrier Moisturizing Cream,Dr. Jart+,Moisturizers,48.0,2. $25-50,433,4.5289,0.0647,0.9169
+P504028,Multi-Peptide Eye Serum,The Ordinary,Eye Care,25.0,1. <$25,249,3.988,0.0643,0.8153
+P504042,Ceramidin Skin Barrier Moisturizing Mask,Dr. Jart+,Masks,9.0,1. <$25,360,4.6833,0.0278,0.9639
+P504043,Hydrabarrier Nourishing Face Oil,OLEHENRIKSEN,Moisturizers,58.0,3. $50-100,205,4.8146,0.0098,0.9659
+P504044,Pro-Retinol Megamoisture Face Cream,Josie Maran,Moisturizers,54.0,3. $50-100,279,4.7527,0.0108,0.9713
+P504045,Daily Dose Bioretinol + Mineral SPF 40 with Bakuchiol,Supergoop!,Treatments,46.0,2. $25-50,370,4.7297,0.0162,0.9703
+P504056,"Perfect Canvas Smooth, Prep & Plump Essence",REN Clean Skincare,Moisturizers,55.0,3. $50-100,155,4.7677,0.0065,0.9677
+P504064,Ceramidin Cream-Infused Mask,Dr. Jart+,Masks,15.0,1. <$25,339,4.6313,0.0118,0.9673
+P504071,Bright Start Retinol Alternative Brightening Eye Cream,ILIA,Eye Care,46.0,2. $25-50,460,4.3913,0.0543,0.8996
+P504073,Ultralight Moisture-Boosting Botanical Oil,The Outset,Moisturizers,44.0,2. $25-50,190,4.8316,0.0053,0.9737
+P504076,Exfoliating Revitalizing & Energizing Caffeine Micro Polish,The Outset,Cleansers,34.0,2. $25-50,180,4.7722,0.0167,0.9556
+P504125,Strawberry BHA Pore-Smooth Blur Drops,Glow Recipe,Treatments,32.0,2. $25-50,552,4.6612,0.0272,0.9565
+P504171,Fruit Babies Bestsellers Kit,Glow Recipe,Value & Gift Sets,34.0,2. $25-50,190,4.6368,0.0368,0.9471
+P504212,Berries n' Choco Kisses Set,LANEIGE,Value & Gift Sets,26.0,2. $25-50,183,4.6011,0.0656,0.9016
+P504277,Face Stone Nourishing Solid Refillable Facial Oil with Tamanu + Blue Tansy,Kate McLeod,Moisturizers,68.0,3. $50-100,134,4.6567,0.0299,0.9403
+P504309,Solar Power Luminous SPF 30 Brightening Serum,ROSE INC,Treatments,46.0,2. $25-50,267,4.4419,0.0412,0.8914
+P504325,Glowy Skin Prep Besties Set,Glow Recipe,Value & Gift Sets,52.0,3. $50-100,116,4.8534,0.0086,0.9828
+P504421,Overnight Hydrating Mask,SEPHORA COLLECTION,Masks,16.0,1. <$25,298,4.8087,0.0067,0.9832
+P504429,Hydrating Serum,SEPHORA COLLECTION,Treatments,20.0,1. <$25,299,4.8094,0.0067,0.9833
+P504433,Pro Collagen Multi-Peptide Booster,Paula's Choice,Treatments,58.0,3. $50-100,270,4.7074,0.0296,0.9667
+P504506,The Silk Serum Wrinkle-Smoothing Retinol Alternative,Tatcha,Treatments,98.0,3. $50-100,144,4.7986,0.0208,0.9653
+P504575,PRO ACV Healthy Gut Vegan Gummies with 100% Organic Apple Cider Vinegar and Probiotics,HUM Nutrition,Wellness,26.0,2. $25-50,168,4.6607,0.0179,0.9643
+P504637,Equilibrium Resurfacing Retinoid Treatment,Hourglass,Treatments,110.0,4. $100+,132,4.8712,0.0,0.9924
+P504639,Banana Bright+ Vitamin CC Eye Sticks,OLEHENRIKSEN,Eye Care,34.0,2. $25-50,299,4.5251,0.0535,0.893
+P504644,"Personalized Cleanser, SPF Day Moisturizer, Night Cream Set",PROVEN Skincare,Value & Gift Sets,169.99,4. $100+,209,4.3397,0.0766,0.8325
+P504986,Urban Environment Vita-Clear Sunscreen SPF 42,Shiseido,Sunscreen,38.0,2. $25-50,600,4.565,0.0117,0.9533
+P504988,Snow Mushroom Pore Cleanser with Exfoliating Glove,DAMDAM,Cleansers,47.0,2. $25-50,108,4.7037,0.0185,0.9722
+P505009,The POREfessional Tight ’n Toned Pore-Refining AHA+PHA Toner,Benefit Cosmetics,Cleansers,34.0,2. $25-50,700,4.6414,0.0171,0.9457
+P505020,The POREfessional Good Cleanup Foaming Cleanser,Benefit Cosmetics,Cleansers,29.0,2. $25-50,462,4.6234,0.0216,0.9524
+P505023,The POREfessional Deep Retreat Pore-Clearing Clay Mask,Benefit Cosmetics,Masks,39.0,2. $25-50,706,4.7663,0.0071,0.9802
+P505024,The POREfessional Get Unblocked Makeup-Removing Cleansing Oil,Benefit Cosmetics,Cleansers,39.0,2. $25-50,476,4.6744,0.0231,0.9496
+P505031,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,Benefit Cosmetics,Moisturizers,44.0,2. $25-50,718,4.5975,0.0209,0.9359
+P505049,barrier+ Triple Lipid + Collagen Brightening Eye Treatment,Skinfix,Eye Care,54.0,3. $50-100,277,4.8014,0.0,0.9819
+P505054,The POREfessional Speedy Smooth Mask,Benefit Cosmetics,Masks,39.0,2. $25-50,469,4.7143,0.0149,0.9701
+P505139,Phyto Nature Oxygen Cream,Dermalogica,Moisturizers,125.0,4. $100+,200,4.83,0.0,0.995
+P505158,Max Vitamin D-Fense Sunscreen Serum Broad Spectrum SPF 50,Peter Thomas Roth,Sunscreen,42.0,2. $25-50,172,4.814,0.0116,0.9826
+P505160,The Moisturizing Soft Cream Moisturizer,La Mer,Moisturizers,380.0,4. $100+,200,4.48,0.05,0.89
+P505211,(Glow)Setting 100% Mineral Powder SPF 35,Supergoop!,Sunscreen,36.0,2. $25-50,147,4.483,0.0476,0.8844
+P505338,Pore Perfecting Liquid Exfoliator with 2% BHA + Borage,alpyn beauty,Cleansers,39.0,2. $25-50,100,4.93,0.0,1.0
+P505408,GOOPGLOW Vita-C Brightening Eye Cream,goop,Eye Care,58.0,3. $50-100,100,4.21,0.04,0.85
+P505711,Polyglutamic Acid Dewy Sunscreen SPF 30,The INKEY List,Sunscreen,14.99,1. <$25,100,4.69,0.0,0.97
+P54509,Tonique Confort Re-Hydrating Comforting Toner with Acacia Honey,Lancôme,Cleansers,39.0,2. $25-50,1581,4.5585,0.0411,0.936
+P6028,Gentle Buffing Cream,Caudalie,Cleansers,35.0,2. $25-50,235,4.3021,0.1106,0.7593
+P7365,Pure Skin Clarifying Dietary Supplement,Murad,Wellness,50.0,2. $25-50,512,4.0723,0.168,0.7222
+P7880,Soy Hydrating Gentle Face Cleanser,fresh,Cleansers,39.0,2. $25-50,8733,4.3624,0.0962,0.8326
+P94421,Vinoperfect Radiance Dark Spot Serum Vitamin C Alternative,Caudalie,Treatments,82.0,3. $50-100,2913,4.2444,0.1263,0.8406
+P94812,One-Step Gentle Exfoliating Cleanser with Orange Extract,Clarins,Cleansers,39.0,2. $25-50,523,4.6138,0.0382,0.8462
+P9939,Essential-C Toner,Murad,Cleansers,42.0,2. $25-50,272,4.3088,0.0882,0.8088
+P9940,Essential-C Day Moisture Broad Spectrum SPF 30 PA+++,Murad,Moisturizers,68.0,3. $50-100,829,4.2485,0.1279,0.8592
+P9941,Essential-C Cleanser,Murad,Cleansers,44.0,2. $25-50,391,4.4962,0.0512,0.8671
